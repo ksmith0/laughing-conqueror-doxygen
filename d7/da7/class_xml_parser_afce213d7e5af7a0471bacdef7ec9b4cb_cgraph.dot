@@ -1,0 +1,15 @@
+digraph "XmlParser::~XmlParser"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="XmlParser::~XmlParser",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="XmlParser::ParseNode",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/da7/class_xml_parser.html#afb78b0f0439e77c8f35ec73bcbf2c7ac"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="XmlParser::CriticalNodeMessage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/da7/class_xml_parser.html#a62cac0bb9045db59b5e0a1fac2d2efc3"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="XmlParser::CriticalAttribute\lMessage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/da7/class_xml_parser.html#a1e74ac114a5d236490e81ecd51605567"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="XmlParser::WarnOfUnknown\lChildren",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/da7/class_xml_parser.html#ac31d974703b9cdcb0ad03d9da5945976",tooltip="This method simply warns the user of extraneous information that was contained in the node..."];
+}

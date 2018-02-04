@@ -1,0 +1,27 @@
+digraph "DataReader::~DataReader"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="DataReader::~DataReader",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="DataReader::CheckForMatching\lHeader",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d3a/class_data_reader.html#a706daf5902dc05c9e39dbb459aae29dc"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="DataReader::OpenFile",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d3a/class_data_reader.html#a62b312a29b0e5e6f18ddd88a984fa0d5"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="DataReader::CloseFile",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d3a/class_data_reader.html#a5af5e06cbf99aab1214c21fe4d3f84af"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="DataReader::RewindFile",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d3a/class_data_reader.html#a7c93ac8c1802c398106d17a64144c4a9"];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="DataReader::VerifyKnownFile\lExtension",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d3a/class_data_reader.html#a5c071751bf4f263c9daef53c63de53a5",tooltip=": Figure out how to get this to check against our enum instead of hard coding these strings ..."];
+  Node6 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="StringManipulation\l::TokenizeString",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d2b/namespace_string_manipulation.html#a4aa49767efe3ea44a39d90ff3cb603b0"];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="DataReader::ReadBuffer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d3a/class_data_reader.html#ae0c0e92e29f70e6f176d4983081785a9"];
+  Node1 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="DataReader::ReadHeader",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d3a/class_data_reader.html#ace859054d5444346fbca8ec1067f58ae"];
+  Node1 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="DataReader::ReadDataBuffer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d3a/class_data_reader.html#ae0f3d84d6a8ff6c13e8ffa5bed51482b"];
+  Node1 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="DataReader::ReadScalarBuffer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d3a/class_data_reader.html#ac4879fba320371021d4ae18a37fc99a2"];
+}

@@ -1,0 +1,17 @@
+digraph "TEST_FIXTURE"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="TEST_FIXTURE",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="XiaData::GetEnergySums",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#acdb12ff4d003a85ef15d579932271095"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="XiaData::GetFilterBaseline",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#a14dc218717636bd6b1b4bfbf8e566cd1"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="XiaData::GetQdc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#a7b617d36e152efa74c4f657bc3848c81"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="XiaData::GetExternalTimeLow",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#ac0a5410997d9b116ebae66651a3278c8"];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="XiaData::GetExternalTimeHigh",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#a7a35b41ce4920c43eaaa4ce1c46ffaac"];
+}

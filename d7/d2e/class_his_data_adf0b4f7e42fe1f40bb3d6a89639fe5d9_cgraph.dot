@@ -1,0 +1,15 @@
+digraph "HisData::GetData"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="HisData::GetData",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="HisData::Get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d2e/class_his_data.html#a69d1c50363a5f9c44ef8538530599f40",tooltip="Return an element of the array. "];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="HisData::Set",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d2e/class_his_data.html#a939752c8da98b0953ab3d5bc578d391b",tooltip="Set an element of the array at a given index. "];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="HisData::Delete",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d2e/class_his_data.html#a3b5241488d9daf839ec2435f89148b8b",tooltip="Delete the data arrays and reset all variables. "];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="HisData::operator[]",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d2e/class_his_data.html#aa0651d4a9a02a13b6e1df22bb6a7b6cd",tooltip="Array subscript overload. No array range checking! "];
+}

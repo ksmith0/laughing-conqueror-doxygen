@@ -1,0 +1,11 @@
+digraph "LdfFile::Reset"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="LdfFile::Reset",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="LdfFile::SetRunNumber",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d7e/class_ldf_file.html#a5780b83f51cec5f78c497b39f36866f2"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="LdfFile::GetNumMissing",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d7e/class_ldf_file.html#a31ca9c7c7b70e0d13fab0e96b8c20f78",tooltip="Return the number of missing or dropped spill chunks. "];
+}

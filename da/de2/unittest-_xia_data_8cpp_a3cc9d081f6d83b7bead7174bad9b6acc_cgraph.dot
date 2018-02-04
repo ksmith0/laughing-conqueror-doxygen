@@ -1,0 +1,15 @@
+digraph "TEST"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="XiaData::Initialize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#a4d60bfdab03855cc0b2a0a55e484bf88",tooltip="Initialize all variables and set them to some default values. "];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="XiaData::SetTime",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#a45189c3a5409a4f6e1edddf46f78d402",tooltip="Sets the calculated arrival time of the signal. "];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="XiaData::CompareTime",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#ab474bcbc4813df18a20e015c76df8db7",tooltip="A method that will compare the times of two XiaData classes this method can be used in conjunction wi..."];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="XiaData::GetTime",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#ac11c489cabed7180f6516d724d387a56"];
+}

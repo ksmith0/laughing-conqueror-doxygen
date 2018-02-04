@@ -1,0 +1,31 @@
+digraph "DetectorDriverXmlParser::ParseNode"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="DetectorDriverXmlParser\l::ParseNode",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="XmlInterface::get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/df9/class_xml_interface.html#a5a437bc25ac0f9ecc65cdebf6c664ad0"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="XmlInterface::XmlInterface",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/df9/class_xml_interface.html#a9924d1a9f16987091b58c70ed13a5718"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="XmlInterface::GetDocument",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/df9/class_xml_interface.html#a3c935eddf6f5905cf461c1cef806e38a"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="XmlInterface::~XmlInterface",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/df9/class_xml_interface.html#a9326df5bd548bd9a40b62dee6a2e3025",tooltip="Default destructor that deletes the instance when its called. "];
+  Node4 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="XmlInterface::operator=",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/df9/class_xml_interface.html#ac853fae42b1b3446a00a0d37e50d670d",tooltip="copy constructor "];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="DetectorDriver::SetTrace\lAnalyzers",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d91/class_detector_driver.html#a9d8c91a23592fc22bf9fdb9f4875bb84"];
+  Node7 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="DetectorDriver::~Detector\lDriver",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d91/class_detector_driver.html#ac74cc085032fae77184ac8a773afa74a"];
+  Node7 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="DetectorDriver::Detector\lDriver",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d91/class_detector_driver.html#aac6fa05787b262bb9ca406e36a58668a"];
+  Node9 -> Node1 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="PaassException::what",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/dc3/class_paass_exception.html#a3a96bbd94cef6ce246f497ab0341182d"];
+  Node7 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="DetectorDriver::operator=",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d91/class_detector_driver.html#ae4914261379164fe397b7d2726ec38dd",tooltip="Equality constructor. "];
+  Node1 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="DetectorDriver::SetEvent\lProcessors",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d91/class_detector_driver.html#a124984bae45301b30b9dccfb1a50b125"];
+}

@@ -1,0 +1,22 @@
+digraph "CommandHolder::wrap_"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="CommandHolder::wrap_",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="CommandHolder::GetPrev",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d2e/class_command_holder.html#a84e85995e07d19c455ca942d3722e2ec",tooltip="Get the previous command entry. "];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Terminal::GetCommand",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d46/class_terminal.html#afef43bf766d6ea1e2b739d231c84f57d",tooltip="Wait for the user to input a command. "];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="main",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dae/_c_terminal_test_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97"];
+  Node3 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Poll::get_traces",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/db0/class_poll.html#a7bc77d04169be53d1a3553e0a55932d6",tooltip="Acquire raw traces from a pixie module. "];
+  Node2 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="CommandHolder::Capture",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d2e/class_command_holder.html#a9263f7602119a4b47dfa5b6db90d8e20",tooltip="Capture the current command line text and store it for later use. "];
+  Node6 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="CommandHolder::GetNext",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d2e/class_command_holder.html#a1ef18b7966f6834afd70859a89f50517",tooltip="Get the next command entry. "];
+  Node7 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

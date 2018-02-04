@@ -1,0 +1,13 @@
+digraph "ProcessedXiaData::ProcessedXiaData"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="ProcessedXiaData::Processed\lXiaData",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="XiaData::GetTrace",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#a94d10f0eb065dd14032b8b666bfcf663"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Trace::SetIsSaturated",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/db7/class_trace.html#a15dc02de4d6da6b3428474ea3011c6ea"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="XiaData::IsSaturated",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#a71da12674be88f691bc00b7b0090c3f1"];
+}

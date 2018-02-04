@@ -1,0 +1,9 @@
+digraph "MCA_args::CheckTime"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="MCA_args::CheckTime",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="MCA::GetRunTime",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/def/class_m_c_a.html#a86ec2de5b49c9e24fc8c612ef42cff4a",tooltip="Return the length of time the MCA has been running. "];
+}

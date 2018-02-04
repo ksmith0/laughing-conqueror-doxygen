@@ -1,0 +1,42 @@
+digraph "HistUnpacker"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="HistUnpacker",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Unpacker",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/de8/class_unpacker.html"];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" eventList" ,fontname="Helvetica"];
+  Node3 [label="std::vector\< std::deque\l\< XiaData * \> \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node4 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" elements" ,fontname="Helvetica"];
+  Node4 [label="std::deque\< XiaData * \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node5 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" elements" ,fontname="Helvetica"];
+  Node5 [label="XiaData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html",tooltip="A pixie16 channel event. "];
+  Node6 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" qdc_\neSums_\ntrace_" ,fontname="Helvetica"];
+  Node6 [label="std::vector\< unsigned\l int \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node7 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" mask_" ,fontname="Helvetica"];
+  Node7 [label="XiaListModeDataMask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d76/class_xia_list_mode_data_mask.html"];
+  Node4 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" rawEvent" ,fontname="Helvetica"];
+  Node8 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" maskMap_" ,fontname="Helvetica"];
+  Node8 [label="std::map\< unsigned\l int, std::pair\< std\l::string, unsigned int \> \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node9 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" histCount_" ,fontname="Helvetica"];
+  Node9 [label="std::map\< HistKey_,\l int \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node10 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" treeEntries_" ,fontname="Helvetica"];
+  Node10 [label="std::map\< TH1 *, long \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node11 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" newHists_" ,fontname="Helvetica"];
+  Node11 [label="std::vector\< std::pair\l\< HistKey_, TVirtualPad * \> \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node12 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" eventData_" ,fontname="Helvetica"];
+  Node12 [label="HistScannerChanData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d48/class_hist_scanner_chan_data.html"];
+  Node13 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="TObject",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node14 -> Node12 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" hitMap_" ,fontname="Helvetica"];
+  Node14 [label="std::vector\< std::pair\l\< int, int \> \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node15 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" histos_" ,fontname="Helvetica"];
+  Node15 [label="std::map\< TVirtualPad\l *, HistMap_ \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node16 -> Node15 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" elements" ,fontname="Helvetica"];
+  Node16 [label="std::map\< K, T \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip="STL class. "];
+  Node17 -> Node16 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" keys" ,fontname="Helvetica"];
+  Node17 [label="K",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node18 -> Node16 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" elements" ,fontname="Helvetica"];
+  Node18 [label="T",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}

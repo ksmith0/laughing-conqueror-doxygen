@@ -1,0 +1,15 @@
+digraph "Client::Get"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Client::Get",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Server::Init",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/db6/class_server.html#a2c64c41dce5c09acd055f828cff0eb10",tooltip="Initialize the serv object and open a specified port. Returns false if the socket fails to open or th..."];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Server::RecvMessage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/db6/class_server.html#a0dee8e3863d0bb70c72f3a0a52e2dc8b"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Server::SendMessage",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/db6/class_server.html#a4287186ae68788a79b6400345961085e"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Server::Close",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/db6/class_server.html#a3129a820b2f4f5064475033dab6c8348",tooltip="Close the socket. "];
+}

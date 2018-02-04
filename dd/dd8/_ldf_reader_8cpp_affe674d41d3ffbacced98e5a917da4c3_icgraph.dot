@@ -1,0 +1,17 @@
+digraph "push_back"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="push_back",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="DetectorLibrary::push_back",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dbe/class_detector_library.html#a9568c307053a8c7c23d81af11af8bd37"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="OutputHisFile::SetFlushWait",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d7d/class_output_his_file.html#a8e5872a99fec75f5cf03e13eb4f89afb",tooltip="Set the number of fills to wait between file Flushes. "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Poll::get_traces",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/db0/class_poll.html#a7bc77d04169be53d1a3553e0a55932d6",tooltip="Acquire raw traces from a pixie module. "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="fileInformation::size",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/db0/classfile_information.html#ab5c4ce6424f385d02579280491611950"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="Unpacker::AddEvent",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/de8/class_unpacker.html#a73aa13070de679d80a3cc5f327f3f606"];
+}

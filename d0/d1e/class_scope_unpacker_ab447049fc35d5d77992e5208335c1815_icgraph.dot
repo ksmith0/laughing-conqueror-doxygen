@@ -1,0 +1,13 @@
+digraph "ScopeUnpacker::ResetGraph"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="ScopeUnpacker::ResetGraph",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="ScopeUnpacker::Plot",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d1e/class_scope_unpacker.html#aa68f23ae94ba7bfe4aded8f36ef379b8",tooltip="Plot the current event. "];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="ScopeUnpacker::ProcessEvents",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d1e/class_scope_unpacker.html#a6f396dfd3e7a0c25de3d0919a1791a11"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="ScopeUnpacker::ProcessRaw\lEvent",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d1e/class_scope_unpacker.html#a72f39d42058753f97fd4499fd6b2b79f"];
+}

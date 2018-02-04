@@ -1,0 +1,21 @@
+digraph "XiaData::GetId"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="XiaData::GetId",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="SkeletonUnpacker::Process\lRawEvent",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/de2/class_skeleton_unpacker.html#ab489608dad5ee12699ad2e17c5057605",tooltip="Process all events in the event list. "];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="SkeletonUnpacker::\l~SkeletonUnpacker",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/de2/class_skeleton_unpacker.html#ae6a65d690a81fac6d5e0ebdefa0e4c55",tooltip="Destructor. "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="UtkUnpacker::RawStats",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d48/class_utk_unpacker.html#a61ba5974ee476d5c3ab316b5b6759204",tooltip="Add an event to generic statistics output. "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="XiaData::operator==",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#a396219ec180ae84da5abaeb3e3f66357",tooltip="Equality operator that compares checks if we have the same channel (i.e. the ID and Time are identica..."];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="XiaData::operator!=",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#a4c19b3f33b1b30e40958f21e52b2579d",tooltip="The conjugate of the equality operator. "];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="XiaData::CompareId",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#aae18ee188fa07f1f6f3429237b188fe2",tooltip="A method that will compare the unique ID of two XiaData classes. "];
+  Node7 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/de2/unittest-_xia_data_8cpp.html#ab7a7339d46ef526171977725566f6cbd"];
+}

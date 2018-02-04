@@ -1,0 +1,15 @@
+digraph "HisData::Delete"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="HisData::Delete",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="HisData::~HisData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d2e/class_his_data.html#a22d7a65882f2e77d78d1501efef43ad3",tooltip="Destructor. "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="HisData::Initialize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d2e/class_his_data.html#a16a892df4f956c63d9c5350255b54721",tooltip="Initialize the int or short array to a specified size_. "];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="HisData::IsInit",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d2e/class_his_data.html#a22af88ab9b91ebedb48bb132e27a3eb3",tooltip="Return true if the array is initialized and ready to read data. "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="HisData::GetData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d2e/class_his_data.html#adf0b4f7e42fe1f40bb3d6a89639fe5d9",tooltip="Return a pointer to the raw data array. "];
+}

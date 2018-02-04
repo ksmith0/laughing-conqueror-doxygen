@@ -1,0 +1,23 @@
+digraph "SkeletonInterface::~SkeletonInterface"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="SkeletonInterface::\l~SkeletonInterface",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="SkeletonInterface::\lExtraCommands",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dab/class_skeleton_interface.html#a66256b7dbfc21708c7d6872bbcd13cd0"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="SkeletonInterface::\lExtraArguments",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dab/class_skeleton_interface.html#ab07e6675f000ed03f01f7f462629cd25"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="SkeletonInterface::\lArgHelp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dab/class_skeleton_interface.html#a6c5a4bfa211f07126679b2dfcf5a4cd2"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="ScanInterface::AddOption",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/dfc/class_scan_interface.html#a699255fc22a8efde7ac261f8e37f3699",tooltip="Pointer to class derived from Unpacker class. "];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="if",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d13/_acquisition_2_setup_2source_2_c_make_lists_8txt.html#ac278f6c11e929db7e8b8b98504af04a4"];
+  Node6 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="install",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/db3/_analysis_2_resources_2tests_2_c_make_lists_8txt.html#a5f1c6f3e6310280508125bd68fb2520d"];
+  Node6 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="endif",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/de0/_acquisition_2_m_c_a_2source_2_c_make_lists_8txt.html#aeb1e8c468f68e07ffda16b89438d9b73"];
+  Node1 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="SkeletonInterface::\lSyntaxStr",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dab/class_skeleton_interface.html#a8a87f81e27d860a193e57dcdb745f270"];
+}

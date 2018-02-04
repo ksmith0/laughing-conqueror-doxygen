@@ -1,0 +1,13 @@
+digraph "LdfFile::GetNumMissing"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="LdfFile::GetNumMissing",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="LdfFile::Write",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d7e/class_ldf_file.html#afa38a5798f77c2b3457ac0cdf4ca7a62"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="LdfFile::Read",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d7e/class_ldf_file.html#a7cfa91ca6124805f6c1f5be85364ec2a",tooltip="Read a DIR buffer from a file. Return false if buffer has the wrong header and return true otherwise..."];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="LdfFile::Reset",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d7e/class_ldf_file.html#a7b041505fe4137501d1eacf363787015",tooltip="Set initial values. "];
+}

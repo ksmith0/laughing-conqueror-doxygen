@@ -1,0 +1,11 @@
+digraph "Terminal::Close"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Terminal::Close",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Terminal::SaveCommandHistory",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d46/class_terminal.html#ac4bc120aa4401e57bd39edf799d8118c",tooltip="Save previous commands to a file. "];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="unset_signal_handlers",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d93/_c_terminal_8cpp.html#a0343ae20e674525cf386f2cba4447015"];
+}

@@ -1,0 +1,13 @@
+digraph "ScanInterface::CmdControl"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="ScanInterface::CmdControl",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="start_cmd_control",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d60/_scan_interface_8cpp.html#ac7c80654c86b236bc88ceb5de8694369"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="ScanInterface::Execute",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/dfc/class_scan_interface.html#a77b6166db2cc17ca956235ba7447616e",tooltip="Run the program. "];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="main",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d0e/event_reader_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97"];
+}

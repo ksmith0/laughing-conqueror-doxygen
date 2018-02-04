@@ -1,0 +1,24 @@
+digraph "TauAnalyzer::~TauAnalyzer"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="TauAnalyzer::~TauAnalyzer",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="TauAnalyzer::Analyze",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d6d/class_tau_analyzer.html#a0f5dff5bca5d6c6b19f155204a68aaaa"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="ChannelConfiguration\l::GetType",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d20/class_channel_configuration.html#aba4539c47063c552522bcf7c20d5bf29"];
+  Node2 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="ChannelConfiguration\l::GetSubtype",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d20/class_channel_configuration.html#aaa6fcf267aebd6df6fa3df5510cfaeea"];
+  Node2 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="TraceAnalyzer::Analyze",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/dbc/class_trace_analyzer.html#a0915fb97c3ebe928cab17deff5e497ec"];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="TraceAnalyzer::EndAnalyze",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/dbc/class_trace_analyzer.html#ae7ac212d764d0e394fcb323f68d23c66"];
+  Node2 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="Globals::get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/daf/class_globals.html#ae66fa0173342202c96b13d71a6522512",tooltip="Instance is created upon first call. "];
+  Node2 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="Globals::GetClockInSeconds",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/daf/class_globals.html#a02ea3605db675e1c5504de0ff317d16b"];
+  Node2 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="Trace::SetTau",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/db7/class_trace.html#a9690626f8a9e609a00a7aad4c996027f"];
+  Node2 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

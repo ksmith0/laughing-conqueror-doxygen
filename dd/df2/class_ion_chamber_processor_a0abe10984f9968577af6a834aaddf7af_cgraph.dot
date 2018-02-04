@@ -1,0 +1,19 @@
+digraph "IonChamberProcessor::DeclarePlots"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="IonChamberProcessor\l::DeclarePlots",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="EventProcessor::DeclareHistogram1D",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d65/class_event_processor.html#aac0d7f24194df48f204ebb9c9b75e19d",tooltip="Declares a 1D histogram calls the C++ wrapper for DAMM. "];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Plots::DeclareHistogram1D",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d8b/class_plots.html#a126b1dfe1d671776ee1caddc7cc249b9",tooltip="Declares a 1D histogram calls the C++ wrapper for DAMM. "];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hd1d_",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d57/_scanor_8hpp.html#ae9985183725e9354913756c7f86d355a",tooltip="create a DAMM 1D histogram args are damm id, half-words per channel, param length, hist length, low x-range, high x-range, and title "];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="EventProcessor::DeclareHistogram2D",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d65/class_event_processor.html#a37b6d5ad90cc6e55c8021682a355764a",tooltip="Declares a 2D histogram calls the C++ wrapper for DAMM. "];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="Plots::DeclareHistogram2D",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d8b/class_plots.html#a59a2ffc3288d877c695346d82499e769",tooltip="Declares a 2D histogram calls the C++ wrapper for DAMM. "];
+  Node6 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="hd2d_",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d57/_scanor_8hpp.html#a65d497b6686f1daba9896091bada3eb1",tooltip="create a DAMM 2D histogram "];
+}

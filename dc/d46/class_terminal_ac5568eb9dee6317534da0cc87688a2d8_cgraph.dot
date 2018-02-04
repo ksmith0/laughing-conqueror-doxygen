@@ -1,0 +1,9 @@
+digraph "Terminal::print"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Terminal::print",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Terminal::refresh_",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d46/class_terminal.html#a9e674b8f0c4974752a2c72da2e51281e",tooltip="Refresh the terminal. "];
+}

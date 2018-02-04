@@ -1,0 +1,15 @@
+digraph "BufferType::Read"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="BufferType::Read",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="PLD_header::SetRunTime",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/deb/class_p_l_d__header.html#abb25a8ddc6693e160ff12a61ba583f59"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="DIR_buffer::SetRunNumber",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/deb/class_d_i_r__buffer.html#a29acb60844994432a8c1aae9f02bda07"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="HEAD_buffer::SetRunNumber",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d68/class_h_e_a_d__buffer.html#a6e2bc688cc758a2035d757283a15f0ec"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="DATA_buffer::GetNumMissing",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dff/class_d_a_t_a__buffer.html#a86c59c224aa4a9b86dc8c06da3bf3997",tooltip="Return the number of missing or dropped spill chunks. "];
+}

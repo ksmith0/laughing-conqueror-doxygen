@@ -1,0 +1,11 @@
+digraph "unittest_trace_variables::max_pair"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="unittest_trace_variables\l::max_pair",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="TEST_FIXTURE",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/dc7/unittest-_gsl_fitter_8cpp.html#aa105876cb6b19358f156ef9ba305c4f0"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d7b/unittest-_helper_functions_8cpp.html#a011ec4e192ce8a6b947adf33baa963e8"];
+}

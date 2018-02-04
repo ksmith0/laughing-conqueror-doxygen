@@ -1,0 +1,14 @@
+digraph "Terminal::PrintPrompt"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Terminal::PrintPrompt",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Terminal::print",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d46/class_terminal.html#ac5568eb9dee6317534da0cc87688a2d8",tooltip="Force a character string to the output screen. "];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Terminal::refresh_",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d46/class_terminal.html#a9e674b8f0c4974752a2c72da2e51281e",tooltip="Refresh the terminal. "];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Terminal::update_cursor_",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d46/class_terminal.html#abd5d806cfba1fbe2a13bc131cd3edb3f",tooltip="Update the positions of the physical and logical cursors. "];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

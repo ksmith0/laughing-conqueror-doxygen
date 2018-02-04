@@ -1,0 +1,20 @@
+digraph "GainToggler::operator()"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="GainToggler::operator()",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="PixieInterface::ToggleGain",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dc6/class_pixie_interface.html#ae66119213d67fc56d52553b4617e9621"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="PixieInterface::ToggleChannelBit",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dc6/class_pixie_interface.html#a448ef741698cfdc9e48dc47bd4639070"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="PixieInterface::ReadSglChanPar",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dc6/class_pixie_interface.html#ab9aa18adad4d33916a225e1ad2d7d177"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Display::WarningStr",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d6a/namespace_display.html#a0ca7c8835e858cf0b1e0cce72a41ab9c"];
+  Node3 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="PixieInterface::WriteSgl\lChanPar",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dc6/class_pixie_interface.html#a31af18177f95b6c8e23ad32e7e3bdae7"];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="PixieInterface::PrintSgl\lChanPar",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dc6/class_pixie_interface.html#aed6aa4fe372ef3e1e658915fb7cd3885"];
+  Node7 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

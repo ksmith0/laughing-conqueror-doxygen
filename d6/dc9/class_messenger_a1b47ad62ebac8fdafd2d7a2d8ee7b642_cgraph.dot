@@ -1,0 +1,15 @@
+digraph "Messenger::start"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Messenger::start",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Messenger::detail",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dc9/class_messenger.html#a24d0db0aece5830b3de62310f5753be8"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Messenger::warning",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dc9/class_messenger.html#a130e83285254c9149629842ca2aa6f20"];
+  Node3 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Messenger::run_message",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dc9/class_messenger.html#a770167e668ce59153a05f61a30b548b0"];
+  Node4 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

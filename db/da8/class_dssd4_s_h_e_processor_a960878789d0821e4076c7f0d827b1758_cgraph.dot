@@ -1,0 +1,13 @@
+digraph "Dssd4SHEProcessor::pickEventType"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Dssd4SHEProcessor::\lpickEventType",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="SheEvent::get_beam",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d98/class_she_event.html#a77da7213434f3719cd717513f39aed2e"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="SheEvent::get_mwpc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d98/class_she_event.html#a92d10cd859438e91616c763eabd1b274"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="SheEvent::get_veto",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d98/class_she_event.html#a5de6a379f54c16a76ff705d4e5702e8d"];
+}

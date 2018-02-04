@@ -1,0 +1,18 @@
+digraph "StatsHandler::SetDumpInterval"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="StatsHandler::SetDumpInterval",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="StatsHandler::GetDataRate",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d58/class_stats_handler.html#a32f7e84315adff7ced7609444f35ef66"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="StatsHandler::GetTotalDataRate",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d58/class_stats_handler.html#ae97addec3c4a6aeb4e405fc4d940638e"];
+  Node3 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="StatsHandler::GetEventRate",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d58/class_stats_handler.html#aa03fc40af12554774f2407a0a56b5d33"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="StatsHandler::GetTotalTime",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d58/class_stats_handler.html#a10f966796de79c55bfa75c6e60bf25ce",tooltip="Return the total run time. "];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="StatsHandler::SetXiaRates",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d58/class_stats_handler.html#a7c4289a00263f4c9e9bae690cd9435f2",tooltip="Set the ICR and OCR from the XIA module. "];
+}

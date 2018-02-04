@@ -1,0 +1,16 @@
+digraph "TraceGrabber::operator()"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="TraceGrabber::operator()",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="PixieInterface::AcquireTraces",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dc6/class_pixie_interface.html#adb12c185e4b6c9af56917c4ea075255b"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Display::ErrorStr",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d6a/namespace_display.html#a762315ce58efcb1203edfcb74158f59b"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="PixieInterface::GetTrace\lLength",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dc6/class_pixie_interface.html#ac733d7e707e08abbb56b90e86e633f5d"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="PixieInterface::ReadSglChan\lTrace",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dc6/class_pixie_interface.html#a09f8cdd93aa9d18d89a6b558badcee13"];
+  Node5 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

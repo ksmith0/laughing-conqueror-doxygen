@@ -1,0 +1,38 @@
+digraph "DetectorDriver::DeclarePlots"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="DetectorDriver::DeclarePlots",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="DetectorDriver::DeclareHistogram1D",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d91/class_detector_driver.html#a745e3089d76a4fa437e44a7e82b9424e"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Plots::DeclareHistogram1D",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d8b/class_plots.html#a126b1dfe1d671776ee1caddc7cc249b9",tooltip="Declares a 1D histogram calls the C++ wrapper for DAMM. "];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="hd1d_",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d57/_scanor_8hpp.html#ae9985183725e9354913756c7f86d355a",tooltip="create a DAMM 1D histogram args are damm id, half-words per channel, param length, hist length, low x-range, high x-range, and title "];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="DetectorDriver::DeclareHistogram2D",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d91/class_detector_driver.html#ac59589819db9e526e9abecb6328cc0e4",tooltip="Declares a 2D histogram calls the C++ wrapper for DAMM. "];
+  Node5 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="Plots::DeclareHistogram2D",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d8b/class_plots.html#a59a2ffc3288d877c695346d82499e769",tooltip="Declares a 2D histogram calls the C++ wrapper for DAMM. "];
+  Node6 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="hd2d_",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d57/_scanor_8hpp.html#a65d497b6686f1daba9896091bada3eb1",tooltip="create a DAMM 2D histogram "];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="Globals::get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/daf/class_globals.html#ae66fa0173342202c96b13d71a6522512",tooltip="Instance is created upon first call. "];
+  Node1 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="DetectorLibrary::get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dbe/class_detector_library.html#a6ab3ff825daa8b607865086741bc9b2c"];
+  Node1 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="DetectorLibrary::HasValue",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dbe/class_detector_library.html#ad31d4f3ce8f28645df931cf94f7aad9d"];
+  Node10 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="DetectorLibrary::GetIndex",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dbe/class_detector_library.html#a90877646fc3c5c845baa0ff3643335d4"];
+  Node1 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="DetectorLibrary::at",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dbe/class_detector_library.html#a7dc03a85fdd914647e3b4405524d8f02"];
+  Node12 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="DetectorLibrary::ModuleFrom\lIndex",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dbe/class_detector_library.html#a9297fb25cacc210dd6d2c1fd50675543"];
+  Node1 -> Node14 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="DetectorLibrary::Channel\lFromIndex",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dbe/class_detector_library.html#aac228e18e7452d8233ad77195e05278b"];
+  Node1 -> Node15 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="Globals::GetPixieRevision",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/daf/class_globals.html#abbd54bd790423391fa9d30cf39c3737d"];
+  Node1 -> Node16 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="Display::ErrorStr",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d6a/namespace_display.html#a762315ce58efcb1203edfcb74158f59b"];
+}

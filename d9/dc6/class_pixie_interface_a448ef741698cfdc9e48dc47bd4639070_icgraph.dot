@@ -1,0 +1,19 @@
+digraph "PixieInterface::ToggleChannelBit"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="PixieInterface::ToggleChannelBit",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="PixieInterface::ToggleGain",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dc6/class_pixie_interface.html#ae66119213d67fc56d52553b4617e9621"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="GainToggler::operator()",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/dc4/class_gain_toggler.html#a76d007d56b6b5c7aff8198b75247d7b4"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="PixieInterface::ToggleGood",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dc6/class_pixie_interface.html#ad3fd214177f74ad393e0892d4e57e67e"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="GoodToggler::operator()",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/dee/class_good_toggler.html#a9d0e33e2af3d0430c65f155e5c9004a5"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="PixieInterface::TogglePolarity",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dc6/class_pixie_interface.html#aeeb829ac5910cc009fbd47972d691739"];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="PolarityToggler::operator()",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/dc6/class_polarity_toggler.html#a6705a25308576912ce1c8d5b0fa73d58"];
+}

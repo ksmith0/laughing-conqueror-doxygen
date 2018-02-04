@@ -1,0 +1,13 @@
+digraph "TEST_FIXTURE"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="TEST_FIXTURE",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="TrapFilterParameters\l::GetFlattop",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d97/class_trap_filter_parameters.html#a74c165a6f46976a1439bb51d34a9f7d2",tooltip="Returns the value of the flattop. "];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="TrapFilterParameters\l::GetRisetime",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d97/class_trap_filter_parameters.html#a0e779e5c1b9ef2a6f7fc4a8f3dbf4c92",tooltip="Returns the value of the risetime. "];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="TrapFilterParameters\l::GetT",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d97/class_trap_filter_parameters.html#a43bca9e5f5cd7f618fb1da34818300f8",tooltip="Returns the value of tau/threhsold. "];
+}

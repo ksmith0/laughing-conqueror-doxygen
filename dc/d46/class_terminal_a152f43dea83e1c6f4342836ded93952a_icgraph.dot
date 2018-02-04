@@ -1,0 +1,16 @@
+digraph "Terminal::clear_"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Terminal::clear_",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Terminal::PrintCommand",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d46/class_terminal.html#a8335c2e8edcd36b065b47c58a18b503d",tooltip="Print a command to the terminal output. "];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Terminal::GetCommand",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d46/class_terminal.html#afef43bf766d6ea1e2b739d231c84f57d",tooltip="Wait for the user to input a command. "];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="main",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dae/_c_terminal_test_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97"];
+  Node3 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Poll::get_traces",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/db0/class_poll.html#a7bc77d04169be53d1a3553e0a55932d6",tooltip="Acquire raw traces from a pixie module. "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

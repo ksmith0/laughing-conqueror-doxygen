@@ -1,0 +1,15 @@
+digraph "PollOutputFile::CloseFile"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="PollOutputFile::CloseFile",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="PLD_header::SetEndDateTime",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/deb/class_p_l_d__header.html#a8797010333b9dc131c06bf468597dcff",tooltip="Set the date and time of when the file is closed. "];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="set_char_array",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/ddf/hribf__buffers_8cpp.html#a3497158c3af249fa3e1fe9c2c582dcf5",tooltip="End of spill vsn. The scan code searches for these words. "];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="PLD_header::SetMaxSpillSize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/deb/class_p_l_d__header.html#aa3016fac774d1ebd9e9b1b1c2e6440b6"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="PLD_header::Write",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/deb/class_p_l_d__header.html#a595eebacfb5a1425fb19bca570fd2d64",tooltip="Write a pld style header to a file. "];
+}

@@ -1,0 +1,25 @@
+digraph "GslFitter::~GslFitter"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="GslFitter::~GslFitter",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="GslFitter::CalculatePhase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d06/class_gsl_fitter.html#a25c06f4ef53cefc46bb73abfb67347ff"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="PmtFunction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d85/_gsl1_fitter_8cpp.html#adc5d69e74885dcb402a256340f45f0d4"];
+  Node2 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="CalcPmtJacobian",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d85/_gsl1_fitter_8cpp.html#a8d234c610289e7da30b8c8016ceeb5be"];
+  Node2 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="PmtFunctionDerivative",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d85/_gsl1_fitter_8cpp.html#a34b7df3c59205f98dbc8e71731bb42b4"];
+  Node5 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="SiPmtFunction",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d85/_gsl1_fitter_8cpp.html#ae7df9a4cfe02b36c949363412c4c4b4f"];
+  Node2 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="CalcSiPmtJacobian",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d85/_gsl1_fitter_8cpp.html#aa2dadfd3d096c9f4bca3b6a6e6e4a265"];
+  Node2 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="SiPmtFunctionDerivative",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d85/_gsl1_fitter_8cpp.html#aab8c829b4103b50a0106110effd006e5"];
+  Node8 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

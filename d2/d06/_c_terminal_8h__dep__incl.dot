@@ -1,0 +1,16 @@
+digraph "CTerminal.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="CTerminal.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="poll2.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d50/poll2_8cpp.html"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="poll2_core.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dd4/poll2__core_8cpp.html",tooltip="Controls the poll2 command interpreter and data acquisition system. "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="ScanInterface.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d60/_scan_interface_8cpp.html",tooltip="A class to handle reading from various UTK/ORNL pixie16 data formats. "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="CTerminal.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d93/_c_terminal_8cpp.html",tooltip="Library to handle all aspects of a stand-alone command line interface. "];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="CTerminalTest.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dae/_c_terminal_test_8cpp.html"];
+}

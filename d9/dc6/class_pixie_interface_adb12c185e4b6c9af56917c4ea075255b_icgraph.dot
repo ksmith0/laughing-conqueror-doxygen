@@ -1,0 +1,14 @@
+digraph "PixieInterface::AcquireTraces"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="PixieInterface::AcquireTraces",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="TraceGrabber::operator()",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/de0/class_trace_grabber.html#a6527914fde838914439895a7c30892a7"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="main",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d55/trace_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="GetTraces::operator()",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d57/class_get_traces.html#aedfb2ee758b9e8a11d2983486a474838"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

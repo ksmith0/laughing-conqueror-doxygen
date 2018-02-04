@@ -1,0 +1,9 @@
+digraph "GetNumberArguments"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="GetNumberArguments",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="IARGC__GETARGS",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/db6/_get_arguments_8hpp.html#a0f99c822de9ec5d1a688eb28ede101ae",tooltip="Define the fortran function to get the argc. "];
+}

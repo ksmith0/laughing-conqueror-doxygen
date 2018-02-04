@@ -1,0 +1,13 @@
+digraph "start_run_control"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="start_run_control",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="ScanInterface::RunControl",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/dfc/class_scan_interface.html#a749b46ea2b9eef6afc5dde98d7fcd660",tooltip="Main scan control method. "];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="BufferType::SetDebugMode",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d57/class_buffer_type.html#a965e66fde54356d4ebdc77042439be90"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="BufferType::ReadHeader",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d57/class_buffer_type.html#a13bdce94ebfef9dc1ae90fca6cd66616",tooltip="Return true if the first word of the current buffer is equal to this buffer type. ..."];
+}

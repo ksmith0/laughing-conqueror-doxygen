@@ -1,0 +1,17 @@
+digraph "PollOutputFile::OpenNewFile"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="PollOutputFile::OpenNewFile",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="PLD_header::SetTitle",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/deb/class_p_l_d__header.html#a4252dd3e126646cd64d0fa8da48559b6",tooltip="Set the title of the output pld file (unlimited length). "];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="PLD_header::SetRunNumber",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/deb/class_p_l_d__header.html#a927c679248de655ff6bb4fdba1601e8a"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="PLD_header::SetStartDateTime",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/deb/class_p_l_d__header.html#a7a3d7efc608c6986bc9a2a7c5727fe70",tooltip="Set the date and tiem of when the file is opened. "];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="set_char_array",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/ddf/hribf__buffers_8cpp.html#a3497158c3af249fa3e1fe9c2c582dcf5",tooltip="End of spill vsn. The scan code searches for these words. "];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="PLD_header::GetBufferLength",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/deb/class_p_l_d__header.html#a250c9f18e25d89625593ca0ffe59a0d5",tooltip="Get the length of the header buffer. "];
+}

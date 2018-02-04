@@ -1,0 +1,7 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="BarBuilder",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d12/class_bar_builder.html",tooltip="Class that builds bars out of a list of ends. "];
+}

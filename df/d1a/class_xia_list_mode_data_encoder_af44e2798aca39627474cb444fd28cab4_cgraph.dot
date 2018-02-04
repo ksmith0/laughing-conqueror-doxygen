@@ -1,0 +1,42 @@
+digraph "XiaListModeDataEncoder::EncodeWordTwo"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="XiaListModeDataEncoder\l::EncodeWordTwo",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="XiaData::GetEventTimeHigh",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#a0b36b071cd7116ac4190a62581e524d9"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="XiaListModeDataMask\l::GetEventTimeHighMask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d76/class_xia_list_mode_data_mask.html#a222b7a8ecedae77bc02983ca8188737c"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="XiaListModeDataMask\l::GetCfdFractionalTimeMask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d76/class_xia_list_mode_data_mask.html#ab05d349699cfa7a43061185fb90c87f7"];
+  Node3 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="XiaListModeDataMask\l::GetCfdForcedTriggerBitMask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d76/class_xia_list_mode_data_mask.html#a4b442bc0e5bee8451b1ca9c957ab7aaf"];
+  Node3 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="XiaListModeDataMask\l::GetCfdTriggerSourceMask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d76/class_xia_list_mode_data_mask.html#a5d45fb51176b0e7bf43305a4c1b93a27"];
+  Node3 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="XiaListModeDataMask\l::GetCfdSize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d76/class_xia_list_mode_data_mask.html#af207eba9f8d0988d96e86bdf93a9dba7"];
+  Node3 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="XiaListModeDataMask\l::GetEventEnergyMask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d76/class_xia_list_mode_data_mask.html#a95d262e1a63fef2aed61c74ab7313f87"];
+  Node3 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="XiaListModeDataMask\l::GetNumberOfBasicHeaderWords",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d76/class_xia_list_mode_data_mask.html#aadab788be8d955f5162213aec5ef053e"];
+  Node3 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="XiaListModeDataMask\l::GetNumberOfEnergySumWords",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d76/class_xia_list_mode_data_mask.html#a10cfe7418c0d2c2b8c3acd2725b98f74"];
+  Node3 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="XiaListModeDataMask\l::GetNumberOfExternalTimestamp\lWords",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d76/class_xia_list_mode_data_mask.html#ae7b6abea7530a613bcaf8467f77e3431"];
+  Node3 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="XiaListModeDataMask\l::GetNumberOfQdcWords",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d76/class_xia_list_mode_data_mask.html#a2636ba87b479c5d1351d181b6f7c82c2"];
+  Node3 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="XiaListModeDataMask\l::GetTraceOutOfRangeFlagMask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d76/class_xia_list_mode_data_mask.html#a3216c3a9d30f2af79b0bfdceeba60fd6"];
+  Node3 -> Node14 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="XiaListModeDataMask\l::GetTraceLengthMask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d76/class_xia_list_mode_data_mask.html#a437a6586ef2cfb504d1414e271c7f9d6"];
+  Node1 -> Node15 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="XiaData::GetCfdFractionalTime",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#aacf4e60f363bf42851bb7b65eb1456aa"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node16 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="XiaData::GetCfdForcedTriggerBit",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#a49b9907d1f012a9154dc93070a4f00a8"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node17 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="XiaData::GetCfdTriggerSourceBit",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#a7aa98d3225b681fc7e28b67ee45ed9b2"];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

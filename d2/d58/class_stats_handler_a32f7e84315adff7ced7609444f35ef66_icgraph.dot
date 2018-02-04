@@ -1,0 +1,40 @@
+digraph "StatsHandler::GetDataRate"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="StatsHandler::GetDataRate",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="StatsHandler::GetTotalDataRate",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d58/class_stats_handler.html#ae97addec3c4a6aeb4e405fc4d940638e"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Poll::get_traces",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/db0/class_poll.html#a7bc77d04169be53d1a3553e0a55932d6",tooltip="Acquire raw traces from a pixie module. "];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="StatsHandler::Dump",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d58/class_stats_handler.html#af5047dce80fd4f2c91863a485fa9fcb0"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Poll::CloseOutputFile",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/db0/class_poll.html#a4f280e910a51c786a7b8e390921fa106",tooltip="Close the current output file, if one is open. "];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="Poll::Close",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/db0/class_poll.html#ab16cd3eb72cac653541300cb6536e710",tooltip="Close the sockets, any open files, and clean up. "];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="main",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d50/poll2_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97"];
+  Node6 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="Poll::~Poll",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/db0/class_poll.html#ab99bf5ecc1992b6023e19fbb6b321f7a",tooltip="Destructor. "];
+  Node6 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="Poll::OpenOutputFile",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/db0/class_poll.html#adee13ef275973679b5524868be3cdc9c",tooltip="Opens a new file if no file is currently open. "];
+  Node9 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="Poll::write_data",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/db0/class_poll.html#aa11d7496ff1d7eb58f6833822236bcac",tooltip="Write a data spill to disk. "];
+  Node10 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="StatsHandler::CanSend",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d58/class_stats_handler.html#a0466ff1c67ea95a94b1fc7c752d6d35c"];
+  Node2 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="StatsHandler::SetDumpInterval",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d58/class_stats_handler.html#a5893029be44d424c334f3bb0dbd5e7d9",tooltip="Set the amount of time between scalers dumps in seconds. "];
+  Node12 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="Poll::Initialize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/db0/class_poll.html#a1353049de2d032ee6aabd8f1f714941d",tooltip="Initialize the poll object. "];
+  Node13 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

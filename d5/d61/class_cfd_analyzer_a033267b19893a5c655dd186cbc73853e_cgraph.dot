@@ -1,0 +1,28 @@
+digraph "CfdAnalyzer::Analyze"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="CfdAnalyzer::Analyze",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="TraceAnalyzer::Analyze",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/dbc/class_trace_analyzer.html#a0915fb97c3ebe928cab17deff5e497ec"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="TraceAnalyzer::EndAnalyze",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/dbc/class_trace_analyzer.html#ae7ac212d764d0e394fcb323f68d23c66"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Trace::IsSaturated",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/db7/class_trace.html#a7ae0bf7209ee6b579b0cfcb7b86aa5ef"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Trace::GetWaveform",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/db7/class_trace.html#a07422117998494b79c0805f0f2cc5f95"];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="ChannelConfiguration\l::GetCfdParameters",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d20/class_channel_configuration.html#aa32b0e13b6faf461fca001842cefa333"];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="Trace::SetPhase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/db7/class_trace.html#a4694ebbfde6031a7dd8e86cb0530cceb"];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="TimingDriver::CalculatePhase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d06/class_timing_driver.html#acd650062cf78da2c5e5efea70a1658b8"];
+  Node1 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="Trace::GetTraceSansBaseline",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/db7/class_trace.html#a7a75bd64211345aa8d8e9f5a516697ca"];
+  Node1 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="Trace::GetExtrapolatedMaxInfo",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/db7/class_trace.html#a2b1a6f03db233ea403c6390cb4159c36"];
+  Node1 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="Trace::GetBaselineInfo",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/db7/class_trace.html#aeee6c9b5e253a8df3dd8fa81fccc104f"];
+}

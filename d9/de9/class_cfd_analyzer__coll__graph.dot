@@ -1,0 +1,33 @@
+digraph "CfdAnalyzer"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="CfdAnalyzer",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="TraceAnalyzer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/dbc/class_trace_analyzer.html",tooltip="Abstract class that all trace analyzers are derived from. "];
+  Node3 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" name" ,fontname="Helvetica"];
+  Node3 [label="std::string",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip="STL class. "];
+  Node4 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="std::basic_string\<\l char \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip="STL class. "];
+  Node5 -> Node2 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" histo" ,fontname="Helvetica"];
+  Node5 [label="Plots",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d8b/class_plots.html",tooltip="Holds pointers to all Histograms. "];
+  Node6 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" mneList" ,fontname="Helvetica"];
+  Node6 [label="std::map\< std::string,\l int \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node3 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" keys" ,fontname="Helvetica"];
+  Node7 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" plots_register_" ,fontname="Helvetica"];
+  Node7 [label="PlotsRegister",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d6e/class_plots_register.html",tooltip="Holds ranges and offsets of all plots. Singleton class. "];
+  Node7 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" instance" ,fontname="Helvetica"];
+  Node8 -> Node7 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" reg" ,fontname="Helvetica"];
+  Node8 [label="std::vector\< std::pair\l\< int, int \> \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node9 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" idList_" ,fontname="Helvetica"];
+  Node9 [label="std::set\< int \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node3 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" name_" ,fontname="Helvetica"];
+  Node10 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" titleList" ,fontname="Helvetica"];
+  Node10 [label="std::map\< int, std\l::string \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node3 -> Node10 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" elements" ,fontname="Helvetica"];
+  Node11 -> Node1 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" driver_" ,fontname="Helvetica"];
+  Node11 [label="TimingDriver",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d06/class_timing_driver.html",tooltip="An abstract class that will be used to handle timing. "];
+  Node12 -> Node11 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" results_" ,fontname="Helvetica"];
+  Node12 [label="std::vector\< double \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}

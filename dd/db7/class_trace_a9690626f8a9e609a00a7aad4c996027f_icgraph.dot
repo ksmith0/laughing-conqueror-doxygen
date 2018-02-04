@@ -1,0 +1,11 @@
+digraph "Trace::SetTau"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Trace::SetTau",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="TauAnalyzer::Analyze",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d6d/class_tau_analyzer.html#a0f5dff5bca5d6c6b19f155204a68aaaa"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="TauAnalyzer::~TauAnalyzer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d6d/class_tau_analyzer.html#acbec8c01df2ce44961345f0d390f76fa"];
+}

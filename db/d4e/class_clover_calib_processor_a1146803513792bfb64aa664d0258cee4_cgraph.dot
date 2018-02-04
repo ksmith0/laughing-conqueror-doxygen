@@ -1,0 +1,38 @@
+digraph "CloverCalibProcessor::DeclarePlots"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="CloverCalibProcessor\l::DeclarePlots",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="DetectorLibrary::get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dbe/class_detector_library.html#a6ab3ff825daa8b607865086741bc9b2c"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="DetectorLibrary::GetLocations",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dbe/class_detector_library.html#a5b0343c31edd5df9d468df88537f4eea"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Messenger::start",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dc9/class_messenger.html#a1b47ad62ebac8fdafd2d7a2d8ee7b642"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Messenger::detail",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dc9/class_messenger.html#a24d0db0aece5830b3de62310f5753be8"];
+  Node4 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="Messenger::warning",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dc9/class_messenger.html#a130e83285254c9149629842ca2aa6f20"];
+  Node6 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="Messenger::run_message",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dc9/class_messenger.html#a770167e668ce59153a05f61a30b548b0"];
+  Node7 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="Messenger::fail",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dc9/class_messenger.html#a9ea2a4de0861302810fbb893fd3b4254"];
+  Node1 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="Messenger::done",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dc9/class_messenger.html#a40a7e53a9b6dc5ef161c2ffd5d6bbbfb"];
+  Node1 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="EventProcessor::DeclareHistogram1D",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d65/class_event_processor.html#aac0d7f24194df48f204ebb9c9b75e19d",tooltip="Declares a 1D histogram calls the C++ wrapper for DAMM. "];
+  Node10 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="Plots::DeclareHistogram1D",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d8b/class_plots.html#a126b1dfe1d671776ee1caddc7cc249b9",tooltip="Declares a 1D histogram calls the C++ wrapper for DAMM. "];
+  Node11 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="hd1d_",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d57/_scanor_8hpp.html#ae9985183725e9354913756c7f86d355a",tooltip="create a DAMM 1D histogram args are damm id, half-words per channel, param length, hist length, low x-range, high x-range, and title "];
+  Node1 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="EventProcessor::DeclareHistogram2D",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d65/class_event_processor.html#a37b6d5ad90cc6e55c8021682a355764a",tooltip="Declares a 2D histogram calls the C++ wrapper for DAMM. "];
+  Node13 -> Node14 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="Plots::DeclareHistogram2D",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d8b/class_plots.html#a59a2ffc3288d877c695346d82499e769",tooltip="Declares a 2D histogram calls the C++ wrapper for DAMM. "];
+  Node14 -> Node15 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="hd2d_",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d57/_scanor_8hpp.html#a65d497b6686f1daba9896091bada3eb1",tooltip="create a DAMM 2D histogram "];
+}

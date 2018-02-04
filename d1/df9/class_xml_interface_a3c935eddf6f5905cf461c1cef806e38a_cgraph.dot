@@ -1,0 +1,13 @@
+digraph "XmlInterface::GetDocument"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="XmlInterface::GetDocument",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="XmlInterface::~XmlInterface",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/df9/class_xml_interface.html#a9326df5bd548bd9a40b62dee6a2e3025",tooltip="Default destructor that deletes the instance when its called. "];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="XmlInterface::XmlInterface",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/df9/class_xml_interface.html#a9924d1a9f16987091b58c70ed13a5718"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="XmlInterface::operator=",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/df9/class_xml_interface.html#ac853fae42b1b3446a00a0d37e50d670d",tooltip="copy constructor "];
+}

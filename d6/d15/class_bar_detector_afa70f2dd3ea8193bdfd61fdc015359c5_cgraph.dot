@@ -1,0 +1,25 @@
+digraph "BarDetector::GetTheta"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="BarDetector::GetTheta",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="BarDetector::GetCalibration",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d15/class_bar_detector.html#aa76fb3d3f78aa6d8d3cc572cb18e1f70"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="TimingCalibrator::get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d02/class_timing_calibrator.html#aef9d53667925c12fee1462de03a5c063"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="BarDetector::GetFlightPath",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d15/class_bar_detector.html#a0a587a54d41b2fc35fd1474bc1adadf7"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="BarDetector::GetType",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d15/class_bar_detector.html#a809fe47808591c16680d0fe90500dcdd"];
+  Node4 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="Globals::get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/daf/class_globals.html#ae66fa0173342202c96b13d71a6522512",tooltip="Instance is created upon first call. "];
+  Node4 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="BarDetector::GetTimeDifference",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d15/class_bar_detector.html#a9aeef4ac770dad5953229e9aacb5b32c"];
+  Node7 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="ProcessedXiaData::GetHigh\lResTimeInNs",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d3c/class_processed_xia_data.html#a5da8714dc3420a4efd9a199de3f56079"];
+  Node7 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="TimingCalibration::\lGetLeftRightTimeOffset",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d44/class_timing_calibration.html#a029592fb044fa928de8a7b67873c489d"];
+}

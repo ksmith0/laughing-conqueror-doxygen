@@ -1,0 +1,15 @@
+digraph "BarDetector::GetCorTimeDiff"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="BarDetector::GetCorTimeDiff",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="ProcessedXiaData::GetWalk\lCorrectedTime",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d3c/class_processed_xia_data.html#a796159b153b67faaaaf00650d4469ab4"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="BarDetector::GetCalibration",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d15/class_bar_detector.html#aa76fb3d3f78aa6d8d3cc572cb18e1f70"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="TimingCalibrator::get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d02/class_timing_calibrator.html#aef9d53667925c12fee1462de03a5c063"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="TimingCalibration::\lGetLeftRightTimeOffset",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d44/class_timing_calibration.html#a029592fb044fa928de8a7b67873c489d"];
+}

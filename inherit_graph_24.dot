@@ -1,0 +1,7 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Dssd4SHEProcessor::\lStripEvent",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/df8/struct_dssd4_s_h_e_processor_1_1_strip_event.html",tooltip="Structure defining an event on a strip of the DSSD. "];
+}

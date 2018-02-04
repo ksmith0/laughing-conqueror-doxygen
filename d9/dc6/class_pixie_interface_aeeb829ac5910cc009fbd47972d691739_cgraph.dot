@@ -1,0 +1,20 @@
+digraph "PixieInterface::TogglePolarity"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="PixieInterface::TogglePolarity",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="PixieInterface::ToggleChannelBit",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dc6/class_pixie_interface.html#a448ef741698cfdc9e48dc47bd4639070"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="PixieInterface::ReadSglChanPar",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dc6/class_pixie_interface.html#ab9aa18adad4d33916a225e1ad2d7d177"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Display::WarningStr",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d6a/namespace_display.html#a0ca7c8835e858cf0b1e0cce72a41ab9c"];
+  Node2 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="PixieInterface::WriteSgl\lChanPar",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dc6/class_pixie_interface.html#a31af18177f95b6c8e23ad32e7e3bdae7"];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="PixieInterface::ToggleTrace\lCapture",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dc6/class_pixie_interface.html#ad5ae287070deac6d92a11fbd9843f0e3"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

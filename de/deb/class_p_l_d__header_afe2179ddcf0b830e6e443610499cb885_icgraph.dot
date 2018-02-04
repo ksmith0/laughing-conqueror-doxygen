@@ -1,0 +1,16 @@
+digraph "PLD_header::GetRunNumber"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="PLD_header::GetRunNumber",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="PollOutputFile::GetRunNumber",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/dcd/class_poll_output_file.html#a5ca1871124d1c839754b08cac407f30d"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Poll::stop_run",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/db0/class_poll.html#a8ce334944617087aa36f87141848facc",tooltip="Stop an active data recording run. "];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Poll::get_traces",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/db0/class_poll.html#a7bc77d04169be53d1a3553e0a55932d6",tooltip="Acquire raw traces from a pixie module. "];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="ScanInterface::open\l_input_file",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/dfc/class_scan_interface.html#a42f2cb63a5289a13b8bae2af420838a9",tooltip="Open a new binary input file for reading. "];
+}

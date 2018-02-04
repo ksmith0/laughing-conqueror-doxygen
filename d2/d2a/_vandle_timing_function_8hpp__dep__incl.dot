@@ -1,0 +1,21 @@
+digraph "VandleTimingFunction.hpp"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="VandleTimingFunction.hpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="RootFitter.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/ddf/_root_fitter_8cpp.html",tooltip="Class to handle fitting traces using ROOT. "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="VandleTimingFunction.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d7f/_vandle_timing_function_8cpp.html"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="ScopeUnpacker.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d77/_scope_unpacker_8hpp.html"];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="ScopeScanner.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/da9/_scope_scanner_8hpp.html"];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="scope.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/dd1/scope_8cpp.html"];
+  Node5 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="ScopeScanner.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d1d/_scope_scanner_8cpp.html"];
+  Node4 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="ScopeUnpacker.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/dc3/_scope_unpacker_8cpp.html",tooltip="Unpacker class for scope program. "];
+}

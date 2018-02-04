@@ -1,0 +1,15 @@
+digraph "HistUnpacker::ProcessNewHists"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="HistUnpacker::ProcessNew\lHists",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="HistUnpacker::IdleTask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d4f/class_hist_unpacker.html#a4f09417c82f2a7d23a8d28dba7840131"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="HistUnpacker::ProcessEvents",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d4f/class_hist_unpacker.html#a25e607e59a055805005ea9952a799162",tooltip="Processes each event by filling the tree and clearing the event. "];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="HistUnpacker::ProcessRaw\lEvent",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d4f/class_hist_unpacker.html#aff13db53afd16e00d86681802171768e"];
+  Node2 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="HistUnpacker::SetLastRefresh",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d4f/class_hist_unpacker.html#a00f888b1309e58b0a419111103e24943"];
+}

@@ -1,0 +1,40 @@
+digraph "SheCorrelator::flush_chain"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="SheCorrelator::flush\l_chain",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="SheEvent::get_type",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d98/class_she_event.html#ad2309404ad371b2a0f50368f849f9a86"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="DetectorDriver::get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d91/class_detector_driver.html#a374a759674faebb18f7a2b4fa06c7a70"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="DetectorDriver::GetWallTime",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d91/class_detector_driver.html#a7db08c317209259015b30a91c8f33241"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Globals::get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/daf/class_globals.html#ae66fa0173342202c96b13d71a6522512",tooltip="Instance is created upon first call. "];
+  Node4 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="Globals::GetClockInSeconds",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/daf/class_globals.html#a02ea3605db675e1c5504de0ff317d16b"];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="SheEvent::get_time",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d98/class_she_event.html#a53903fe888b9b07b9ca3685db0ac4b06"];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="Notebook::get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d51/class_notebook.html#afed0d7a9c4df3ded88f0446972fb1b3b"];
+  Node8 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="Notebook::Notebook",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d51/class_notebook.html#a1ca045e919168c2c40fe04962c7b6800",tooltip="Default constructor. "];
+  Node9 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="XmlInterface::get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/df9/class_xml_interface.html#a5a437bc25ac0f9ecc65cdebf6c664ad0"];
+  Node10 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="XmlInterface::XmlInterface",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/df9/class_xml_interface.html#a9924d1a9f16987091b58c70ed13a5718"];
+  Node9 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="XmlInterface::GetDocument",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/df9/class_xml_interface.html#a3c935eddf6f5905cf461c1cef806e38a"];
+  Node12 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="XmlInterface::~XmlInterface",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/df9/class_xml_interface.html#a9326df5bd548bd9a40b62dee6a2e3025",tooltip="Default destructor that deletes the instance when its called. "];
+  Node12 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 -> Node14 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="XmlInterface::operator=",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/df9/class_xml_interface.html#ac853fae42b1b3446a00a0d37e50d670d",tooltip="copy constructor "];
+  Node9 -> Node15 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="Messenger::detail",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/dc9/class_messenger.html#a24d0db0aece5830b3de62310f5753be8"];
+  Node9 -> Node16 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="Notebook::currentDateTime",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d51/class_notebook.html#ab2073f499cef13062a385180fe0085bf"];
+  Node1 -> Node17 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="Notebook::report",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d51/class_notebook.html#ae6971368b9d875ba457cd9f82a4c4bd1"];
+}

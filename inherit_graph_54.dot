@@ -1,0 +1,7 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="PAWC_DEF",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d9d/struct_p_a_w_c___d_e_f.html"];
+}

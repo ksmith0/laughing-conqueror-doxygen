@@ -1,0 +1,13 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="std::vector\< T \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip="STL class. "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="CorrelationList",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/da4/class_correlation_list.html",tooltip="The list of correlations. "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="DetectorLibrary",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dbe/class_detector_library.html",tooltip="A class to define a library of detectors known to the analysis. "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Trace",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/db7/class_trace.html",tooltip="This defines a more extensible implementation of a digitized trace. The class is derived from a vecto..."];
+}

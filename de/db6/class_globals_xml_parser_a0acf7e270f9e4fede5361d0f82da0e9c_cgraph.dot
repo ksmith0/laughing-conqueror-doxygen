@@ -1,0 +1,23 @@
+digraph "GlobalsXmlParser::ParseGlobalNode"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="GlobalsXmlParser::ParseGlobalNode",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Globals::SetAdcClockInSeconds",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/daf/class_globals.html#a45fdfe5c41c53b4bfb11c6c4e9e310af"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Globals::SetClockInSeconds",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/daf/class_globals.html#ac57d1163cc4001aac448156d47717fd6"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Globals::SetFilterClockIn\lSeconds",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/daf/class_globals.html#a0257b8597df1d35ddafb24c2942d32af"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Conversions::ConvertSeconds\lWithPrefix",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/df8/namespace_conversions.html#aba151872fb6ae6118a05a25e7e3ce0d2"];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="Globals::SetEventLengthIn\lSeconds",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/daf/class_globals.html#af82b665a21c71b13eb649018c7abc066"];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="Globals::SetEventLengthIn\lTicks",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/daf/class_globals.html#aef7d30aac718907bfdafc99ae5ed2995"];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="Globals::GetClockInSeconds",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/daf/class_globals.html#a02ea3605db675e1c5504de0ff317d16b"];
+  Node1 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="Globals::SetHasRawHistograms\lDefined",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/daf/class_globals.html#a9c861c5bd863bfaa535f0e536bd7a81a"];
+}

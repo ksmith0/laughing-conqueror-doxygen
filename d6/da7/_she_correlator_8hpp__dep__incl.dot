@@ -1,0 +1,12 @@
+digraph "SheCorrelator.hpp"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="SheCorrelator.hpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Dssd4SHEProcessor.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d02/_dssd4_s_h_e_processor_8hpp.html"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Dssd4SHEProcessor.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d8f/_dssd4_s_h_e_processor_8cpp.html"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="SheCorrelator.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d94/_she_correlator_8cpp.html"];
+}

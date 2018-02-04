@@ -1,0 +1,32 @@
+digraph "XmlParser.hpp"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="XmlParser.hpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="DetectorDriverXmlParser.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d1d/_detector_driver_xml_parser_8hpp.html",tooltip="Class to parse the DetectorDriver node. "];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="DetectorDriver.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/df5/_detector_driver_8cpp.html",tooltip="Main driver for event processing. "];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="DetectorDriverXmlParser.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d67/_detector_driver_xml_parser_8cpp.html",tooltip="Class to parse the DetectorDriver node. "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="GlobalsXmlParser.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d1a/_globals_xml_parser_8hpp.html",tooltip="Class to parse nodes needed for the Global&#39;s class from utkscan&#39;s configuration file. "];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="Globals.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d5d/_globals_8cpp.html",tooltip="constant parameters used in pixie16 analysis "];
+  Node5 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="GlobalsXmlParser.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/dc6/_globals_xml_parser_8cpp.html",tooltip="Class to parse nodes needed for the Global&#39;s class from utkscan&#39;s configuration file. "];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="MapNodeXmlParser.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d9e/_map_node_xml_parser_8hpp.html",tooltip="Class to parse the Map node. "];
+  Node8 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="DetectorLibrary.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d98/_detector_library_8cpp.html",tooltip="Some useful function for managing the list of channel channelConfigurations. "];
+  Node8 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="MapNodeXmlParser.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d62/_map_node_xml_parser_8cpp.html",tooltip="Class to parse the Map node in the utkscan configuration file. "];
+  Node1 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="TreeCorrelatorXmlParser.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/dfd/_tree_correlator_xml_parser_8hpp.html",tooltip="Class that handles parsing the TreeCorrelator node. "];
+  Node11 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="TreeCorrelator.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d8d/_tree_correlator_8cpp.html",tooltip="A class to handle complex correlations between various processors. "];
+  Node11 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="TreeCorrelatorXmlParser.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/dd1/_tree_correlator_xml_parser_8cpp.html",tooltip="Class that handles parsing the TreeCorrelator node. "];
+  Node1 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="XmlParser.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d6b/_xml_parser_8cpp.html",tooltip="An abstracted class that provides basic functionality of parsing an XML node. "];
+}

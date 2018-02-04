@@ -1,0 +1,13 @@
+digraph "SheEvent::get_mwpc"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="SheEvent::get_mwpc",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Dssd4SHEProcessor::\lpickEventType",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/da8/class_dssd4_s_h_e_processor.html#a960878789d0821e4076c7f0d827b1758"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Dssd4SHEProcessor::\lProcess",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/da8/class_dssd4_s_h_e_processor.html#a1ab9aeab8c52a1479718a58da74af3df"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="SheCorrelator::human\l_event_info",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d3b/class_she_correlator.html#ab80369f6d573a18644c9e22f6ef58639"];
+}

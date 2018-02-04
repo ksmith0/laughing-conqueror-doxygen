@@ -1,0 +1,12 @@
+digraph "TraditionalCfd.hpp"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="TraditionalCfd.hpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="TraditionalCfd.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d60/_traditional_cfd_8cpp.html",tooltip="Traditional CFD implemented digitally, similar behavior to a NIM Module. "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="unittest-TraditionalCfd.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/db1/unittest-_traditional_cfd_8cpp.html"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="CfdAnalyzer.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d3f/_cfd_analyzer_8cpp.html",tooltip="Uses a Digital CFD to obtain waveform phases. "];
+}

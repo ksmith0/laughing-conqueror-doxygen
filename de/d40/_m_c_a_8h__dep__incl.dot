@@ -1,0 +1,24 @@
+digraph "MCA.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="MCA.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="MCA_DAMM.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d02/_m_c_a___d_a_m_m_8h.html"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="MCA_DAMM.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d08/_m_c_a___d_a_m_m_8cpp.html"];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="MCA_exec.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d35/_m_c_a__exec_8cpp.html"];
+  Node2 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="poll2_core.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dd4/poll2__core_8cpp.html",tooltip="Controls the poll2 command interpreter and data acquisition system. "];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="MCA_ROOT.h",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/ddd/_m_c_a___r_o_o_t_8h.html"];
+  Node6 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="MCA_ROOT.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/dbb/_m_c_a___r_o_o_t_8cpp.html"];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="paramScan.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d9f/param_scan_8cpp.html"];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="MCA.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d1e/_m_c_a_8cpp.html"];
+}

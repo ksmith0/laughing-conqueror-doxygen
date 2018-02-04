@@ -1,0 +1,13 @@
+digraph "Trace::GetWaveform"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Trace::GetWaveform",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="CfdAnalyzer::Analyze",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d61/class_cfd_analyzer.html#a033267b19893a5c655dd186cbc73853e"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="CfdAnalyzer::DeclarePlots",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d61/class_cfd_analyzer.html#a09ee7711fb9948913e2aa0b6a022d25e"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="FittingAnalyzer::Analyze",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d35/class_fitting_analyzer.html#ae3f301aba508287caefbe46f39f1914d"];
+}

@@ -1,0 +1,13 @@
+digraph "Trace::GetTailRatio"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Trace::GetTailRatio",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="HighResTimingData::\lGetDiscrimination",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d61/class_high_res_timing_data.html#a5c37acd4af0aca55fa830e31d6d803df"];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="LiquidScintProcessor\l::Process",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d6b/class_liquid_scint_processor.html#a6e1f7662a1362e5c14275c9a13388231"];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="LiquidScintProcessor\l::~LiquidScintProcessor",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d6b/class_liquid_scint_processor.html#a4d89e8c3779a6903973b8313b063ceb1"];
+}

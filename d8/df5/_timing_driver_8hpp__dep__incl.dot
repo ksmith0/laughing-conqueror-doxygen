@@ -1,0 +1,46 @@
+digraph "TimingDriver.hpp"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="TimingDriver.hpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="GslFitter.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/ddb/_gsl_fitter_8hpp.html",tooltip="Implementation of the GSL fitting routine for GSL v2+. "];
+  Node2 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Gsl1Fitter.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d85/_gsl1_fitter_8cpp.html",tooltip="Implementation of the GSL fitting routine for GSL v 1.16 or older. "];
+  Node2 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Gsl2Fitter.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/dd0/_gsl2_fitter_8cpp.html",tooltip="Implementation of the GSL fitting routine for GSL v2+. "];
+  Node2 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="unittest-GslFitter.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/dc7/unittest-_gsl_fitter_8cpp.html",tooltip="A small code to test the functionality of the FitDriver. "];
+  Node2 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="FittingAnalyzer.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d87/_fitting_analyzer_8cpp.html",tooltip="Uses a chi^2 minimization to fit waveforms. "];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="PolynomialCfd.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d40/_polynomial_cfd_8hpp.html",tooltip="A method that uses the. "];
+  Node7 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="PolynomialCfd.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/db2/_polynomial_cfd_8cpp.html",tooltip="Timing method that calculates the timing using a Polynomial based CFD. "];
+  Node7 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="unittest-PolynomialCfd.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/dbb/unittest-_polynomial_cfd_8cpp.html"];
+  Node7 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="CfdAnalyzer.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d3f/_cfd_analyzer_8cpp.html",tooltip="Uses a Digital CFD to obtain waveform phases. "];
+  Node1 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="RootFitter.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/dc2/_root_fitter_8hpp.html",tooltip="Class to handle fitting traces using ROOT. "];
+  Node11 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="RootFitter.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/ddf/_root_fitter_8cpp.html",tooltip="Class to handle fitting traces using ROOT. "];
+  Node11 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="unittest-RootFitter.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d23/unittest-_root_fitter_8cpp.html",tooltip="Unit tests for the RootFitter class. "];
+  Node1 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="TraditionalCfd.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dea/_traditional_cfd_8hpp.html",tooltip="Traditional CFD implemented digitally. "];
+  Node14 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="TraditionalCfd.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d60/_traditional_cfd_8cpp.html",tooltip="Traditional CFD implemented digitally, similar behavior to a NIM Module. "];
+  Node14 -> Node16 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="unittest-TraditionalCfd.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/db1/unittest-_traditional_cfd_8cpp.html"];
+  Node14 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node17 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="CfdAnalyzer.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/deb/_cfd_analyzer_8hpp.html",tooltip="Class to use Cfd on traces. "];
+  Node17 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="DetectorDriverXmlParser.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d67/_detector_driver_xml_parser_8cpp.html",tooltip="Class to parse the DetectorDriver node. "];
+  Node1 -> Node19 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 [label="FittingAnalyzer.hpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dfa/_fitting_analyzer_8hpp.html",tooltip="Class to fit functions to waveforms. "];
+  Node19 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node19 -> Node18 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

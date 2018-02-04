@@ -1,0 +1,12 @@
+digraph "ScanInterface::Close"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="ScanInterface::Close",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="main",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d0e/event_reader_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="cleanup_",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/dd5/utkscanor_8cpp.html#ae3c5fd76d5f5264e28ad6fca64e90de5",tooltip="Catch the exit call from scanor and clean up c++ objects CRT. "];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

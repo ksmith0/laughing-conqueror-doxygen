@@ -1,0 +1,21 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="TraceAnalyzer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/dbc/class_trace_analyzer.html",tooltip="Abstract class that all trace analyzers are derived from. "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="CfdAnalyzer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d61/class_cfd_analyzer.html",tooltip="Class to analyze traces using a digital CFD. "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="FittingAnalyzer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d35/class_fitting_analyzer.html",tooltip="Analyzer that handles the fitting of traces for High Resolution Timing. "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="TauAnalyzer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d6d/class_tau_analyzer.html",tooltip="Class to analyze Tau from a trace. "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="TraceExtractor",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/d3d/class_trace_extractor.html",tooltip="A class to extract traces from events. "];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="TraceFilterAnalyzer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/db0/class_trace_filter_analyzer.html",tooltip="A class to perform trapezoidal filters on the traces. "];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="WaaAnalyzer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d61/class_waa_analyzer.html",tooltip="Extracts sub-sampling time from trace using weighted average algorithm. "];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="WaveformAnalyzer",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d8c/class_waveform_analyzer.html",tooltip="Class to waveform analysis. "];
+}

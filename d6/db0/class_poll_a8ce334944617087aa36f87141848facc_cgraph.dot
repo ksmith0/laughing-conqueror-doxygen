@@ -1,0 +1,15 @@
+digraph "Poll::stop_run"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Poll::stop_run",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="PollOutputFile::GetRunNumber",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/dcd/class_poll_output_file.html#a5ca1871124d1c839754b08cac407f30d"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="PLD_header::GetRunNumber",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/deb/class_p_l_d__header.html#afe2179ddcf0b830e6e443610499cb885"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Display::LeaderPrint",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d6a/namespace_display.html#ae1b6ae7834913dfdef71ad859e261c55"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="StatsHandler::GetTotalTime",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d58/class_stats_handler.html#a10f966796de79c55bfa75c6e60bf25ce",tooltip="Return the total run time. "];
+}

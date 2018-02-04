@@ -1,0 +1,19 @@
+digraph "WaaAnalyzer::~WaaAnalyzer"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="WaaAnalyzer::~WaaAnalyzer",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="WaaAnalyzer::DeclarePlots",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d61/class_waa_analyzer.html#a65869f452ac9e14569bee55ecaaaf177"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="WaaAnalyzer::Analyze",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d61/class_waa_analyzer.html#acb271698a71ece00c719b7f8ad4c3025"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="Trace::IsSaturated",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/db7/class_trace.html#a7ae0bf7209ee6b579b0cfcb7b86aa5ef"];
+  Node3 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Trace::GetMaxInfo",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/db7/class_trace.html#adabf44308f34afb878504b0ed7ee0d0a"];
+  Node3 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="Trace::GetBaselineInfo",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/db7/class_trace.html#aeee6c9b5e253a8df3dd8fa81fccc104f"];
+  Node3 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="Trace::SetPhase",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/db7/class_trace.html#a4694ebbfde6031a7dd8e86cb0530cceb"];
+}

@@ -1,0 +1,11 @@
+digraph "GetChanTotalString"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="GetChanTotalString",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="order",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d8b/listener_8cpp.html#ad9cc2fede07ca84705c9b1a36643130e",tooltip="Find the order of magnitude of an input double. "];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="GetOrder",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/de7/monitor_8cpp.html#a3ed8ef5e7bc069a3a3edff740328ff0d"];
+}

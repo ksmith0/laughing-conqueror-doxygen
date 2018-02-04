@@ -1,0 +1,7 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="MCA_ROOT::cerr_redirect",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dc5/class_m_c_a___r_o_o_t_1_1cerr__redirect.html",tooltip="A class to handle redirecting stderr. "];
+}

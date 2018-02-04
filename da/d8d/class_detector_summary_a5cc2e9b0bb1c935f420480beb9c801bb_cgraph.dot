@@ -1,0 +1,13 @@
+digraph "DetectorSummary::DetectorSummary"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="DetectorSummary::Detector\lSummary",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="StringManipulation\l::TokenizeString",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/d2b/namespace_string_manipulation.html#a4aa49767efe3ea44a39d90ff3cb603b0"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="DetectorSummary::AddEvent",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d8d/class_detector_summary.html#a5bd322c5c62b0d89d2eca33550e27907"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="ProcessedXiaData::GetCalibrated\lEnergy",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d3c/class_processed_xia_data.html#ab9364a5f0a990ef3f27baa902d1c6036"];
+}

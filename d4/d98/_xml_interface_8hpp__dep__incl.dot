@@ -1,0 +1,24 @@
+digraph "XmlInterface.hpp"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="XmlInterface.hpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Unpacker.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d31/_unpacker_8cpp.html",tooltip="A class to handle the unpacking of UTK/ORNL style pixie16 data spills. "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="DetectorDriverXmlParser.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d67/_detector_driver_xml_parser_8cpp.html",tooltip="Class to parse the DetectorDriver node. "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="GlobalsXmlParser.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/dc6/_globals_xml_parser_8cpp.html",tooltip="Class to parse nodes needed for the Global&#39;s class from utkscan&#39;s configuration file. "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="MapNodeXmlParser.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d62/_map_node_xml_parser_8cpp.html",tooltip="Class to parse the Map node in the utkscan configuration file. "];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="TimingCalibrator.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d26/_timing_calibrator_8cpp.html",tooltip="A class to handle the timing calibration parameters. "];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="TreeCorrelatorXmlParser.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/dd1/_tree_correlator_xml_parser_8cpp.html",tooltip="Class that handles parsing the TreeCorrelator node. "];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="UtkScanInterface.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d72/_utk_scan_interface_8cpp.html",tooltip="Derived class handling the interface with utkscan. "];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="Notebook.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/ddf/_notebook_8cpp.html"];
+  Node1 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="XmlInterface.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d47/_xml_interface_8cpp.html",tooltip="Singleton class that handles opening and closing XML files using pugixml. "];
+}

@@ -1,0 +1,27 @@
+digraph "PixieInterface::ReadHistogram"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="PixieInterface::ReadHistogram",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="MCA_DAMM::StoreData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d5/db3/class_m_c_a___d_a_m_m.html#a7a90b3f374684268b994eecf0a87d6c3",tooltip="Abstract method describing how the MCA data is stored. "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="HistogramReader::operator()",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d4b/class_histogram_reader.html#ae374117ef19ecca484d3f567ab7eb8e0"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="MCA_ROOT::StoreData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d85/class_m_c_a___r_o_o_t.html#a96072a89e5a20e909bf42946519d1e34",tooltip="Abstract method describing how the MCA data is stored. "];
+  Node4 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="MCA_ROOT::cerr_redirect\l::Print",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dc5/class_m_c_a___r_o_o_t_1_1cerr__redirect.html#a824ff8d72f4ec2b98b485594c8608a10"];
+  Node5 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="MCA_ROOT::OpenFile",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d85/class_m_c_a___r_o_o_t.html#a2eb995cbd14ca173fcd5626395699033",tooltip="Abstract method to open a storage file. "];
+  Node6 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="MCA_ROOT::MCA_ROOT",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d85/class_m_c_a___r_o_o_t.html#af793158b400b3b6fd377c5e4fc1ff530",tooltip="Default constructor. "];
+  Node7 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="PixieInterface::Histogram\l::Read",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/dbb/class_pixie_interface_1_1_histogram.html#add4cc1e37b990311fc13869ae1c80143"];
+  Node8 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="PixieInterface::Histogram\l::ClearError",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/dbb/class_pixie_interface_1_1_histogram.html#a102eea327402b7e27b77e82761795261"];
+  Node1 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="PixieInterface::GetStatisticsData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dc6/class_pixie_interface.html#a78ca1f0d92be311414e2615480a85eff"];
+}

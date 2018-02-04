@@ -1,0 +1,16 @@
+digraph "RootScanner::GetCanvas"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="RootScanner::GetCanvas",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="RootScanner::IdleTask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d33/class_root_scanner.html#acaa507e5e53b1d55a58dc2eb8d3cffe1"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="RootScanner::UpdateZoom",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d33/class_root_scanner.html#a417aadc75e2bc1d91379e67bd5d57284"];
+  Node3 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="RootScanner::ResetZoom",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d33/class_root_scanner.html#a2eecd236a29466cdd11af40beb62509d"];
+  Node3 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="list",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d06/_analysis_2_resources_2source_2_c_make_lists_8txt.html#a92407aa83aceb7e781743373bcb8035a"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

@@ -1,0 +1,17 @@
+digraph "Graphical Class Hierarchy"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="TimingDriver",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d06/class_timing_driver.html",tooltip="An abstract class that will be used to handle timing. "];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="GslFitter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d06/class_gsl_fitter.html"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="PolynomialCfd",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d2b/class_polynomial_cfd.html"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="RootFitter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/dac/class_root_fitter.html"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="TraditionalCfd",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d35/class_traditional_cfd.html"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="XiaCfd",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d57/class_xia_cfd.html"];
+}

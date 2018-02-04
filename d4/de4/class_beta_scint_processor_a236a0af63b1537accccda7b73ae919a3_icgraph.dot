@@ -1,0 +1,12 @@
+digraph "BetaScintProcessor::BestGammaForBeta"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="BetaScintProcessor\l::BestGammaForBeta",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Beta4Hen3Processor\l::Process",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/d92/class_beta4_hen3_processor.html#aec8154b59d510e76fb0831ee2118d6bb"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="BetaScintProcessor\l::Process",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/de4/class_beta_scint_processor.html#abcf10cc79083ab549abdca2e9209d37d",tooltip="Main Processing for the class. "];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

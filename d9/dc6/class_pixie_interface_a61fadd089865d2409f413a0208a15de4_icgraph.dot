@@ -1,0 +1,11 @@
+digraph "PixieInterface::GetProcessedEvents"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="PixieInterface::GetProcessed\lEvents",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="PixieInterface::GetStatisticsData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/dc6/class_pixie_interface.html#a78ca1f0d92be311414e2615480a85eff"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="StatsReader::operator()",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddc/class_stats_reader.html#a28b09c5ca806f7cb68d5f2eaeda7ab16"];
+}

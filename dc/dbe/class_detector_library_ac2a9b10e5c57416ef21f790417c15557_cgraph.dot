@@ -1,0 +1,30 @@
+digraph "DetectorLibrary::GetModules"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="DetectorLibrary::GetModules",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="DetectorLibrary::HasValue",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dbe/class_detector_library.html#ad31d4f3ce8f28645df931cf94f7aad9d"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="DetectorLibrary::GetIndex",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dbe/class_detector_library.html#a90877646fc3c5c845baa0ff3643335d4"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="DetectorLibrary::Set",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dbe/class_detector_library.html#a9b4ea4ad0464f8039dafedbb6a3a7939"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="ChannelConfiguration\l::GetType",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d20/class_channel_configuration.html#aba4539c47063c552522bcf7c20d5bf29"];
+  Node4 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="DetectorLibrary::ModuleFrom\lIndex",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dbe/class_detector_library.html#a9297fb25cacc210dd6d2c1fd50675543"];
+  Node4 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="ChannelConfiguration\l::HasTag",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d20/class_channel_configuration.html#a12d5e0dec96416851743462c53775bf5"];
+  Node4 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="ChannelConfiguration\l::GetSubtype",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d20/class_channel_configuration.html#aaa6fcf267aebd6df6fa3df5510cfaeea"];
+  Node4 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="ChannelConfiguration\l::GetLocation",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d20/class_channel_configuration.html#a63b0841b2af27b4d019b5f68097a5eef"];
+  Node4 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="DetectorLibrary::at",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dbe/class_detector_library.html#a7dc03a85fdd914647e3b4405524d8f02"];
+  Node10 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node1 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="DetectorLibrary::GetKnown\lDetectors",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dbe/class_detector_library.html#a6d230b05a8bc2e1a946ed6872ae53c36"];
+  Node1 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="DetectorLibrary::GetUsed\lDetectors",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dbe/class_detector_library.html#a648ce584518bf132962fb3488859a680",tooltip="this needs moved to UtkUnpacker "];
+}

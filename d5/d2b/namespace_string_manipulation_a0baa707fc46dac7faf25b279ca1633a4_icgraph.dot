@@ -1,0 +1,34 @@
+digraph "StringManipulation::StringToBool"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="StringManipulation\l::StringToBool",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="PlaceBuilder::createPlace\lDetector",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d1a/class_place_builder.html#a13e71ec9e209321508dea049344c7dca"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="PlaceBuilder::createPlace\lThreshold",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d1a/class_place_builder.html#a98c4a5f459ae15e013aecb258ed7500e"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="PlaceBuilder::createPlace\lThresholdOR",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d1a/class_place_builder.html#a2ce6d3b806b248b49766e0054aeeedce"];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="PlaceBuilder::createPlace\lCounter",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d1a/class_place_builder.html#a7f9a668ce7fb606fd02158c2b1ced662"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="PlaceBuilder::createPlaceOR",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d1a/class_place_builder.html#ae205d95a8f38166e469b5ea9afe4e947"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="PlaceBuilder::createPlaceAND",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d1a/class_place_builder.html#acfc716384a8bd1c6855d91967c034b1c"];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="TreeCorrelator::createPlace",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d2c/class_tree_correlator.html#ab37566c3af5521659b90f38de3674176"];
+  Node8 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="MapNodeXmlParser::ParseNode",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d1c/class_map_node_xml_parser.html#ab0bb09c0943299b2a793d091efcae1bd"];
+  Node9 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="DetectorLibrary::Detector\lLibrary",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dbe/class_detector_library.html#a139f2413cf7d9890e32d87a0968b0fa2",tooltip="Default Constructor. "];
+  Node10 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="DetectorLibrary::SetWalk\lCorrection",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dbe/class_detector_library.html#a270b2785fce0d3f1b2806c1b6019b7e4"];
+  Node11 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="MapNodeXmlParser::\l~MapNodeXmlParser",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d1c/class_map_node_xml_parser.html#a45bc6854cdd35a8f9ad82f2c8d2c2b8b",tooltip="Default Destructor. "];
+  Node8 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="TreeCorrelatorXmlParser\l::ParsePlace",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/dde/class_tree_correlator_xml_parser.html#ad0c994ad89f0c96e5ddc33e893620d79"];
+  Node1 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d8a/unittest-_string_manipulation_functions_8cpp.html#a34ceeb4da42e75eeaa9735b02a9bce58"];
+}

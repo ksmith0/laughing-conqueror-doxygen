@@ -1,0 +1,34 @@
+digraph "HelperFunctions.hpp"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="HelperFunctions.hpp",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="set2root.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d1d/set2root_8cpp.html",tooltip="A program to convert a pixie16 binary .set file into a root file. "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="PolynomialCfd.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/db2/_polynomial_cfd_8cpp.html",tooltip="Timing method that calculates the timing using a Polynomial based CFD. "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="TraditionalCfd.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d60/_traditional_cfd_8cpp.html",tooltip="Traditional CFD implemented digitally, similar behavior to a NIM Module. "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="XiaListModeDataDecoder.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dab/_xia_list_mode_data_decoder_8cpp.html"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="XiaListModeDataEncoder.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d9/d05/_xia_list_mode_data_encoder_8cpp.html"];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="unittest-XiaData.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/de2/unittest-_xia_data_8cpp.html",tooltip="A program that will execute unit tests on XiaData. "];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="ScopeUnpacker.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/dc3/_scope_unpacker_8cpp.html",tooltip="Unpacker class for scope program. "];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="WaveformAnalyzer.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/dce/_waveform_analyzer_8cpp.html",tooltip="Preliminary waveform analysis. "];
+  Node1 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="DetectorDriverXmlParser.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d67/_detector_driver_xml_parser_8cpp.html",tooltip="Class to parse the DetectorDriver node. "];
+  Node1 -> Node11 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="GlobalsXmlParser.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/dc6/_globals_xml_parser_8cpp.html",tooltip="Class to parse nodes needed for the Global&#39;s class from utkscan&#39;s configuration file. "];
+  Node1 -> Node12 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="MapNodeXmlParser.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d62/_map_node_xml_parser_8cpp.html",tooltip="Class to parse the Map node in the utkscan configuration file. "];
+  Node1 -> Node13 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="DataReader.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/daf/_data_reader_8cpp.html"];
+  Node1 -> Node14 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="unittest-DataReader.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/db0/unittest-_data_reader_8cpp.html"];
+  Node1 -> Node15 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="unittest-HelperFunctions.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/d7b/unittest-_helper_functions_8cpp.html"];
+}

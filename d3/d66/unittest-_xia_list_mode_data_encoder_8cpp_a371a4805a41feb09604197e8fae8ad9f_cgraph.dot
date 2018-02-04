@@ -1,0 +1,41 @@
+digraph "TEST"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="TEST",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="SetupXiaDataClass",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d66/unittest-_xia_list_mode_data_encoder_8cpp.html#a40acdc4640ed2248d22139fbfba265dd"];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="XiaData::Initialize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#a4d60bfdab03855cc0b2a0a55e484bf88",tooltip="Initialize all variables and set them to some default values. "];
+  Node2 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="XiaData::SetEnergy",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#aaf91ca7a3d8cc1eb54ab6eca795ffefe",tooltip="Sets the energy calculated on-board. "];
+  Node2 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="XiaData::SetSlotNumber",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#ac962808325ff3dce7b47863d4f96624f",tooltip="Sets the slot number. "];
+  Node2 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="XiaData::SetChannelNumber",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#a9c7fd2f8302abcaa614202087c33c4e0",tooltip="Sets the channel number. "];
+  Node2 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="XiaData::SetCrateNumber",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#a8785811860905761ba919ae67487a394",tooltip="Sets the crate number. "];
+  Node2 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="XiaData::SetEventTimeLow",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#ab1d2117cb57edc28c5fbcc172e6f6226",tooltip="Sets the lower 32 bits of the event time. "];
+  Node2 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="XiaData::SetEventTimeHigh",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#a45331d8c7bdbf63d63ffea2ba63be992",tooltip="Sets the upper 16 bits of the event time. "];
+  Node1 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="XiaData::SetTrace",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#ae19966bed7b9afe8afd47a2c6bbb11bf",tooltip="Sets the trace recorded on board. "];
+  Node1 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="XiaListModeDataEncoder\l::EncodeXiaData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d1a/class_xia_list_mode_data_encoder.html#a0dafae523646704e98a8217cf425ec2e"];
+  Node11 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="XiaData::GetEnergySums",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#acdb12ff4d003a85ef15d579932271095"];
+  Node11 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="IeeeStandards::DecimalTo\lIeeeFloating",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/d23/namespace_ieee_standards.html#abaef6159408f93ef7a38eb2ac2f94a28"];
+  Node11 -> Node14 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="XiaData::GetFilterBaseline",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#a14dc218717636bd6b1b4bfbf8e566cd1"];
+  Node11 -> Node15 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="XiaData::GetQdc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#a7b617d36e152efa74c4f657bc3848c81"];
+  Node11 -> Node16 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="XiaData::GetExternalTimeLow",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#ac0a5410997d9b116ebae66651a3278c8"];
+  Node11 -> Node17 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node17 [label="XiaData::GetExternalTimeHigh",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#a7a35b41ce4920c43eaaa4ce1c46ffaac"];
+  Node11 -> Node18 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node18 [label="XiaData::GetTrace",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#a94d10f0eb065dd14032b8b666bfcf663"];
+}

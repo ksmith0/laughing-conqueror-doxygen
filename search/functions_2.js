@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['badmaskerrormessage',['BadMaskErrorMessage',['../dc/d76/class_xia_list_mode_data_mask.html#ae0353dcc4e0ab97bfadf5b697fd346ed',1,'XiaListModeDataMask']]],
+  ['bananatest',['BananaTest',['../d7/d8b/class_plots.html#a6b095176cd32993332f38b74db6f76c1',1,'Plots']]],
+  ['bantesti_5f',['bantesti_',['../da/d57/_scanor_8hpp.html#a16d225107d7cfd124f3d73b3d0039c2a',1,'bantesti_(const int &amp;, const int &amp;, const int &amp;):&#160;Scanor.hpp'],['../d3/d87/_his_file_8hpp.html#a895ddfce531278b89ca540daa902ec33',1,'bantesti_(const int &amp;id, const double &amp;x, const double &amp;y):&#160;HisFile.cpp'],['../d7/de4/_his_file_8cpp.html#a895ddfce531278b89ca540daa902ec33',1,'bantesti_(const int &amp;id, const double &amp;x, const double &amp;y):&#160;HisFile.cpp']]],
+  ['barbuilder',['BarBuilder',['../de/d12/class_bar_builder.html#a10fe66abbc1565c5b4d4d66afac48652',1,'BarBuilder::BarBuilder()'],['../de/d12/class_bar_builder.html#a0ed3070a07def1038c03193c6d3a51e1',1,'BarBuilder::BarBuilder(const std::vector&lt; ChanEvent * &gt; vec)']]],
+  ['bardetector',['BarDetector',['../d6/d15/class_bar_detector.html#a11d234509f6bf333d7884d85445e43ee',1,'BarDetector::BarDetector()'],['../d6/d15/class_bar_detector.html#aa0fad529da8309c3591af548990249da',1,'BarDetector::BarDetector(HighResTimingData Left, HighResTimingData Right, TimingDefs::TimingIdentifier &amp;key)']]],
+  ['baseline_5fpair',['baseline_pair',['../d4/d6f/namespaceunittest__trace__variables.html#a8d692ab01b1e139d146ddb1c0a3eb363',1,'unittest_trace_variables']]],
+  ['basicprocessing',['BasicProcessing',['../da/d2f/class_logic_processor.html#a728ed7710ac73e73033c29f2df33eace',1,'LogicProcessor']]],
+  ['batchmode',['BatchMode',['../d7/dfc/class_scan_interface.html#a61287ea10341430735812a5d0e23a581',1,'ScanInterface']]],
+  ['bestbetaforgamma',['BestBetaForGamma',['../d5/d01/class_clover_processor.html#a9f0a87aa4c4de603af52cada0f837fda',1,'CloverProcessor']]],
+  ['bestbetaforneutron',['BestBetaForNeutron',['../d6/d4e/class_hen3_processor.html#aeeec970ef21c91fd1d6a672776f19f1b',1,'Hen3Processor']]],
+  ['bestgammaforbeta',['BestGammaForBeta',['../d4/de4/class_beta_scint_processor.html#a236a0af63b1537accccda7b73ae919a3',1,'BetaScintProcessor']]],
+  ['beta4hen3processor',['Beta4Hen3Processor',['../db/d92/class_beta4_hen3_processor.html#a3379a3e9bbb26ae67b0611d64a27e1f5',1,'Beta4Hen3Processor']]],
+  ['betascintprocessor',['BetaScintProcessor',['../d4/de4/class_beta_scint_processor.html#ad38a795950d4e4452d9a254785133c8e',1,'BetaScintProcessor::BetaScintProcessor()'],['../d4/de4/class_beta_scint_processor.html#a792ad6dbbd00353535caac0b2f4cdcf8',1,'BetaScintProcessor::BetaScintProcessor(double gammaBetaLimit, double energyContraction)']]],
+  ['bitflipper',['BitFlipper',['../d0/d6f/class_bit_flipper.html#a47f84113e7fa517b583cbcbd22915464',1,'BitFlipper::BitFlipper()'],['../d0/d6f/class_bit_flipper.html#a2664a091f2816f5cb2c7bb7b40409331',1,'BitFlipper::BitFlipper(unsigned int bit_, unsigned int num_toggle_bits_=19)']]],
+  ['booltostring',['BoolToString',['../d5/d2b/namespace_string_manipulation.html#a78c0eacbe95c1a1d48aec4873ce0a15d',1,'StringManipulation']]],
+  ['boot',['Boot',['../d9/dc6/class_pixie_interface.html#ae470f4ea2b5e2955599a2e05a4d30e25',1,'PixieInterface']]],
+  ['broadcast_5fdata',['broadcast_data',['../d6/db0/class_poll.html#a2c19891ad6e9da2eacf7e208cec08db0',1,'Poll']]],
+  ['broadcast_5fpac_5fdata',['broadcast_pac_data',['../d6/db0/class_poll.html#abdd920d14ae9c7a1b00bb9869e964f79',1,'Poll']]],
+  ['buffer',['buffer',['../da/d40/classbuffer.html#a5e4b67f8834ec79f467a1e11bdebe042',1,'buffer::buffer()'],['../da/d40/classbuffer.html#a0c1bf6f07b33e5434ec0a94d67d852e6',1,'buffer::buffer(const std::streampos &amp;start_, const int &amp;length_)']]],
+  ['buffertype',['BufferType',['../d4/d57/class_buffer_type.html#a676f7f67dbea3d54eca0eb84bf856199',1,'BufferType']]],
+  ['buildbars',['BuildBars',['../de/d12/class_bar_builder.html#a6122a4c2a7b4ba9527af65aa932194c3',1,'BarBuilder']]],
+  ['buildrawevent',['BuildRawEvent',['../d2/de8/class_unpacker.html#af3b767d00a571f8ee416df9a89625cc0',1,'Unpacker']]],
+  ['buildtree',['buildTree',['../d3/d2c/class_tree_correlator.html#ab6016005579b56ba1e8df981ed8c3559',1,'TreeCorrelator']]]
+];

@@ -1,0 +1,11 @@
+digraph "SkeletonInterface::IdleTask"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="SkeletonInterface::\lIdleTask",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="SkeletonInterface::\lInitialize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dab/class_skeleton_interface.html#a88092dd28aabaa310b375454741db004"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="SkeletonInterface::\lFinalInitialization",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/dab/class_skeleton_interface.html#a4935afd18a6ffc0bf764fa5d867dddfe"];
+}

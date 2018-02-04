@@ -1,0 +1,36 @@
+digraph "ScopeUnpacker::ProcessEvents"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="ScopeUnpacker::ProcessEvents",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="ScopeUnpacker::Plot",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d1e/class_scope_unpacker.html#aa68f23ae94ba7bfe4aded8f36ef379b8",tooltip="Plot the current event. "];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="ScopeUnpacker::ResetGraph",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d1e/class_scope_unpacker.html#ab447049fc35d5d77992e5208335c1815"];
+  Node2 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="RootInterface::get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/da5/class_root_interface.html#ad369e92a08888d5f34b27a029bd9cdd4"];
+  Node4 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="RootInterface::RootInterface",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/da5/class_root_interface.html#a0a3fafffd865dcd011ee5dcc95600c26"];
+  Node2 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="RootInterface::ResetZoom",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/da5/class_root_interface.html#a7d7a082954d93789c99e93bb29dc6dcb"];
+  Node2 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="RootInterface::UpdateZoom",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/da5/class_root_interface.html#abfbf3ab2a2b3dec89614030175198c36"];
+  Node7 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="list",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d06/_analysis_2_resources_2source_2_c_make_lists_8txt.html#a92407aa83aceb7e781743373bcb8035a"];
+  Node2 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="Trace::GetMaxInfo",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/db7/class_trace.html#adabf44308f34afb878504b0ed7ee0d0a"];
+  Node2 -> Node10 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="Trace::GetQdc",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/db7/class_trace.html#a825c518af0ec6dcba45253c05b562a62"];
+  Node2 -> Node11 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node11 [label="Trace::GetBaselineInfo",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/db7/class_trace.html#aeee6c9b5e253a8df3dd8fa81fccc104f"];
+  Node2 -> Node12 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node12 [label="ProcessedXiaData::GetTrace",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$df/d3c/class_processed_xia_data.html#a2d98ff813786abdb09ebc6bd22dbf48d"];
+  Node2 -> Node13 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 [label="RootInterface::GetCanvas",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/da5/class_root_interface.html#ab29db8e2b6a0fdae2e6fb5ce3ca74555"];
+  Node13 -> Node14 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node14 [label="RootInterface::IdleTask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d8/da5/class_root_interface.html#a44bce7d73b4f1505e0750da0681ef67c"];
+  Node13 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node13 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+}

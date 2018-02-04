@@ -1,0 +1,13 @@
+digraph "TraceAnalyzer::Plot"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="TraceAnalyzer::Plot",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Plots::Plot",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/d8b/class_plots.html#a68849b82c8c7a5d57f972cbd8de83328",tooltip="Plots into histogram defined by dammId. "];
+  Node2 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="count1cc_",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d57/_scanor_8hpp.html#a31aca3d0ff704e08f8f8968288ae7895",tooltip="Defines the DAMM function to call for 1D hists */. "];
+  Node2 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="set2cc_",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d57/_scanor_8hpp.html#a8b0a662ebdb3f947ba8470bf89f11c3a",tooltip="Defines the DAMM function to call for 2D hists */. "];
+}

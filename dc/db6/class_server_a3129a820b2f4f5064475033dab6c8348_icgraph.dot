@@ -1,0 +1,25 @@
+digraph "Server::Close"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="Server::Close",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="main",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d8b/listener_8cpp.html#ae66f6b31b5ad750f1fe042a706a4e3d4"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Poll::Close",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/db0/class_poll.html#ab16cd3eb72cac653541300cb6536e710",tooltip="Close the sockets, any open files, and clean up. "];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="main",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d1/d50/poll2_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97"];
+  Node3 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="Poll::~Poll",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/db0/class_poll.html#ab99bf5ecc1992b6023e19fbb6b321f7a",tooltip="Destructor. "];
+  Node3 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="Poll::get_traces",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d6/db0/class_poll.html#a7bc77d04169be53d1a3553e0a55932d6",tooltip="Acquire raw traces from a pixie module. "];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="Server::~Server",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/db6/class_server.html#a4b3aa2579cb1c8cd1d069582c14d0fa6"];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="Server::Get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/db6/class_server.html#a5de021f3be9993d7e050c58f64cd083a"];
+  Node1 -> Node9 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="Client::~Client",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d7a/class_client.html#a840e519ca781888cbd54181572ebe3a7"];
+  Node1 -> Node10 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node10 [label="Client::Get",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/d7a/class_client.html#a7af74af1015f21528f63d6d9274b4b99"];
+}

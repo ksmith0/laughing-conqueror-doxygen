@@ -1,0 +1,24 @@
+digraph "PlaceThresholdOR"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="PlaceThresholdOR",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node2 -> Node1 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="PlaceThreshold",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dd5/class_place_threshold.html",tooltip="Each activation must be within the set thresholds. "];
+  Node3 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="Place",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d21/class_place.html",tooltip="A pure abstract class to define a \"place\" for correlator. "];
+  Node4 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" parents_" ,fontname="Helvetica"];
+  Node4 [label="std::vector\< Place * \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node3 -> Node4 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" elements" ,fontname="Helvetica"];
+  Node5 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" info_" ,fontname="Helvetica"];
+  Node5 [label="std::deque\< EventData \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+  Node6 -> Node5 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" elements" ,fontname="Helvetica"];
+  Node6 [label="EventData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d3/dbe/class_event_data.html",tooltip="Simple structure holding basic parameters needed for correlation of events in the same place..."];
+  Node7 -> Node6 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" type" ,fontname="Helvetica"];
+  Node7 [label="std::string",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip="STL class. "];
+  Node8 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="std::basic_string\<\l char \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled",tooltip="STL class. "];
+  Node9 -> Node3 [dir="back",color="darkorchid3",fontsize="10",style="dashed",label=" children_" ,fontname="Helvetica"];
+  Node9 [label="std::vector\< std::pair\l\< Place *, bool \> \>",height=0.2,width=0.4,color="grey75", fillcolor="white", style="filled"];
+}

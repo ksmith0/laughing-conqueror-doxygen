@@ -1,0 +1,23 @@
+digraph "XiaListModeDataDecoder::CalculateTimeInSamples"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="XiaListModeDataDecoder\l::CalculateTimeInSamples",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="Conversions::Concatenate\lWords",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/df8/namespace_conversions.html#ab4a6f68a55e2cb0cae208ea8ba028e37"];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="XiaData::GetEventTimeLow",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#a477694efe035660d8b7c2f66edeb6391"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="XiaData::GetEventTimeHigh",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#a0b36b071cd7116ac4190a62581e524d9"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="XiaData::GetCfdFractionalTime",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#aacf4e60f363bf42851bb7b65eb1456aa"];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="XiaData::GetCfdForcedTriggerBit",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#a49b9907d1f012a9154dc93070a4f00a8"];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="XiaListModeDataMask\l::GetFrequency",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d76/class_xia_list_mode_data_mask.html#a0f0d736bff31821c636ffa5e6eb748c1"];
+  Node1 -> Node8 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="XiaListModeDataMask\l::GetCfdSize",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d76/class_xia_list_mode_data_mask.html#af207eba9f8d0988d96e86bdf93a9dba7"];
+  Node1 -> Node9 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node9 [label="XiaData::GetCfdTriggerSourceBit",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#a7aa98d3225b681fc7e28b67ee45ed9b2"];
+}

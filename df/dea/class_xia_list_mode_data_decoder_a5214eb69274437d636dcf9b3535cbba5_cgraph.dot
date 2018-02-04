@@ -1,0 +1,19 @@
+digraph "XiaListModeDataDecoder::DecodeWordThree"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="XiaListModeDataDecoder\l::DecodeWordThree",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="XiaData::SetEnergy",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#aaf91ca7a3d8cc1eb54ab6eca795ffefe",tooltip="Sets the energy calculated on-board. "];
+  Node1 -> Node3 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="XiaListModeDataMask\l::GetEventEnergyMask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d76/class_xia_list_mode_data_mask.html#a95d262e1a63fef2aed61c74ab7313f87"];
+  Node1 -> Node4 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="XiaListModeDataMask\l::GetFirmware",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d76/class_xia_list_mode_data_mask.html#a4c7449fb872e3acdd5ea45150010fdde"];
+  Node1 -> Node5 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="XiaData::SetSaturation",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/ddd/class_xia_data.html#a09f704a1bd879daa22d13c4d7a3a6404",tooltip="Sets the saturation flag. "];
+  Node1 -> Node6 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="XiaListModeDataMask\l::GetTraceOutOfRangeFlagMask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d76/class_xia_list_mode_data_mask.html#a3216c3a9d30f2af79b0bfdceeba60fd6"];
+  Node1 -> Node7 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="XiaListModeDataMask\l::GetTraceLengthMask",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dc/d76/class_xia_list_mode_data_mask.html#a437a6586ef2cfb504d1414e271c7f9d6"];
+}

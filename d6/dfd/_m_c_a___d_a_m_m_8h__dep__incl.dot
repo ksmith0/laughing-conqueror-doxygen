@@ -1,0 +1,12 @@
+digraph "MCA_DAMM.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="MCA_DAMM.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="MCA_DAMM.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d2/d08/_m_c_a___d_a_m_m_8cpp.html"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="MCA_exec.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$da/d35/_m_c_a__exec_8cpp.html"];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="poll2_core.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dd4/poll2__core_8cpp.html",tooltip="Controls the poll2 command interpreter and data acquisition system. "];
+}

@@ -1,0 +1,20 @@
+digraph "poll2_socket.h"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node1 [label="poll2_socket.h",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="listener.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d8b/listener_8cpp.html",tooltip="Receives and decodes packets broadcast by poll2. "];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="monitor.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d4/de7/monitor_8cpp.html",tooltip="Receives and decodes rate packets from StatsHandler. "];
+  Node1 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="poll2_core.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/dd4/poll2__core_8cpp.html",tooltip="Controls the poll2 command interpreter and data acquisition system. "];
+  Node1 -> Node5 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node5 [label="poll2_stats.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$dd/d76/poll2__stats_8cpp.html"];
+  Node1 -> Node6 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node6 [label="ScanInterface.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$de/d60/_scan_interface_8cpp.html",tooltip="A class to handle reading from various UTK/ORNL pixie16 data formats. "];
+  Node1 -> Node7 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node7 [label="hribf_buffers.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$db/ddf/hribf__buffers_8cpp.html",tooltip="Handles poll2 output data files. "];
+  Node1 -> Node8 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node8 [label="poll2_socket.cpp",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d7/deb/poll2__socket_8cpp.html",tooltip="Provides network connectivity for poll2. "];
+}

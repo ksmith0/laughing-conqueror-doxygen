@@ -1,0 +1,13 @@
+digraph "HistScannerChanData::Set"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node1 [label="HistScannerChanData::Set",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node1 -> Node2 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node2 [label="HistScannerChanData\l::~HistScannerChanData",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d48/class_hist_scanner_chan_data.html#a82d5d06223b575c99b8c1ccf4a39a08d"];
+  Node1 -> Node3 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node3 [label="HistUnpacker::AddEvent",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d4f/class_hist_unpacker.html#a9fe1102664592a667957f73feb98b0bf",tooltip="Create a HistScannerChanData from the provided XiaData. "];
+  Node3 -> Node4 [dir="back",color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node4 [label="HistUnpacker::ProcessRaw\lEvent",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$d0/d4f/class_hist_unpacker.html#aff13db53afd16e00d86681802171768e"];
+}

@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$d7/da7/class_xml_parser.html" title="A class that handles parsing XML nodes. " alt="" coords="5,81,88,108"/>
+<area shape="rect" id="node2" href="$d9/d08/class_detector_driver_xml_parser.html" title="DetectorDriverXmlParser" alt="" coords="136,5,304,32"/>
+<area shape="rect" id="node3" href="$de/db6/class_globals_xml_parser.html" title="GlobalsXmlParser" alt="" coords="157,56,283,83"/>
+<area shape="rect" id="node4" href="$d1/d1c/class_map_node_xml_parser.html" title="MapNodeXmlParser" alt="" coords="151,107,289,133"/>
+<area shape="rect" id="node5" href="$da/dde/class_tree_correlator_xml_parser.html" title="Class to handle parsing the TreeCorrelator node. " alt="" coords="137,157,303,184"/>
+</map>

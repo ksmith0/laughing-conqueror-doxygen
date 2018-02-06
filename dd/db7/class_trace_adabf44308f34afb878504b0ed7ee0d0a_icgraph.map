@@ -1,0 +1,18 @@
+<map id="Trace::GetMaxInfo" name="Trace::GetMaxInfo">
+<area shape="rect" id="node2" href="$d8/d35/class_fitting_analyzer.html#ae3f301aba508287caefbe46f39f1914d" title="FittingAnalyzer::Analyze" alt="" coords="193,5,357,32"/>
+<area shape="rect" id="node3" href="$d7/d61/class_high_res_timing_data.html#a38d19413ed2efb9f623393a2519f5040" title="HighResTimingData::\lGetMaximumPosition" alt="" coords="201,57,349,98"/>
+<area shape="rect" id="node4" href="$d7/d61/class_high_res_timing_data.html#ab06b6f703b5aa89f55e6e41428e69003" title="HighResTimingData::\lGetMaximumValue" alt="" coords="201,122,349,163"/>
+<area shape="rect" id="node9" href="$d0/d48/class_hist_scanner_chan_data.html#a54d9449f072b091c776adafbce18c5a0" title="HistScannerChanData::Set" alt="" coords="184,188,365,215"/>
+<area shape="rect" id="node13" href="$d0/d1e/class_scope_unpacker.html#aa68f23ae94ba7bfe4aded8f36ef379b8" title="Plot the current event. " alt="" coords="201,245,348,272"/>
+<area shape="rect" id="node16" href="$d1/d61/class_waa_analyzer.html#acb271698a71ece00c719b7f8ad4c3025" title="WaaAnalyzer::Analyze" alt="" coords="197,311,352,337"/>
+<area shape="rect" id="node5" href="$d7/d6b/class_liquid_scint_processor.html#a6e1f7662a1362e5c14275c9a13388231" title="LiquidScintProcessor\l::Process" alt="" coords="447,42,592,83"/>
+<area shape="rect" id="node7" href="$d3/d5e/class_teeny_vandle_processor.html#a01b193b7a00b5bbc2d0b35ccc0f34d82" title="TeenyVandleProcessor\l::PreProcess" alt="" coords="441,107,598,149"/>
+<area shape="rect" id="node6" href="$d7/d6b/class_liquid_scint_processor.html#a4d89e8c3779a6903973b8313b063ceb1" title="LiquidScintProcessor\l::~LiquidScintProcessor" alt="" coords="692,42,853,83"/>
+<area shape="rect" id="node8" href="$d3/d5e/class_teeny_vandle_processor.html#ace84b3cc48debac1892f4fa954adafbd" title="TeenyVandleProcessor\l::~TeenyVandleProcessor" alt="" coords="686,107,859,149"/>
+<area shape="rect" id="node10" href="$d0/d48/class_hist_scanner_chan_data.html#a82d5d06223b575c99b8c1ccf4a39a08d" title="HistScannerChanData\l::~HistScannerChanData" alt="" coords="435,173,604,214"/>
+<area shape="rect" id="node11" href="$d0/d4f/class_hist_unpacker.html#a9fe1102664592a667957f73feb98b0bf" title="Create a HistScannerChanData from the provided XiaData. " alt="" coords="436,239,603,265"/>
+<area shape="rect" id="node12" href="$d0/d4f/class_hist_unpacker.html#aff13db53afd16e00d86681802171768e" title="HistUnpacker::ProcessRaw\lEvent" alt="" coords="680,223,865,265"/>
+<area shape="rect" id="node14" href="$d0/d1e/class_scope_unpacker.html#a6f396dfd3e7a0c25de3d0919a1791a11" title="ScopeUnpacker::ProcessEvents" alt="" coords="413,289,625,316"/>
+<area shape="rect" id="node15" href="$d0/d1e/class_scope_unpacker.html#a72f39d42058753f97fd4499fd6b2b79f" title="ScopeUnpacker::ProcessRaw\lEvent" alt="" coords="673,289,872,330"/>
+<area shape="rect" id="node17" href="$d1/d61/class_waa_analyzer.html#acf4c091fd816f6cac524499091094079" title="WaaAnalyzer::~WaaAnalyzer" alt="" coords="422,340,617,367"/>
+</map>

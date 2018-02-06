@@ -1,0 +1,8 @@
+<map id="LitePositionProcessor::Init" name="LitePositionProcessor::Init">
+<area shape="rect" id="node2" href="$d6/d65/class_event_processor.html#aebda4c898e4e7fb6115d17366802a16d" title="EventProcessor::Init" alt="" coords="216,123,357,149"/>
+<area shape="rect" id="node3" href="$dc/dbe/class_detector_library.html#a6ab3ff825daa8b607865086741bc9b2c" title="DetectorLibrary::get" alt="" coords="435,5,573,32"/>
+<area shape="rect" id="node6" href="$d6/dc9/class_messenger.html#a24d0db0aece5830b3de62310f5753be8" title="Messenger::detail" alt="" coords="637,173,763,200"/>
+<area shape="rect" id="node7" href="$dc/dbe/class_detector_library.html#ae111bf4e296587b18d2dd9ef5ce3f962" title="DetectorLibrary::GetNext\lLocation" alt="" coords="203,275,371,317"/>
+<area shape="rect" id="node4" href="$dc/dbe/class_detector_library.html#a648ce584518bf132962fb3488859a680" title="this needs moved to UtkUnpacker " alt="" coords="419,57,589,98"/>
+<area shape="rect" id="node5" href="$dc/d32/class_raw_event.html#a0405b96da430f69eb01fc8a7668420cc" title="Get a pointer to a specific detector summary. " alt="" coords="420,123,588,149"/>
+</map>

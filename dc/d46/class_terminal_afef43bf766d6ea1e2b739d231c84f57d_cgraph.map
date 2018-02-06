@@ -1,0 +1,35 @@
+<map id="Terminal::GetCommand" name="Terminal::GetCommand">
+<area shape="rect" id="node2" href="$dc/d46/class_terminal.html#a6c2931e9df5b72d7c23d46491ad70c1d" title="Print the command prompt to the screen. " alt="" coords="235,120,384,147"/>
+<area shape="rect" id="node3" href="$dc/d46/class_terminal.html#ac5568eb9dee6317534da0cc87688a2d8" title="Force a character string to the output screen. " alt="" coords="741,171,846,198"/>
+<area shape="rect" id="node4" href="$dc/d46/class_terminal.html#a9e674b8f0c4974752a2c72da2e51281e" title="Refresh the terminal. " alt="" coords="923,70,1049,96"/>
+<area shape="rect" id="node5" href="$dc/d46/class_terminal.html#abd5d806cfba1fbe2a13bc131cd3edb3f" title="Update the positions of the physical and logical cursors. " alt="" coords="473,171,643,198"/>
+<area shape="rect" id="node6" href="$dc/d46/class_terminal.html#a3040f79ff155d9084507e2404dd3a056" title="Close the window and restore control to the terminal. " alt="" coords="252,424,367,451"/>
+<area shape="rect" id="node9" href="$dc/d46/class_terminal.html#a908cdfa64167279ed565d43b45470c3d" title="Dump all text in the stream to the output screen. " alt="" coords="504,323,612,350"/>
+<area shape="rect" id="node10" href="$d2/d2e/class_command_holder.html#a56593953b1a610a94afe78fa8bd085db" title="Reset history to last item. " alt="" coords="477,475,639,502"/>
+<area shape="rect" id="node11" href="$d2/d2e/class_command_holder.html#aadf1c7083e75c3150c5c9b542af39462" title="Get the next command entry but do not change the internal array index. " alt="" coords="465,526,651,552"/>
+<area shape="rect" id="node12" href="$d2/d2e/class_command_holder.html#a4b32c87aeaf96122a7c88f8925f72c5d" title="Push a new command into the storage array. " alt="" coords="479,931,637,958"/>
+<area shape="rect" id="node13" href="$dc/d46/class_terminal.html#a152f43dea83e1c6f4342836ded93952a" title="Clear the command prompt output. " alt="" coords="501,272,615,299"/>
+<area shape="rect" id="node14" href="$d2/d2e/class_command_holder.html#aa6ce9cdf03c5ceb424ce4ae6370a6306" title="Get the current command index (relative to the most recent command) " alt="" coords="219,779,400,806"/>
+<area shape="rect" id="node15" href="$d2/d2e/class_command_holder.html#a9263f7602119a4b47dfa5b6db90d8e20" title="Capture the current command line text and store it for later use. " alt="" coords="222,576,397,603"/>
+<area shape="rect" id="node17" href="$d2/d2e/class_command_holder.html#a84e85995e07d19c455ca942d3722e2ec" title="Get the previous command entry. " alt="" coords="470,830,646,856"/>
+<area shape="rect" id="node19" href="$d2/d2e/class_command_holder.html#a1ef18b7966f6834afd70859a89f50517" title="Get the next command entry. " alt="" coords="469,880,647,907"/>
+<area shape="rect" id="node28" href="$dc/d46/class_terminal.html#a76795ea7023bbb6efe963445adaeb1e0" title="Force a character string to the input screen. " alt="" coords="245,830,374,856"/>
+<area shape="rect" id="node30" href="$dc/d46/class_terminal.html#a70f2f144b36cd8879b08b12431cf3e44" title="Scroll the output by a specified number of lines. " alt="" coords="250,880,369,907"/>
+<area shape="rect" id="node31" href="$dc/d46/class_terminal.html#aa08c624f990666d5563da8f45570b941" title="Force a character to the input screen. " alt="" coords="245,931,374,958"/>
+<area shape="rect" id="node32" href="$dc/d46/class_terminal.html#aacfabe48c8137a026f13cbb0d5a2646f" title="Split a string into multiple commands separated by a &#39;;&#39;. " alt="" coords="222,982,397,1008"/>
+<area shape="rect" id="node33" href="$dc/d46/class_terminal.html#aadd198abf1f1d5acd6094bebbf8539b4" title="Read commands from a command script. " alt="" coords="215,1032,404,1059"/>
+<area shape="rect" id="node34" href="$dc/d46/class_terminal.html#a8335c2e8edcd36b065b47c58a18b503d" title="Print a command to the terminal output. " alt="" coords="226,323,393,350"/>
+<area shape="rect" id="node7" href="$dc/d46/class_terminal.html#ac4bc120aa4401e57bd39edf799d8118c" title="Save previous commands to a file. " alt="" coords="452,374,664,400"/>
+<area shape="rect" id="node8" href="$da/d93/_c_terminal_8cpp.html#a0343ae20e674525cf386f2cba4447015" title="unset_signal_handlers" alt="" coords="483,424,633,451"/>
+<area shape="rect" id="node16" href="$d2/d2e/class_command_holder.html#a93979b87c7c92f5dbf2867fef45759e4" title="Clear the command array. " alt="" coords="479,576,637,603"/>
+<area shape="rect" id="node20" href="$d2/d2e/class_command_holder.html#a3cef0d7f3917ece61196bebd2f2cffe0" title="Get the next command entry but do not change the internal array index. " alt="" coords="465,627,651,654"/>
+<area shape="rect" id="node21" href="$d2/d2e/class_command_holder.html#afd716d3c9e2e05f583df48acb5b88db0" title="Dump all stored commands to the screen. " alt="" coords="477,678,639,704"/>
+<area shape="rect" id="node22" href="$d8/d1f/_c_terminal_8h.html#a0d91bd46bb80d46b5b62856ee05c748d" title="sig_int_handler" alt="" coords="503,728,613,755"/>
+<area shape="rect" id="node23" href="$d8/d1f/_c_terminal_8h.html#a7df47e37fd55c553b8fd39cf996d786c" title="setup_signal_handlers" alt="" coords="483,779,633,806"/>
+<area shape="rect" id="node18" href="$d2/d2e/class_command_holder.html#ac0f6512be17f33e47924c58d73c46893" title="CommandHolder::wrap_" alt="" coords="712,880,875,907"/>
+<area shape="rect" id="node24" href="$da/d93/_c_terminal_8cpp.html#af5d162754e9b9fed55454e7d15367df0" title="sig_segv_handler" alt="" coords="732,678,855,704"/>
+<area shape="rect" id="node25" href="$da/d93/_c_terminal_8cpp.html#a0d91bd46bb80d46b5b62856ee05c748d" title="sig_int_handler" alt="" coords="739,728,848,755"/>
+<area shape="rect" id="node26" href="$da/d93/_c_terminal_8cpp.html#aa276bffc9cff077547e08c758d6c55b5" title="sig_tstp_handler" alt="" coords="735,779,852,806"/>
+<area shape="rect" id="node27" href="$da/d93/_c_terminal_8cpp.html#a7c5ca71ebcc4b6781a02e37a8e09f712" title="signalResize" alt="" coords="745,830,842,856"/>
+<area shape="rect" id="node29" href="$da/d93/_c_terminal_8cpp.html#a70a7d1790096221070bfe2a6d5662fc1" title="Return the length of a character string. " alt="" coords="527,982,589,1008"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="TraceAnalyzer::plot" name="TraceAnalyzer::plot">
+<area shape="rect" id="node2" href="$d7/d8b/class_plots.html#a68849b82c8c7a5d57f972cbd8de83328" title="Plots into histogram defined by dammId. " alt="" coords="409,56,492,83"/>
+<area shape="rect" id="node5" href="$d2/dbc/class_trace_analyzer.html#a42c5abc1e433c5176680e18530b288d1" title="TraceAnalyzer::Plot" alt="" coords="206,31,343,58"/>
+<area shape="rect" id="node6" href="$d2/dbc/class_trace_analyzer.html#ae149c77b014f0bc99177313c83cb6862" title="TraceAnalyzer::ScalePlot" alt="" coords="189,82,360,108"/>
+<area shape="rect" id="node7" href="$d2/dbc/class_trace_analyzer.html#a04f155e328cf8027bc1fc59f154c4e7a" title="TraceAnalyzer::OffsetPlot" alt="" coords="188,132,361,159"/>
+<area shape="rect" id="node3" href="$da/d57/_scanor_8hpp.html#a31aca3d0ff704e08f8f8968288ae7895" title="Defines the DAMM function to call for 1D hists */. " alt="" coords="540,31,623,58"/>
+<area shape="rect" id="node4" href="$da/d57/_scanor_8hpp.html#a8b0a662ebdb3f947ba8470bf89f11c3a" title="Defines the DAMM function to call for 2D hists */. " alt="" coords="547,82,615,108"/>
+</map>

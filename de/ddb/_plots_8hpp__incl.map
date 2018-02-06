@@ -1,0 +1,9 @@
+<map id="Plots.hpp" name="Plots.hpp">
+<area shape="rect" id="node6" href="$d4/d9c/_globals_8hpp.html" title="constant parameters used in pixie16 analysis " alt="" coords="835,80,925,107"/>
+<area shape="rect" id="node21" href="$d3/d87/_his_file_8hpp.html" title="HisFile.hpp" alt="" coords="121,80,209,107"/>
+<area shape="rect" id="node22" href="$da/d82/_plots_register_8hpp.html" title="PlotsRegister.hpp" alt="" coords="311,80,438,107"/>
+<area shape="rect" id="node14" href="$dc/d77/_constants_8hpp.html" title="A header that contains various useful constants for the software. " alt="" coords="675,155,781,181"/>
+<area shape="rect" id="node15" href="$df/dd4/_paass_exceptions_8hpp.html" title="Class to handle errors occurring during the execution of the code This file will break with the One&#45;C..." alt="" coords="563,229,712,256"/>
+<area shape="rect" id="node17" href="$d0/db0/_messenger_8hpp.html" title="A class to handle messages and output them prettily. " alt="" coords="489,155,599,181"/>
+<area shape="rect" id="node20" href="$dd/d48/_trap_filter_parameters_8hpp.html" title="A class to hold parameters for a trapezoidal filter in units of ns. " alt="" coords="857,155,1026,181"/>
+</map>

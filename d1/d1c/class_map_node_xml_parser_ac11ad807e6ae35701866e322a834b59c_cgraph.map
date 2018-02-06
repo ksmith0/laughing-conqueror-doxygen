@@ -1,0 +1,6 @@
+<map id="MapNodeXmlParser::ParseTraceNode" name="MapNodeXmlParser::ParseTraceNode">
+<area shape="rect" id="node2" href="$d6/d20/class_channel_configuration.html#a4dd223385455bdd4f7942a440987ba4b" title="Sets the start position for the tail sums for doing particle discrimination. " alt="" coords="299,5,521,47"/>
+<area shape="rect" id="node3" href="$d6/d20/class_channel_configuration.html#aa79c44ccd1de9c8b54a9ab3b2151a0e2" title="ChannelConfiguration\l::SetBaselineThreshold" alt="" coords="331,71,489,112"/>
+<area shape="rect" id="node4" href="$d6/d20/class_channel_configuration.html#ac8e30eeec9a35474cd3af5d86fd2a399" title="ChannelConfiguration\l::SetWaveformBoundsInSamples" alt="" coords="302,136,518,177"/>
+<area shape="rect" id="node5" href="$d6/d20/class_channel_configuration.html#a7678f658ad9ea06474bc01fe5a0fbc41" title="ChannelConfiguration\l::SetTraceDelayInSamples" alt="" coords="321,201,499,243"/>
+</map>

@@ -1,0 +1,17 @@
+<map id="BarDetector.hpp" name="BarDetector.hpp">
+<area shape="rect" id="node5" href="$df/d14/_high_res_timing_data_8hpp.html" title="Class to hold all of the information for high resolution timing. " alt="" coords="940,80,1105,107"/>
+<area shape="rect" id="node32" href="$db/d6d/_timing_calibrator_8hpp.html" title="A class to handle the timing calibration parameters. " alt="" coords="1359,229,1502,256"/>
+<area shape="rect" id="node6" href="$df/dcf/_chan_event_8hpp.html" title="A Class to define what a channel event is. " alt="" coords="821,155,933,181"/>
+<area shape="rect" id="node21" href="$dc/d77/_constants_8hpp.html" title="A header that contains various useful constants for the software. " alt="" coords="1123,379,1229,405"/>
+<area shape="rect" id="node22" href="$d4/d9c/_globals_8hpp.html" title="constant parameters used in pixie16 analysis " alt="" coords="1485,304,1576,331"/>
+<area shape="rect" id="node8" href="$d8/dd0/_channel_configuration_8hpp.html" title="Class that holds information about channel specific information. Including things like the trace dela..." alt="" coords="347,379,519,405"/>
+<area shape="rect" id="node14" href="$dc/dec/_processed_xia_data_8hpp.html" title="An XiaData object that has undergone additional processing. " alt="" coords="975,304,1131,331"/>
+<area shape="rect" id="node15" href="$df/d04/_trace_8hpp.html" title="A simple class to store the traces. " alt="" coords="747,379,827,405"/>
+<area shape="rect" id="node18" href="$d6/d3a/_detector_library_8hpp.html" title="This is an extension of the vector of the channelConfigurations that was previously used..." alt="" coords="520,229,656,256"/>
+<area shape="rect" id="node13" href="$dd/d48/_trap_filter_parameters_8hpp.html" title="A class to hold parameters for a trapezoidal filter in units of ns. " alt="" coords="566,453,735,480"/>
+<area shape="rect" id="node17" href="$d3/d2b/_xia_data_8hpp.html" title="XiaData.hpp" alt="" coords="1003,379,1098,405"/>
+<area shape="rect" id="node19" href="$df/dbb/_calibrator_8hpp.html" title="Class to handle energy calibrations for the channels. " alt="" coords="607,304,710,331"/>
+<area shape="rect" id="node20" href="$da/d18/_walk_corrector_8hpp.html" title="A Class to handle walk corrections for channels. " alt="" coords="452,304,583,331"/>
+<area shape="rect" id="node28" href="$df/dd4/_paass_exceptions_8hpp.html" title="Class to handle errors occurring during the execution of the code This file will break with the One&#45;C..." alt="" coords="1900,453,2049,480"/>
+<area shape="rect" id="node30" href="$d0/db0/_messenger_8hpp.html" title="A class to handle messages and output them prettily. " alt="" coords="1858,379,1969,405"/>
+</map>

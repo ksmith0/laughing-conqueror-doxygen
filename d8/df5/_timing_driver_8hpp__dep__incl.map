@@ -1,0 +1,20 @@
+<map id="TimingDriver.hpp" name="TimingDriver.hpp">
+<area shape="rect" id="node2" href="$db/ddb/_gsl_fitter_8hpp.html" title="Implementation of the GSL fitting routine for GSL v2+. " alt="" coords="285,80,382,107"/>
+<area shape="rect" id="node7" href="$d0/d40/_polynomial_cfd_8hpp.html" title="A method that uses the. " alt="" coords="949,80,1081,107"/>
+<area shape="rect" id="node11" href="$dd/dc2/_root_fitter_8hpp.html" title="Class to handle fitting traces using ROOT. " alt="" coords="1659,80,1765,107"/>
+<area shape="rect" id="node14" href="$d9/dea/_traditional_cfd_8hpp.html" title="Traditional CFD implemented digitally. " alt="" coords="1207,80,1335,107"/>
+<area shape="rect" id="node17" href="$dd/deb/_cfd_analyzer_8hpp.html" title="Class to use Cfd on traces. " alt="" coords="806,80,925,107"/>
+<area shape="rect" id="node19" href="$de/dfa/_fitting_analyzer_8hpp.html" title="Class to fit functions to waveforms. " alt="" coords="618,80,753,107"/>
+<area shape="rect" id="node3" href="$d6/d85/_gsl1_fitter_8cpp.html" title="Implementation of the GSL fitting routine for GSL v 1.16 or older. " alt="" coords="5,155,109,181"/>
+<area shape="rect" id="node4" href="$d7/dd0/_gsl2_fitter_8cpp.html" title="Implementation of the GSL fitting routine for GSL v2+. " alt="" coords="133,155,237,181"/>
+<area shape="rect" id="node5" href="$dd/dc7/unittest-_gsl_fitter_8cpp.html" title="A small code to test the functionality of the FitDriver. " alt="" coords="261,155,405,181"/>
+<area shape="rect" id="node6" href="$dc/d87/_fitting_analyzer_8cpp.html" title="Uses a chi^2 minimization to fit waveforms. " alt="" coords="430,155,565,181"/>
+<area shape="rect" id="node8" href="$da/db2/_polynomial_cfd_8cpp.html" title="Timing method that calculates the timing using a Polynomial based CFD. " alt="" coords="949,155,1081,181"/>
+<area shape="rect" id="node9" href="$d3/dbb/unittest-_polynomial_cfd_8cpp.html" title="unittest&#45;PolynomialCfd.cpp" alt="" coords="1105,155,1284,181"/>
+<area shape="rect" id="node10" href="$db/d3f/_cfd_analyzer_8cpp.html" title="Uses a Digital CFD to obtain waveform phases. " alt="" coords="806,155,925,181"/>
+<area shape="rect" id="node12" href="$d0/ddf/_root_fitter_8cpp.html" title="Class to handle fitting traces using ROOT. " alt="" coords="1659,155,1765,181"/>
+<area shape="rect" id="node13" href="$d1/d23/unittest-_root_fitter_8cpp.html" title="Unit tests for the RootFitter class. " alt="" coords="1789,155,1941,181"/>
+<area shape="rect" id="node15" href="$d4/d60/_traditional_cfd_8cpp.html" title="Traditional CFD implemented digitally, similar behavior to a NIM Module. " alt="" coords="1308,155,1436,181"/>
+<area shape="rect" id="node16" href="$d4/db1/unittest-_traditional_cfd_8cpp.html" title="unittest&#45;TraditionalCfd.cpp" alt="" coords="1461,155,1635,181"/>
+<area shape="rect" id="node18" href="$dc/d67/_detector_driver_xml_parser_8cpp.html" title="Class to parse the DetectorDriver node. " alt="" coords="589,155,782,181"/>
+</map>

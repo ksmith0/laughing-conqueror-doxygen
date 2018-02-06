@@ -1,0 +1,39 @@
+<map id="VandleProcessor::AnalyzeBarStarts" name="VandleProcessor::AnalyzeBarStarts">
+<area shape="rect" id="node2" href="$d6/d15/class_bar_detector.html#afd27f820c6859b1a69228cd3c238df3c" title="BarDetector::GetCorTimeAve" alt="" coords="489,251,684,278"/>
+<area shape="rect" id="node4" href="$d6/d15/class_bar_detector.html#aa76fb3d3f78aa6d8d3cc572cb18e1f70" title="BarDetector::GetCalibration" alt="" coords="749,15,931,42"/>
+<area shape="rect" id="node6" href="$d2/d44/class_timing_calibration.html#a9a525af84fd4ad5deaee261e6320d3cc" title="TimingCalibration::\lGetTofOffset" alt="" coords="266,350,397,392"/>
+<area shape="rect" id="node7" href="$db/d21/class_vandle_processor.html#a0e075e2826fc130f4e3b52f1ad59c871" title="Correct the time of flight based on the geometry of the setup. " alt="" coords="232,416,431,443"/>
+<area shape="rect" id="node8" href="$d6/d15/class_bar_detector.html#a0a587a54d41b2fc35fd1474bc1adadf7" title="BarDetector::GetFlightPath" alt="" coords="241,124,421,151"/>
+<area shape="rect" id="node9" href="$d6/d15/class_bar_detector.html#a809fe47808591c16680d0fe90500dcdd" title="BarDetector::GetType" alt="" coords="511,190,662,216"/>
+<area shape="rect" id="node14" href="$d2/d44/class_timing_calibration.html#af188738a9b1c5065482626f600030823" title="TimingCalibration::\lGetZ0" alt="" coords="266,468,397,509"/>
+<area shape="rect" id="node15" href="$db/d21/class_vandle_processor.html#a1597bac08eca7f01d8da1837ce9a14be" title="VandleProcessor::PlotTof\lHistograms" alt="" coords="246,533,417,574"/>
+<area shape="rect" id="node22" href="$d6/d15/class_bar_detector.html#a425dd8e2c5639358fa9728dfcc90b35e" title="BarDetector::GetQdc" alt="" coords="259,299,404,326"/>
+<area shape="rect" id="node38" href="$db/d21/class_vandle_processor.html#a408e5cbe5f5f5c249c59d00b68946b2f" title="VandleProcessor::ReturnOffset" alt="" coords="229,599,433,626"/>
+<area shape="rect" id="node3" href="$df/d3c/class_processed_xia_data.html#a796159b153b67faaaaf00650d4469ab4" title="ProcessedXiaData::GetWalk\lCorrectedTime" alt="" coords="745,248,935,289"/>
+<area shape="rect" id="node5" href="$dd/d02/class_timing_calibrator.html#aef9d53667925c12fee1462de03a5c063" title="TimingCalibrator::get" alt="" coords="1024,15,1167,42"/>
+<area shape="rect" id="node10" href="$d3/daf/class_globals.html#ae66fa0173342202c96b13d71a6522512" title="Instance is created upon first call. " alt="" coords="1049,155,1141,182"/>
+<area shape="rect" id="node11" href="$d6/d15/class_bar_detector.html#a9aeef4ac770dad5953229e9aacb5b32c" title="BarDetector::GetTimeDifference" alt="" coords="481,124,692,151"/>
+<area shape="rect" id="node12" href="$df/d3c/class_processed_xia_data.html#a5da8714dc3420a4efd9a199de3f56079" title="ProcessedXiaData::GetHigh\lResTimeInNs" alt="" coords="747,182,933,224"/>
+<area shape="rect" id="node13" href="$d2/d44/class_timing_calibration.html#a029592fb044fa928de8a7b67873c489d" title="TimingCalibration::\lGetLeftRightTimeOffset" alt="" coords="759,117,921,158"/>
+<area shape="rect" id="node16" href="$d6/d65/class_event_processor.html#ad5201bb392726e409ba2a6ac44e764d8" title="Implementation of the plot command to interface with the DAMM routines. " alt="" coords="515,566,659,592"/>
+<area shape="rect" id="node20" href="$da/d8d/class_detector_summary.html#a7ac90cef73b4df93002a938d61933cf5" title="DetectorSummary::GetMult" alt="" coords="495,616,678,643"/>
+<area shape="rect" id="node21" href="$da/d8d/class_detector_summary.html#ade277162067150739e660ab74cc9082d" title="DetectorSummary::GetList" alt="" coords="497,515,676,542"/>
+<area shape="rect" id="node17" href="$d7/d8b/class_plots.html#a68849b82c8c7a5d57f972cbd8de83328" title="Plots into histogram defined by dammId. " alt="" coords="799,750,881,776"/>
+<area shape="rect" id="node18" href="$da/d57/_scanor_8hpp.html#a31aca3d0ff704e08f8f8968288ae7895" title="Defines the DAMM function to call for 1D hists */. " alt="" coords="1054,800,1137,827"/>
+<area shape="rect" id="node19" href="$da/d57/_scanor_8hpp.html#a8b0a662ebdb3f947ba8470bf89f11c3a" title="Defines the DAMM function to call for 2D hists */. " alt="" coords="1061,750,1129,776"/>
+<area shape="rect" id="node23" href="$d7/d61/class_high_res_timing_data.html#ae030857390e4ad2262e30f896c9f03b3" title="HighResTimingData::\lGetTraceQdc" alt="" coords="513,397,661,438"/>
+<area shape="rect" id="node24" href="$df/d3c/class_processed_xia_data.html#a2d98ff813786abdb09ebc6bd22dbf48d" title="ProcessedXiaData::GetTrace" alt="" coords="999,446,1192,472"/>
+<area shape="rect" id="node25" href="$dd/db7/class_trace.html#a825c518af0ec6dcba45253c05b562a62" title="Trace::GetQdc" alt="" coords="786,379,894,406"/>
+<area shape="rect" id="node26" href="$dd/db7/class_trace.html#aeee6c9b5e253a8df3dd8fa81fccc104f" title="Trace::GetBaselineInfo" alt="" coords="762,430,918,456"/>
+<area shape="rect" id="node27" href="$d7/d61/class_high_res_timing_data.html#a21273328ec61a432f82cc2af3ec3d0ca" title="HighResTimingData::\lGetPhaseInNs" alt="" coords="766,313,914,354"/>
+<area shape="rect" id="node30" href="$dd/db7/class_trace.html#ad53ba22a9635836d321f35b97ef72dfa" title="Trace::GetSignalToNoiseRatio" alt="" coords="740,480,940,507"/>
+<area shape="rect" id="node31" href="$d5/d91/class_chan_event.html#ac92976ab74eb43a72bf6e6e536f59496" title="ChanEvent::GetChanID" alt="" coords="759,648,921,675"/>
+<area shape="rect" id="node37" href="$d6/d20/class_channel_configuration.html#a63b0841b2af27b4d019b5f68097a5eef" title="ChannelConfiguration\l::GetLocation" alt="" coords="767,582,913,624"/>
+<area shape="rect" id="node28" href="$dd/db7/class_trace.html#a4801f8d119d80e64d2fe9269c79e6a9d" title="Trace::GetPhase" alt="" coords="1035,346,1156,372"/>
+<area shape="rect" id="node29" href="$d3/daf/class_globals.html#ad7d77193cd312ff5b05f78d90a5e5c1f" title="Globals::GetAdcClockInSeconds" alt="" coords="988,295,1203,322"/>
+<area shape="rect" id="node32" href="$dc/dbe/class_detector_library.html#a6ab3ff825daa8b607865086741bc9b2c" title="DetectorLibrary::get" alt="" coords="1027,699,1164,726"/>
+<area shape="rect" id="node33" href="$dc/dbe/class_detector_library.html#a7dc03a85fdd914647e3b4405524d8f02" title="DetectorLibrary::at" alt="" coords="1030,547,1161,574"/>
+<area shape="rect" id="node35" href="$d2/ddd/class_xia_data.html#afcf7210c72022a696a926259d1c5ff84" title="XiaData::GetModuleNumber" alt="" coords="1002,598,1189,624"/>
+<area shape="rect" id="node36" href="$d2/ddd/class_xia_data.html#a34bf9ef6f8f1dee918da2be675e7767a" title="XiaData::GetChannelNumber" alt="" coords="999,648,1191,675"/>
+<area shape="rect" id="node34" href="$dc/dbe/class_detector_library.html#a90877646fc3c5c845baa0ff3643335d4" title="DetectorLibrary::GetIndex" alt="" coords="1251,547,1423,574"/>
+</map>

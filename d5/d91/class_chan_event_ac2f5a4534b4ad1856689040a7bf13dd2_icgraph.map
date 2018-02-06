@@ -1,0 +1,9 @@
+<map id="ChanEvent::GetID" name="ChanEvent::GetID">
+<area shape="rect" id="node2" href="$de/d91/class_detector_driver.html#a2ae4e98c641d49183631eceb40dc19bb" title="Check threshold and calibrate each channel. Check the thresholds and calibrate the energy for each ch..." alt="" coords="184,44,383,71"/>
+<area shape="rect" id="node5" href="$de/d91/class_detector_driver.html#a7f2a28ba2a756e034e38630a5e258309" title="DetectorDriver::PlotRaw" alt="" coords="885,5,1051,32"/>
+<area shape="rect" id="node6" href="$de/d91/class_detector_driver.html#ad966b8fe4330bb0cf117422b9bd08f40" title="DetectorDriver::PlotCal" alt="" coords="889,157,1047,184"/>
+<area shape="rect" id="node3" href="$de/d91/class_detector_driver.html#a19c152206c95dfbc2a98ffd1d002165e" title="Control of the event processing. " alt="" coords="431,107,628,133"/>
+<area shape="rect" id="node4" href="$de/d91/class_detector_driver.html#a3a556ab94a878e057dea8a081d0df55a" title="Plots into histogram defined by dammId. " alt="" coords="676,56,812,83"/>
+<area shape="rect" id="node7" href="$d4/d48/class_utk_unpacker.html#a09c96dd753088977aa1f458f7c07d24b" title="Process all events in the event list. " alt="" coords="860,107,1076,133"/>
+<area shape="rect" id="node8" href="$d4/d48/class_utk_unpacker.html#a61ba5974ee476d5c3ab316b5b6759204" title="Add an event to generic statistics output. " alt="" coords="885,56,1051,83"/>
+</map>

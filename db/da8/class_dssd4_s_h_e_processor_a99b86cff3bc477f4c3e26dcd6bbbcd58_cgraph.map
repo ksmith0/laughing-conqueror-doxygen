@@ -1,0 +1,12 @@
+<map id="Dssd4SHEProcessor::Dssd4SHEProcessor" name="Dssd4SHEProcessor::Dssd4SHEProcessor">
+<area shape="rect" id="node2" href="$d0/d51/class_notebook.html#afed0d7a9c4df3ded88f0446972fb1b3b" title="Notebook::get" alt="" coords="215,81,319,108"/>
+<area shape="rect" id="node11" href="$d0/d51/class_notebook.html#ae6971368b9d875ba457cd9f82a4c4bd1" title="Notebook::report" alt="" coords="208,132,327,159"/>
+<area shape="rect" id="node3" href="$d0/d51/class_notebook.html#a1ca045e919168c2c40fe04962c7b6800" title="Default constructor. " alt="" coords="375,81,517,108"/>
+<area shape="rect" id="node4" href="$d1/df9/class_xml_interface.html#a5a437bc25ac0f9ecc65cdebf6c664ad0" title="XmlInterface::get" alt="" coords="597,5,719,32"/>
+<area shape="rect" id="node6" href="$d1/df9/class_xml_interface.html#a3c935eddf6f5905cf461c1cef806e38a" title="XmlInterface::GetDocument" alt="" coords="565,56,751,83"/>
+<area shape="rect" id="node9" href="$d6/dc9/class_messenger.html#a24d0db0aece5830b3de62310f5753be8" title="Messenger::detail" alt="" coords="595,107,721,133"/>
+<area shape="rect" id="node10" href="$d0/d51/class_notebook.html#ab2073f499cef13062a385180fe0085bf" title="Notebook::currentDateTime" alt="" coords="567,157,749,184"/>
+<area shape="rect" id="node5" href="$d1/df9/class_xml_interface.html#a9924d1a9f16987091b58c70ed13a5718" title="XmlInterface::XmlInterface" alt="" coords="803,5,981,32"/>
+<area shape="rect" id="node7" href="$d1/df9/class_xml_interface.html#a9326df5bd548bd9a40b62dee6a2e3025" title="Default destructor that deletes the instance when its called. " alt="" coords="799,56,985,83"/>
+<area shape="rect" id="node8" href="$d1/df9/class_xml_interface.html#ac853fae42b1b3446a00a0d37e50d670d" title="copy constructor " alt="" coords="813,107,971,133"/>
+</map>

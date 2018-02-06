@@ -1,0 +1,5 @@
+<map id="TEST_FIXTURE" name="TEST_FIXTURE">
+<area shape="rect" id="node2" href="$d1/d97/class_trap_filter_parameters.html#a74c165a6f46976a1439bb51d34a9f7d2" title="Returns the value of the flattop. " alt="" coords="175,5,319,47"/>
+<area shape="rect" id="node3" href="$d1/d97/class_trap_filter_parameters.html#a0e779e5c1b9ef2a6f7fc4a8f3dbf4c92" title="Returns the value of the risetime. " alt="" coords="175,71,319,112"/>
+<area shape="rect" id="node4" href="$d1/d97/class_trap_filter_parameters.html#a43bca9e5f5cd7f618fb1da34818300f8" title="Returns the value of tau/threhsold. " alt="" coords="175,136,319,177"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="HistScannerChanData::Set" name="HistScannerChanData::Set">
+<area shape="rect" id="node2" href="$d2/ddd/class_xia_data.html#afcf7210c72022a696a926259d1c5ff84" title="XiaData::GetModuleNumber" alt="" coords="238,5,425,32"/>
+<area shape="rect" id="node3" href="$d2/ddd/class_xia_data.html#a34bf9ef6f8f1dee918da2be675e7767a" title="XiaData::GetChannelNumber" alt="" coords="235,56,427,83"/>
+<area shape="rect" id="node4" href="$d2/ddd/class_xia_data.html#ade2672d5b33f5317bd0710408b88871b" title="XiaData::GetEnergy" alt="" coords="262,107,401,133"/>
+<area shape="rect" id="node5" href="$d2/ddd/class_xia_data.html#ac11c489cabed7180f6516d724d387a56" title="XiaData::GetTime" alt="" coords="268,157,395,184"/>
+<area shape="rect" id="node6" href="$df/d3c/class_processed_xia_data.html#a2d98ff813786abdb09ebc6bd22dbf48d" title="ProcessedXiaData::GetTrace" alt="" coords="235,208,428,235"/>
+<area shape="rect" id="node7" href="$dd/db7/class_trace.html#aeee6c9b5e253a8df3dd8fa81fccc104f" title="Trace::GetBaselineInfo" alt="" coords="253,259,409,285"/>
+<area shape="rect" id="node8" href="$dd/db7/class_trace.html#adabf44308f34afb878504b0ed7ee0d0a" title="Trace::GetMaxInfo" alt="" coords="266,309,397,336"/>
+<area shape="rect" id="node9" href="$dd/db7/class_trace.html#a825c518af0ec6dcba45253c05b562a62" title="Trace::GetQdc" alt="" coords="277,360,385,387"/>
+</map>

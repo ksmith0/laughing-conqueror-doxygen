@@ -1,0 +1,9 @@
+<map id="LogicProcessor.hpp" name="LogicProcessor.hpp">
+<area shape="rect" id="node2" href="$d5/dc9/_correlator_8hpp.html" title="Header file for correlation. " alt="" coords="219,80,323,107"/>
+<area shape="rect" id="node3" href="$d3/d79/_correlator_8cpp.html" title="Correlates events. " alt="" coords="5,155,109,181"/>
+<area shape="rect" id="node5" href="$dc/d67/_detector_driver_xml_parser_8cpp.html" title="Class to parse the DetectorDriver node. " alt="" coords="389,229,582,256"/>
+<area shape="rect" id="node8" href="$d8/d5f/_logic_processor_8cpp.html" title="handling of logic events, derived from MtcProcessor.cpp " alt="" coords="594,80,731,107"/>
+<area shape="rect" id="node4" href="$d7/d7f/_implant_ssd_processor_8hpp.html" title="Header file for an SSD detector for implantation and correlation. " alt="" coords="185,155,357,181"/>
+<area shape="rect" id="node6" href="$d9/d43/_implant_ssd_processor_8cpp.html" title="Handles ssd:implant detectors. " alt="" coords="122,229,294,256"/>
+<area shape="rect" id="node7" href="$d5/d0b/_dssd_processor_8cpp.html" title="Processes DSSD events. " alt="" coords="381,155,518,181"/>
+</map>

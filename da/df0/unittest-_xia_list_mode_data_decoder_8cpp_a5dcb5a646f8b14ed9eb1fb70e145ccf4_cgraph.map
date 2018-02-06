@@ -1,0 +1,8 @@
+<map id="TEST_FIXTURE" name="TEST_FIXTURE">
+<area shape="rect" id="node2" href="$d2/ddd/class_xia_data.html#ae6409571b278d1d974c3e67842ea3495" title="XiaData::GetSlotNumber" alt="" coords="187,5,354,32"/>
+<area shape="rect" id="node3" href="$d2/ddd/class_xia_data.html#a34bf9ef6f8f1dee918da2be675e7767a" title="XiaData::GetChannelNumber" alt="" coords="175,56,367,83"/>
+<area shape="rect" id="node4" href="$d2/ddd/class_xia_data.html#ade2672d5b33f5317bd0710408b88871b" title="XiaData::GetEnergy" alt="" coords="201,107,340,133"/>
+<area shape="rect" id="node5" href="$d2/ddd/class_xia_data.html#a0b36b071cd7116ac4190a62581e524d9" title="XiaData::GetEventTimeHigh" alt="" coords="177,157,365,184"/>
+<area shape="rect" id="node6" href="$d2/ddd/class_xia_data.html#a477694efe035660d8b7c2f66edeb6391" title="XiaData::GetEventTimeLow" alt="" coords="178,208,363,235"/>
+<area shape="rect" id="node7" href="$d2/ddd/class_xia_data.html#ac11c489cabed7180f6516d724d387a56" title="XiaData::GetTime" alt="" coords="207,259,334,285"/>
+</map>

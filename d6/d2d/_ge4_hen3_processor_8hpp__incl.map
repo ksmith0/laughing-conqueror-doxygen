@@ -1,0 +1,26 @@
+<map id="Ge4Hen3Processor.hpp" name="Ge4Hen3Processor.hpp">
+<area shape="rect" id="node4" href="$da/dd1/_event_processor_8hpp.html" title="Generic event processor. " alt="" coords="1387,155,1527,181"/>
+<area shape="rect" id="node32" href="$d0/d24/_raw_event_8hpp.html" title="Header file for the rawevent. " alt="" coords="2834,229,2942,256"/>
+<area shape="rect" id="node43" href="$d5/d18/_ge_processor_8hpp.html" title="Processor for germanium detectors. " alt="" coords="3139,80,3261,107"/>
+<area shape="rect" id="node8" href="$de/d87/_plots_8hpp.html" title="A container to request a block of plots and plot respective spectra through the plots register..." alt="" coords="1056,453,1133,480"/>
+<area shape="rect" id="node26" href="$d6/ded/_tree_correlator_8hpp.html" title="A class to handle complex correlations between various processors. " alt="" coords="684,229,815,256"/>
+<area shape="rect" id="node10" href="$d4/d9c/_globals_8hpp.html" title="constant parameters used in pixie16 analysis " alt="" coords="1272,528,1363,555"/>
+<area shape="rect" id="node24" href="$d3/d87/_his_file_8hpp.html" title="HisFile.hpp" alt="" coords="949,603,1037,629"/>
+<area shape="rect" id="node25" href="$da/d82/_plots_register_8hpp.html" title="PlotsRegister.hpp" alt="" coords="1121,528,1247,555"/>
+<area shape="rect" id="node17" href="$dc/d77/_constants_8hpp.html" title="A header that contains various useful constants for the software. " alt="" coords="1253,603,1360,629"/>
+<area shape="rect" id="node18" href="$df/dd4/_paass_exceptions_8hpp.html" title="Class to handle errors occurring during the execution of the code This file will break with the One&#45;C..." alt="" coords="319,677,468,704"/>
+<area shape="rect" id="node20" href="$d0/db0/_messenger_8hpp.html" title="A class to handle messages and output them prettily. " alt="" coords="814,603,925,629"/>
+<area shape="rect" id="node23" href="$dd/d48/_trap_filter_parameters_8hpp.html" title="A class to hold parameters for a trapezoidal filter in units of ns. " alt="" coords="1778,677,1947,704"/>
+<area shape="rect" id="node28" href="$d5/d2d/_places_8hpp.html" title="Defines the various places for the TreeCorrelator. " alt="" coords="706,379,793,405"/>
+<area shape="rect" id="node31" href="$db/dc4/_place_builder_8hpp.html" title="Defines the various places for the TreeCorrelator. " alt="" coords="865,304,985,331"/>
+<area shape="rect" id="node30" href="$dd/d77/_event_data_8hpp.html" title="Structure holding event data. " alt="" coords="1308,453,1417,480"/>
+<area shape="rect" id="node33" href="$de/d02/_detector_summary_8hpp.html" title="A class that generates summaries of detector types/subtypes/tags that are requested by the user..." alt="" coords="2890,304,3043,331"/>
+<area shape="rect" id="node34" href="$df/dcf/_chan_event_8hpp.html" title="A Class to define what a channel event is. " alt="" coords="2853,379,2965,405"/>
+<area shape="rect" id="node35" href="$d8/dd0/_channel_configuration_8hpp.html" title="Class that holds information about channel specific information. Including things like the trace dela..." alt="" coords="1939,603,2111,629"/>
+<area shape="rect" id="node37" href="$dc/dec/_processed_xia_data_8hpp.html" title="An XiaData object that has undergone additional processing. " alt="" coords="2947,528,3103,555"/>
+<area shape="rect" id="node38" href="$df/d04/_trace_8hpp.html" title="A simple class to store the traces. " alt="" coords="2896,603,2976,629"/>
+<area shape="rect" id="node40" href="$d6/d3a/_detector_library_8hpp.html" title="This is an extension of the vector of the channelConfigurations that was previously used..." alt="" coords="2212,453,2348,480"/>
+<area shape="rect" id="node39" href="$d3/d2b/_xia_data_8hpp.html" title="XiaData.hpp" alt="" coords="3001,603,3095,629"/>
+<area shape="rect" id="node41" href="$df/dbb/_calibrator_8hpp.html" title="Class to handle energy calibrations for the channels. " alt="" coords="2158,528,2261,555"/>
+<area shape="rect" id="node42" href="$da/d18/_walk_corrector_8hpp.html" title="A Class to handle walk corrections for channels. " alt="" coords="2285,528,2416,555"/>
+</map>

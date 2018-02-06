@@ -1,0 +1,5 @@
+<map id="TraceAnalyzer::ScalePlot" name="TraceAnalyzer::ScalePlot">
+<area shape="rect" id="node2" href="$d2/dbc/class_trace_analyzer.html#a435c459a74db6c5a07f4fc5469a1a04c" title="Implementation of the plot command to interface with the DAMM routines. " alt="" coords="224,13,359,39"/>
+<area shape="rect" id="node3" href="$d4/db0/class_trace_filter_analyzer.html#a45f41a5debe6c290a4a59374d887d094" title="TraceFilterAnalyzer\l::Analyze" alt="" coords="407,5,541,47"/>
+<area shape="rect" id="node4" href="$d4/db0/class_trace_filter_analyzer.html#aaadf927cff2a0fe2ded1929ce14ea3d6" title="TraceFilterAnalyzer\l::~TraceFilterAnalyzer" alt="" coords="589,5,740,47"/>
+</map>

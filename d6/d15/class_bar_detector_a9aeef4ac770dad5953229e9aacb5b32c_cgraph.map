@@ -1,0 +1,6 @@
+<map id="BarDetector::GetTimeDifference" name="BarDetector::GetTimeDifference">
+<area shape="rect" id="node2" href="$df/d3c/class_processed_xia_data.html#a5da8714dc3420a4efd9a199de3f56079" title="ProcessedXiaData::GetHigh\lResTimeInNs" alt="" coords="264,5,451,47"/>
+<area shape="rect" id="node3" href="$d6/d15/class_bar_detector.html#aa76fb3d3f78aa6d8d3cc572cb18e1f70" title="BarDetector::GetCalibration" alt="" coords="266,71,449,98"/>
+<area shape="rect" id="node5" href="$d2/d44/class_timing_calibration.html#a029592fb044fa928de8a7b67873c489d" title="TimingCalibration::\lGetLeftRightTimeOffset" alt="" coords="277,123,438,164"/>
+<area shape="rect" id="node4" href="$dd/d02/class_timing_calibrator.html#aef9d53667925c12fee1462de03a5c063" title="TimingCalibrator::get" alt="" coords="499,71,641,98"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="Place::status" name="Place::status">
+<area shape="rect" id="node2" href="$d2/daa/class_anl1471_processor.html#ae0e82aa964d24549afd9d17f1a136fc2" title="Anl1471Processor::Process" alt="" coords="156,5,340,32"/>
+<area shape="rect" id="node3" href="$db/d92/class_beta4_hen3_processor.html#aec8154b59d510e76fb0831ee2118d6bb" title="Beta4Hen3Processor\l::Process" alt="" coords="428,78,575,119"/>
+<area shape="rect" id="node4" href="$d4/de4/class_beta_scint_processor.html#abcf10cc79083ab549abdca2e9209d37d" title="Main Processing for the class. " alt="" coords="179,107,317,149"/>
+<area shape="rect" id="node5" href="$db/d4e/class_clover_calib_processor.html#a3a226660db21991ef09515012cab6eda" title="CloverCalibProcessor\l::Process" alt="" coords="173,173,323,214"/>
+<area shape="rect" id="node6" href="$d5/d01/class_clover_processor.html#a50eae562dbdc21e5dac462d0a6474326" title="CloverProcessor::Process" alt="" coords="161,239,335,265"/>
+<area shape="rect" id="node7" href="$db/da8/class_dssd4_s_h_e_processor.html#a1ab9aeab8c52a1479718a58da74af3df" title="Dssd4SHEProcessor::\lProcess" alt="" coords="171,290,325,331"/>
+<area shape="rect" id="node8" href="$d5/df2/class_ge4_hen3_processor.html#a98d4e5d0efd24adbdb6c8911e0d993f2" title="Ge4Hen3Processor::Process" alt="" coords="152,356,344,383"/>
+<area shape="rect" id="node9" href="$d6/d4e/class_hen3_processor.html#a12510344f12aa28fb4de00c28569995f" title="Hen3Processor::Process" alt="" coords="164,407,332,433"/>
+<area shape="rect" id="node11" href="$de/d81/class_i_s600_processor.html#a92f29e9c021fffb08f02bf48d12aff42" title="IS600Processor::Process" alt="" coords="163,457,333,484"/>
+<area shape="rect" id="node12" href="$d9/ddc/class_template_exp_processor.html#a06fae87a5826408aec8db9fadf000dd3" title="Main processing of data of interest. " alt="" coords="169,509,327,550"/>
+<area shape="rect" id="node10" href="$d6/d4e/class_hen3_processor.html#a8ed35806e6801f6c8f1eb402525e2834" title="Hen3Processor::~Hen3Processor" alt="" coords="392,407,611,433"/>
+</map>

@@ -1,0 +1,34 @@
+<map id="GlobalsXmlParser::~GlobalsXmlParser" name="GlobalsXmlParser::~GlobalsXmlParser">
+<area shape="rect" id="node2" href="$de/db6/class_globals_xml_parser.html#ad982da889dd91b5f1d9823f9dfca646e" title="GlobalsXmlParser::ParseNode" alt="" coords="221,309,421,336"/>
+<area shape="rect" id="node14" href="$de/db6/class_globals_xml_parser.html#acd48c32f2ee66651831c3425aedae077" title="GlobalsXmlParser::ParseDescriptionNode" alt="" coords="188,651,455,677"/>
+<area shape="rect" id="node15" href="$de/db6/class_globals_xml_parser.html#a0acf7e270f9e4fede5361d0f82da0e9c" title="GlobalsXmlParser::ParseGlobalNode" alt="" coords="203,701,440,728"/>
+<area shape="rect" id="node24" href="$de/db6/class_globals_xml_parser.html#a71054b55809eb78062e1fe08c82fa9d9" title="GlobalsXmlParser::ParseRejectNode" alt="" coords="202,752,441,779"/>
+<area shape="rect" id="node25" href="$de/db6/class_globals_xml_parser.html#ac6c9ab2a997c12316a5e0b9d57969d86" title="GlobalsXmlParser::ParseRootNode" alt="" coords="207,803,435,829"/>
+<area shape="rect" id="node26" href="$de/db6/class_globals_xml_parser.html#aec3068f6f5caa064e39d47a4e644345c" title="GlobalsXmlParser::ParseVandleNode" alt="" coords="201,1047,441,1073"/>
+<area shape="rect" id="node33" href="$de/db6/class_globals_xml_parser.html#a983f211f375bf109baa1143f5d3938a5" title="This method simply warns the user of extraneous information that was contained in the node..." alt="" coords="231,1098,411,1139"/>
+<area shape="rect" id="node3" href="$d1/df9/class_xml_interface.html#a5a437bc25ac0f9ecc65cdebf6c664ad0" title="XmlInterface::get" alt="" coords="548,19,671,45"/>
+<area shape="rect" id="node5" href="$d1/df9/class_xml_interface.html#a3c935eddf6f5905cf461c1cef806e38a" title="XmlInterface::GetDocument" alt="" coords="517,95,702,121"/>
+<area shape="rect" id="node8" href="$d6/dc9/class_messenger.html#a1b47ad62ebac8fdafd2d7a2d8ee7b642" title="Messenger::start" alt="" coords="549,233,669,260"/>
+<area shape="rect" id="node9" href="$d6/dc9/class_messenger.html#a24d0db0aece5830b3de62310f5753be8" title="Messenger::detail" alt="" coords="999,233,1124,260"/>
+<area shape="rect" id="node12" href="$d6/dc9/class_messenger.html#a40a7e53a9b6dc5ef161c2ffd5d6bbbfb" title="Messenger::done" alt="" coords="548,360,671,387"/>
+<area shape="rect" id="node13" href="$d3/daf/class_globals.html#a8ac0dcfabccdb6c78a29ed60ec06391f" title="Globals::SetRejectionRegions" alt="" coords="511,411,708,437"/>
+<area shape="rect" id="node4" href="$d1/df9/class_xml_interface.html#a9924d1a9f16987091b58c70ed13a5718" title="XmlInterface::XmlInterface" alt="" coords="768,5,947,32"/>
+<area shape="rect" id="node6" href="$d1/df9/class_xml_interface.html#a9326df5bd548bd9a40b62dee6a2e3025" title="Default destructor that deletes the instance when its called. " alt="" coords="764,56,951,83"/>
+<area shape="rect" id="node7" href="$d1/df9/class_xml_interface.html#ac853fae42b1b3446a00a0d37e50d670d" title="copy constructor " alt="" coords="778,107,937,133"/>
+<area shape="rect" id="node10" href="$d6/dc9/class_messenger.html#a130e83285254c9149629842ca2aa6f20" title="Messenger::warning" alt="" coords="788,208,927,235"/>
+<area shape="rect" id="node11" href="$d6/dc9/class_messenger.html#a770167e668ce59153a05f61a30b548b0" title="Messenger::run_message" alt="" coords="771,259,943,285"/>
+<area shape="rect" id="node16" href="$d3/daf/class_globals.html#a45fdfe5c41c53b4bfb11c6c4e9e310af" title="Globals::SetAdcClockInSeconds" alt="" coords="503,461,716,488"/>
+<area shape="rect" id="node17" href="$d3/daf/class_globals.html#ac57d1163cc4001aac448156d47717fd6" title="Globals::SetClockInSeconds" alt="" coords="514,512,705,539"/>
+<area shape="rect" id="node18" href="$d3/daf/class_globals.html#a0257b8597df1d35ddafb24c2942d32af" title="Globals::SetFilterClockIn\lSeconds" alt="" coords="525,563,693,605"/>
+<area shape="rect" id="node19" href="$dd/df8/namespace_conversions.html#aba151872fb6ae6118a05a25e7e3ce0d2" title="Conversions::ConvertSeconds\lWithPrefix" alt="" coords="509,629,709,670"/>
+<area shape="rect" id="node20" href="$d3/daf/class_globals.html#af82b665a21c71b13eb649018c7abc066" title="Globals::SetEventLengthIn\lSeconds" alt="" coords="520,694,699,735"/>
+<area shape="rect" id="node21" href="$d3/daf/class_globals.html#aef7d30aac718907bfdafc99ae5ed2995" title="Globals::SetEventLengthIn\lTicks" alt="" coords="520,759,699,801"/>
+<area shape="rect" id="node22" href="$d3/daf/class_globals.html#a02ea3605db675e1c5504de0ff317d16b" title="Globals::GetClockInSeconds" alt="" coords="514,825,705,852"/>
+<area shape="rect" id="node23" href="$d3/daf/class_globals.html#a9c861c5bd863bfaa535f0e536bd7a81a" title="Globals::SetHasRawHistograms\lDefined" alt="" coords="503,877,715,918"/>
+<area shape="rect" id="node27" href="$d3/daf/class_globals.html#a7be09fa52751cb99c1fa96b2f5632a44" title="Globals::SetVandleBigSpeed\lOfLight" alt="" coords="514,942,705,983"/>
+<area shape="rect" id="node28" href="$d3/daf/class_globals.html#aec8f21c22974471f3eae46d9aad632aa" title="Globals::GetVandleBigSpeed\lOfLightInCmPerNs" alt="" coords="514,1007,705,1049"/>
+<area shape="rect" id="node29" href="$d3/daf/class_globals.html#af6b279e7d51f1413e5878b9452d98955" title="Globals::SetVandleMedium\lSpeedOfLight" alt="" coords="519,1073,699,1114"/>
+<area shape="rect" id="node30" href="$d3/daf/class_globals.html#aa17074849ef5dc464cf226cd56e3bf5d" title="Globals::GetVandleMedium\lSpeedOfLightInCmPerNs" alt="" coords="519,1138,700,1179"/>
+<area shape="rect" id="node31" href="$d3/daf/class_globals.html#a84ed4627224c68491c19586f0b4477b6" title="Globals::SetVandleSmallSpeed\lOfLight" alt="" coords="507,1203,711,1245"/>
+<area shape="rect" id="node32" href="$d3/daf/class_globals.html#a510127eb571e2da4fbc451f2831b9198" title="Globals::GetVandleSmallSpeed\lOfLightInCmPerNs" alt="" coords="507,1269,712,1310"/>
+</map>

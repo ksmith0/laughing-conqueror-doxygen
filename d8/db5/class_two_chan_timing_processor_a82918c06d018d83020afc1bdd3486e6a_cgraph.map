@@ -1,0 +1,6 @@
+<map id="TwoChanTimingProcessor::Process" name="TwoChanTimingProcessor::Process">
+<area shape="rect" id="node2" href="$d6/d65/class_event_processor.html#ae2d41a947da0cb509fd0ca85f6caa0fc" title="EventProcessor::Process" alt="" coords="229,5,400,32"/>
+<area shape="rect" id="node3" href="$d6/d65/class_event_processor.html#a301eb8d69b3ceeeb4e69ce84a685f5a1" title="EventProcessor::EndProcess" alt="" coords="448,41,643,68"/>
+<area shape="rect" id="node4" href="$df/d3c/class_processed_xia_data.html#a2d98ff813786abdb09ebc6bd22dbf48d" title="ProcessedXiaData::GetTrace" alt="" coords="449,121,642,148"/>
+<area shape="rect" id="node5" href="$d7/d61/class_high_res_timing_data.html#abb4f71795de7ea6f8b918e0ece2b1a74" title="HighResTimingData::\lGetIsValid" alt="" coords="241,158,389,199"/>
+</map>

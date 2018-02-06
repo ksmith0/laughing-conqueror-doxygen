@@ -1,0 +1,12 @@
+<map id="DataReader::~DataReader" name="DataReader::~DataReader">
+<area shape="rect" id="node2" href="$d3/d3a/class_data_reader.html#a706daf5902dc05c9e39dbb459aae29dc" title="DataReader::CheckForMatching\lHeader" alt="" coords="232,5,443,47"/>
+<area shape="rect" id="node3" href="$d3/d3a/class_data_reader.html#a62b312a29b0e5e6f18ddd88a984fa0d5" title="DataReader::OpenFile" alt="" coords="261,71,413,98"/>
+<area shape="rect" id="node4" href="$d3/d3a/class_data_reader.html#a5af5e06cbf99aab1214c21fe4d3f84af" title="DataReader::CloseFile" alt="" coords="260,122,415,149"/>
+<area shape="rect" id="node5" href="$d3/d3a/class_data_reader.html#a7c93ac8c1802c398106d17a64144c4a9" title="DataReader::RewindFile" alt="" coords="255,173,420,199"/>
+<area shape="rect" id="node6" href="$d3/d3a/class_data_reader.html#a5c071751bf4f263c9daef53c63de53a5" title=": Figure out how to get this to check against our enum instead of hard coding these strings ..." alt="" coords="240,224,435,265"/>
+<area shape="rect" id="node8" href="$d3/d3a/class_data_reader.html#ae0c0e92e29f70e6f176d4983081785a9" title="DataReader::ReadBuffer" alt="" coords="254,290,421,317"/>
+<area shape="rect" id="node9" href="$d3/d3a/class_data_reader.html#ace859054d5444346fbca8ec1067f58ae" title="DataReader::ReadHeader" alt="" coords="251,341,424,367"/>
+<area shape="rect" id="node10" href="$d3/d3a/class_data_reader.html#ae0f3d84d6a8ff6c13e8ffa5bed51482b" title="DataReader::ReadDataBuffer" alt="" coords="240,391,435,418"/>
+<area shape="rect" id="node11" href="$d3/d3a/class_data_reader.html#ac4879fba320371021d4ae18a37fc99a2" title="DataReader::ReadScalarBuffer" alt="" coords="236,442,439,469"/>
+<area shape="rect" id="node7" href="$d5/d2b/namespace_string_manipulation.html#a4aa49767efe3ea44a39d90ff3cb603b0" title="StringManipulation\l::TokenizeString" alt="" coords="491,224,620,265"/>
+</map>

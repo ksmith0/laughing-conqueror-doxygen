@@ -1,0 +1,10 @@
+<map id="XiaListModeDataDecoder::CalculateTimeInSamples" name="XiaListModeDataDecoder::CalculateTimeInSamples">
+<area shape="rect" id="node2" href="$dd/df8/namespace_conversions.html#ab4a6f68a55e2cb0cae208ea8ba028e37" title="Conversions::Concatenate\lWords" alt="" coords="249,5,426,47"/>
+<area shape="rect" id="node3" href="$d2/ddd/class_xia_data.html#a477694efe035660d8b7c2f66edeb6391" title="XiaData::GetEventTimeLow" alt="" coords="245,71,430,98"/>
+<area shape="rect" id="node4" href="$d2/ddd/class_xia_data.html#a0b36b071cd7116ac4190a62581e524d9" title="XiaData::GetEventTimeHigh" alt="" coords="243,122,431,149"/>
+<area shape="rect" id="node5" href="$d2/ddd/class_xia_data.html#aacf4e60f363bf42851bb7b65eb1456aa" title="XiaData::GetCfdFractionalTime" alt="" coords="235,173,440,199"/>
+<area shape="rect" id="node6" href="$d2/ddd/class_xia_data.html#a49b9907d1f012a9154dc93070a4f00a8" title="XiaData::GetCfdForcedTriggerBit" alt="" coords="230,223,445,250"/>
+<area shape="rect" id="node7" href="$dc/d76/class_xia_list_mode_data_mask.html#a0f0d736bff31821c636ffa5e6eb748c1" title="XiaListModeDataMask\l::GetFrequency" alt="" coords="260,275,415,316"/>
+<area shape="rect" id="node8" href="$dc/d76/class_xia_list_mode_data_mask.html#af207eba9f8d0988d96e86bdf93a9dba7" title="XiaListModeDataMask\l::GetCfdSize" alt="" coords="260,340,415,381"/>
+<area shape="rect" id="node9" href="$d2/ddd/class_xia_data.html#a7aa98d3225b681fc7e28b67ee45ed9b2" title="XiaData::GetCfdTriggerSourceBit" alt="" coords="229,406,445,433"/>
+</map>

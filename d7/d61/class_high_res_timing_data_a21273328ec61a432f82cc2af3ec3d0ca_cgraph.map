@@ -1,0 +1,6 @@
+<map id="HighResTimingData::GetPhaseInNs" name="HighResTimingData::GetPhaseInNs">
+<area shape="rect" id="node2" href="$df/d3c/class_processed_xia_data.html#a2d98ff813786abdb09ebc6bd22dbf48d" title="ProcessedXiaData::GetTrace" alt="" coords="212,5,405,32"/>
+<area shape="rect" id="node3" href="$dd/db7/class_trace.html#a4801f8d119d80e64d2fe9269c79e6a9d" title="Trace::GetPhase" alt="" coords="248,56,369,83"/>
+<area shape="rect" id="node4" href="$d3/daf/class_globals.html#ae66fa0173342202c96b13d71a6522512" title="Instance is created upon first call. " alt="" coords="263,107,355,133"/>
+<area shape="rect" id="node5" href="$d3/daf/class_globals.html#ad7d77193cd312ff5b05f78d90a5e5c1f" title="Globals::GetAdcClockInSeconds" alt="" coords="201,157,416,184"/>
+</map>

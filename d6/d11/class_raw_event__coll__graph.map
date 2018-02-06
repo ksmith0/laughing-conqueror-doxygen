@@ -1,0 +1,9 @@
+<map id="RawEvent" name="RawEvent">
+<area shape="rect" id="node3" title="STL class. " alt="" coords="933,48,1013,75"/>
+<area shape="rect" id="node13" href="$da/d8d/class_detector_summary.html" title="DetectorSummary" alt="" coords="1177,149,1305,176"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="649,41,776,82"/>
+<area shape="rect" id="node6" href="$d5/d91/class_chan_event.html" title="A channel event. " alt="" coords="669,201,756,228"/>
+<area shape="rect" id="node7" href="$df/d3c/class_processed_xia_data.html" title="ProcessedXiaData" alt="" coords="469,201,600,228"/>
+<area shape="rect" id="node8" href="$d2/ddd/class_xia_data.html" title="A pixie16 channel event. " alt="" coords="311,153,380,180"/>
+<area shape="rect" id="node10" href="$dd/db7/class_trace.html" title="This defines a more extensible implementation of a digitized trace. The class is derived from a vecto..." alt="" coords="318,223,373,249"/>
+</map>

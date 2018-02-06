@@ -1,0 +1,6 @@
+<map id="TraceAnalyzer" name="TraceAnalyzer">
+<area shape="rect" id="node2" title="STL class. " alt="" coords="213,255,293,281"/>
+<area shape="rect" id="node4" href="$d7/d8b/class_plots.html" title="Holds pointers to all Histograms. " alt="" coords="713,188,765,215"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="5,247,132,289"/>
+<area shape="rect" id="node6" href="$d7/d6e/class_plots_register.html" title="Holds ranges and offsets of all plots. Singleton class. " alt="" coords="452,44,553,71"/>
+</map>

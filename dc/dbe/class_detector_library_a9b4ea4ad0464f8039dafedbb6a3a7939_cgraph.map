@@ -1,0 +1,9 @@
+<map id="DetectorLibrary::Set" name="DetectorLibrary::Set">
+<area shape="rect" id="node2" href="$d6/d20/class_channel_configuration.html#aba4539c47063c552522bcf7c20d5bf29" title="ChannelConfiguration\l::GetType" alt="" coords="214,5,361,47"/>
+<area shape="rect" id="node3" href="$dc/dbe/class_detector_library.html#a9297fb25cacc210dd6d2c1fd50675543" title="DetectorLibrary::ModuleFrom\lIndex" alt="" coords="192,71,383,112"/>
+<area shape="rect" id="node4" href="$d6/d20/class_channel_configuration.html#a12d5e0dec96416851743462c53775bf5" title="ChannelConfiguration\l::HasTag" alt="" coords="214,136,361,177"/>
+<area shape="rect" id="node5" href="$d6/d20/class_channel_configuration.html#aaa6fcf267aebd6df6fa3df5510cfaeea" title="ChannelConfiguration\l::GetSubtype" alt="" coords="214,201,361,243"/>
+<area shape="rect" id="node6" href="$d6/d20/class_channel_configuration.html#a63b0841b2af27b4d019b5f68097a5eef" title="ChannelConfiguration\l::GetLocation" alt="" coords="214,267,361,308"/>
+<area shape="rect" id="node7" href="$dc/dbe/class_detector_library.html#a7dc03a85fdd914647e3b4405524d8f02" title="DetectorLibrary::at" alt="" coords="222,333,353,359"/>
+<area shape="rect" id="node8" href="$dc/dbe/class_detector_library.html#a90877646fc3c5c845baa0ff3643335d4" title="DetectorLibrary::GetIndex" alt="" coords="431,333,603,359"/>
+</map>

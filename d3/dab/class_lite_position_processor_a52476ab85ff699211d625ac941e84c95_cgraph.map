@@ -1,0 +1,10 @@
+<map id="LitePositionProcessor::FindMatchingEdge" name="LitePositionProcessor::FindMatchingEdge">
+<area shape="rect" id="node2" href="$d5/d91/class_chan_event.html#ac92976ab74eb43a72bf6e6e536f59496" title="ChanEvent::GetChanID" alt="" coords="203,81,364,108"/>
+<area shape="rect" id="node8" href="$d6/d20/class_channel_configuration.html#a63b0841b2af27b4d019b5f68097a5eef" title="ChannelConfiguration\l::GetLocation" alt="" coords="210,133,357,174"/>
+<area shape="rect" id="node9" href="$d2/ddd/class_xia_data.html#ac11c489cabed7180f6516d724d387a56" title="XiaData::GetTime" alt="" coords="220,199,347,225"/>
+<area shape="rect" id="node3" href="$dc/dbe/class_detector_library.html#a6ab3ff825daa8b607865086741bc9b2c" title="DetectorLibrary::get" alt="" coords="439,5,577,32"/>
+<area shape="rect" id="node4" href="$dc/dbe/class_detector_library.html#a7dc03a85fdd914647e3b4405524d8f02" title="DetectorLibrary::at" alt="" coords="443,56,573,83"/>
+<area shape="rect" id="node6" href="$d2/ddd/class_xia_data.html#afcf7210c72022a696a926259d1c5ff84" title="XiaData::GetModuleNumber" alt="" coords="415,107,601,133"/>
+<area shape="rect" id="node7" href="$d2/ddd/class_xia_data.html#a34bf9ef6f8f1dee918da2be675e7767a" title="XiaData::GetChannelNumber" alt="" coords="412,157,604,184"/>
+<area shape="rect" id="node5" href="$dc/dbe/class_detector_library.html#a90877646fc3c5c845baa0ff3643335d4" title="DetectorLibrary::GetIndex" alt="" coords="652,56,824,83"/>
+</map>

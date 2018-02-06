@@ -1,0 +1,24 @@
+<map id="WaveformAnalyzer::DeclarePlots" name="WaveformAnalyzer::DeclarePlots">
+<area shape="rect" id="node2" href="$da/d8c/class_waveform_analyzer.html#a36eda222c9ffa40319cd0ba9ebe62a0a" title="WaveformAnalyzer::Analyze" alt="" coords="240,465,428,492"/>
+<area shape="rect" id="node3" href="$d2/dbc/class_trace_analyzer.html#a0915fb97c3ebe928cab17deff5e497ec" title="TraceAnalyzer::Analyze" alt="" coords="504,5,665,32"/>
+<area shape="rect" id="node4" href="$d2/dbc/class_trace_analyzer.html#ae7ac212d764d0e394fcb323f68d23c66" title="TraceAnalyzer::EndAnalyze" alt="" coords="745,31,929,57"/>
+<area shape="rect" id="node5" href="$dd/db7/class_trace.html#a7ae0bf7209ee6b579b0cfcb7b86aa5ef" title="Trace::IsSaturated" alt="" coords="519,107,650,133"/>
+<area shape="rect" id="node6" href="$d6/d20/class_channel_configuration.html#aba4539c47063c552522bcf7c20d5bf29" title="ChannelConfiguration\l::GetType" alt="" coords="511,158,658,199"/>
+<area shape="rect" id="node7" href="$dd/db7/class_trace.html#a6c0eb24692c823456078e81bf583dcfd" title="Trace::SetHasValidAnalysis" alt="" coords="491,224,678,251"/>
+<area shape="rect" id="node8" href="$d6/d20/class_channel_configuration.html#a96ab48a2ae5280537edb622393f45ca2" title="ChannelConfiguration\l::GetWaveformBoundsInSamples" alt="" coords="476,275,693,317"/>
+<area shape="rect" id="node9" href="$d6/dd5/namespace_trace_functions.html#a1eb6d96a9adf7e29d4a64ada805e1be7" title="This function finds the maximum bin and the value of the maximum bin for the provided vector..." alt="" coords="483,341,686,368"/>
+<area shape="rect" id="node10" href="$d6/d20/class_channel_configuration.html#a60d810e277a0931ebfb9040514e365cb" title="ChannelConfiguration\l::GetTraceDelayInSamples" alt="" coords="495,393,675,434"/>
+<area shape="rect" id="node11" href="$d6/dd5/namespace_trace_functions.html#a4e6a98c2348a06c85f67b17940bee370" title="Compute the trace baseline and its standard deviation. This function takes a data range in the event ..." alt="" coords="497,458,672,499"/>
+<area shape="rect" id="node14" href="$d6/dd5/namespace_trace_functions.html#a6daab655efadf36d330e22d7848eb89f" title="TraceFunctions::CalculateQdc" alt="" coords="485,524,684,551"/>
+<area shape="rect" id="node16" href="$dd/db7/class_trace.html#adf043f573d5a190bbe1213527f195bdf" title="Trace::SetQdc" alt="" coords="531,575,638,601"/>
+<area shape="rect" id="node17" href="$dd/db7/class_trace.html#a46e45b1c4a587ce803d4a16c48845725" title="Trace::SetBaseline" alt="" coords="518,625,651,652"/>
+<area shape="rect" id="node18" href="$dd/db7/class_trace.html#ab4565c2bde026a6dc86c6611535036e1" title="Trace::SetMax" alt="" coords="531,676,639,703"/>
+<area shape="rect" id="node19" href="$dd/db7/class_trace.html#a0f0d3a19408a64cf76ab90261b674c85" title="Trace::SetExtrapolatedMax" alt="" coords="494,727,675,753"/>
+<area shape="rect" id="node20" href="$d6/dd5/namespace_trace_functions.html#ad54bbd454651cfea6863c4426f2a5539" title="This function uses a third order polynomial to calculate the true position of the maximum for the giv..." alt="" coords="491,778,678,819"/>
+<area shape="rect" id="node22" href="$dd/db7/class_trace.html#a529ecec518ca520896d5b20b35a3748d" title="Trace::SetTraceSansBaseline" alt="" coords="487,844,683,871"/>
+<area shape="rect" id="node23" href="$dd/db7/class_trace.html#a058b80284a9a52e73c16606ed71c8745" title="Trace::SetWaveformRange" alt="" coords="494,895,675,921"/>
+<area shape="rect" id="node12" href="$d4/d06/namespace_statistics.html#a55bb7fafb2b9fe34fdbf0737e24824bb" title="Statistics::CalculateAverage" alt="" coords="743,407,931,433"/>
+<area shape="rect" id="node13" href="$d4/d06/namespace_statistics.html#ad9bea951fe502b219d59b68e667c37cd" title="Statistics::CalculateStandard\lDeviation" alt="" coords="741,458,933,499"/>
+<area shape="rect" id="node15" href="$d4/d06/namespace_statistics.html#a4aabbd7b3dd2f7463c51f1a74f0efe33" title="Do a quick and simple integration of the provided data using the trapezoidal rule. We will not be subtracting the baseline or anything like that to keep things general. " alt="" coords="746,524,929,551"/>
+<area shape="rect" id="node21" href="$d9/d5c/namespace_polynomial.html#a480fefce80386dbd06b4b9682f958d63" title="Polynomial::CalculatePoly3" alt="" coords="746,785,929,812"/>
+</map>

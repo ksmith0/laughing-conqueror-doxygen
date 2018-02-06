@@ -1,0 +1,8 @@
+<map id="GlobalsXmlParser::ParseVandleNode" name="GlobalsXmlParser::ParseVandleNode">
+<area shape="rect" id="node2" href="$d3/daf/class_globals.html#a7be09fa52751cb99c1fa96b2f5632a44" title="Globals::SetVandleBigSpeed\lOfLight" alt="" coords="301,5,491,47"/>
+<area shape="rect" id="node3" href="$d3/daf/class_globals.html#aec8f21c22974471f3eae46d9aad632aa" title="Globals::GetVandleBigSpeed\lOfLightInCmPerNs" alt="" coords="301,71,491,112"/>
+<area shape="rect" id="node4" href="$d3/daf/class_globals.html#af6b279e7d51f1413e5878b9452d98955" title="Globals::SetVandleMedium\lSpeedOfLight" alt="" coords="306,136,486,177"/>
+<area shape="rect" id="node5" href="$d3/daf/class_globals.html#aa17074849ef5dc464cf226cd56e3bf5d" title="Globals::GetVandleMedium\lSpeedOfLightInCmPerNs" alt="" coords="305,201,487,243"/>
+<area shape="rect" id="node6" href="$d3/daf/class_globals.html#a84ed4627224c68491c19586f0b4477b6" title="Globals::SetVandleSmallSpeed\lOfLight" alt="" coords="294,267,498,308"/>
+<area shape="rect" id="node7" href="$d3/daf/class_globals.html#a510127eb571e2da4fbc451f2831b9198" title="Globals::GetVandleSmallSpeed\lOfLightInCmPerNs" alt="" coords="293,332,499,373"/>
+</map>

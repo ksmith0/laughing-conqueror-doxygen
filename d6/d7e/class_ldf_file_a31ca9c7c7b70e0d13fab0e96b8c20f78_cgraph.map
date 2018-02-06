@@ -1,0 +1,5 @@
+<map id="LdfFile::GetNumMissing" name="LdfFile::GetNumMissing">
+<area shape="rect" id="node2" href="$d6/d7e/class_ldf_file.html#afa38a5798f77c2b3457ac0cdf4ca7a62" title="LdfFile::Write" alt="" coords="218,5,318,32"/>
+<area shape="rect" id="node3" href="$d6/d7e/class_ldf_file.html#a7cfa91ca6124805f6c1f5be85364ec2a" title="Read a DIR buffer from a file. Return false if buffer has the wrong header and return true otherwise..." alt="" coords="218,56,318,83"/>
+<area shape="rect" id="node4" href="$d6/d7e/class_ldf_file.html#a7b041505fe4137501d1eacf363787015" title="Set initial values. " alt="" coords="216,107,320,133"/>
+</map>

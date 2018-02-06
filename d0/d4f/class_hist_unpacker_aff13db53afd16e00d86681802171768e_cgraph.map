@@ -1,0 +1,24 @@
+<map id="HistUnpacker::ProcessRawEvent" name="HistUnpacker::ProcessRawEvent">
+<area shape="rect" id="node2" href="$d0/d4f/class_hist_unpacker.html#a9fe1102664592a667957f73feb98b0bf" title="Create a HistScannerChanData from the provided XiaData. " alt="" coords="255,381,421,408"/>
+<area shape="rect" id="node12" href="$d0/d4f/class_hist_unpacker.html#a25e607e59a055805005ea9952a799162" title="Processes each event by filling the tree and clearing the event. " alt="" coords="239,635,437,661"/>
+<area shape="rect" id="node3" href="$d0/d48/class_hist_scanner_chan_data.html#a54d9449f072b091c776adafbce18c5a0" title="HistScannerChanData::Set" alt="" coords="485,208,667,235"/>
+<area shape="rect" id="node4" href="$d2/ddd/class_xia_data.html#afcf7210c72022a696a926259d1c5ff84" title="XiaData::GetModuleNumber" alt="" coords="718,157,905,184"/>
+<area shape="rect" id="node5" href="$d2/ddd/class_xia_data.html#a34bf9ef6f8f1dee918da2be675e7767a" title="XiaData::GetChannelNumber" alt="" coords="715,208,907,235"/>
+<area shape="rect" id="node6" href="$d2/ddd/class_xia_data.html#ade2672d5b33f5317bd0710408b88871b" title="XiaData::GetEnergy" alt="" coords="742,259,881,285"/>
+<area shape="rect" id="node7" href="$d2/ddd/class_xia_data.html#ac11c489cabed7180f6516d724d387a56" title="XiaData::GetTime" alt="" coords="748,309,875,336"/>
+<area shape="rect" id="node8" href="$df/d3c/class_processed_xia_data.html#a2d98ff813786abdb09ebc6bd22dbf48d" title="ProcessedXiaData::GetTrace" alt="" coords="715,360,908,387"/>
+<area shape="rect" id="node9" href="$dd/db7/class_trace.html#aeee6c9b5e253a8df3dd8fa81fccc104f" title="Trace::GetBaselineInfo" alt="" coords="733,5,889,32"/>
+<area shape="rect" id="node10" href="$dd/db7/class_trace.html#adabf44308f34afb878504b0ed7ee0d0a" title="Trace::GetMaxInfo" alt="" coords="746,56,877,83"/>
+<area shape="rect" id="node11" href="$dd/db7/class_trace.html#a825c518af0ec6dcba45253c05b562a62" title="Trace::GetQdc" alt="" coords="757,107,865,133"/>
+<area shape="rect" id="node13" href="$d0/d48/class_hist_scanner_chan_data.html#aa1d87f5c97bf41f38f19e17c7d2a4d20" title="HistScannerChanData\l::Clear" alt="" coords="499,686,653,727"/>
+<area shape="rect" id="node14" href="$d0/d4f/class_hist_unpacker.html#a5a696bf43db69b95ef82c79119c3edcf" title="Plot the histogram corresponding to the provided key. " alt="" coords="956,765,1089,792"/>
+<area shape="rect" id="node15" href="$d8/da5/class_root_interface.html#ad369e92a08888d5f34b27a029bd9cdd4" title="RootInterface::get" alt="" coords="1161,841,1288,868"/>
+<area shape="rect" id="node18" href="$d8/da5/class_root_interface.html#ab29db8e2b6a0fdae2e6fb5ce3ca74555" title="RootInterface::GetCanvas" alt="" coords="1137,639,1312,665"/>
+<area shape="rect" id="node20" href="$d8/da5/class_root_interface.html#abfbf3ab2a2b3dec89614030175198c36" title="RootInterface::UpdateZoom" alt="" coords="1362,563,1546,589"/>
+<area shape="rect" id="node22" href="$d0/d4f/class_hist_unpacker.html#a4f09417c82f2a7d23a8d28dba7840131" title="HistUnpacker::IdleTask" alt="" coords="496,635,656,661"/>
+<area shape="rect" id="node17" href="$d8/da5/class_root_interface.html#a7d7a082954d93789c99e93bb29dc6dcb" title="RootInterface::ResetZoom" alt="" coords="1596,639,1773,665"/>
+<area shape="rect" id="node16" href="$d8/da5/class_root_interface.html#a0a3fafffd865dcd011ee5dcc95600c26" title="RootInterface::RootInterface" alt="" coords="1360,841,1548,868"/>
+<area shape="rect" id="node19" href="$d8/da5/class_root_interface.html#a44bce7d73b4f1505e0750da0681ef67c" title="RootInterface::IdleTask" alt="" coords="1375,715,1533,741"/>
+<area shape="rect" id="node21" href="$dc/d06/_analysis_2_resources_2source_2_c_make_lists_8txt.html#a92407aa83aceb7e781743373bcb8035a" title="list" alt="" coords="1665,563,1704,589"/>
+<area shape="rect" id="node23" href="$d0/d4f/class_hist_unpacker.html#aecf07820d3ab4ae05d09cb67f4bd3a80" title="Initialize and plot newly requested plots. " alt="" coords="719,657,904,698"/>
+</map>

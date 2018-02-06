@@ -1,0 +1,19 @@
+<map id="DetectorDriver" name="DetectorDriver">
+<area shape="rect" id="node2" href="$db/d61/class_calibrator.html" title="Class to handle energy calibrations. " alt="" coords="2555,295,2634,322"/>
+<area shape="rect" id="node4" href="$d6/d20/class_channel_configuration.html" title="ChannelConfiguration" alt="" coords="1861,249,2008,275"/>
+<area shape="rect" id="node5" href="$d1/d97/class_trap_filter_parameters.html" title="Simple class that holds trapezoidal filter parameters. " alt="" coords="1494,147,1638,174"/>
+<area shape="rect" id="node25" href="$d6/d65/class_event_processor.html" title="Class to handle event processing. " alt="" coords="2205,451,2319,478"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="1247,470,1327,497"/>
+<area shape="rect" id="node17" href="$d2/dbc/class_trace_analyzer.html" title="Abstract class that all trace analyzers are derived from. " alt="" coords="2209,849,2315,875"/>
+<area shape="rect" id="node18" href="$d7/d8b/class_plots.html" title="Holds pointers to all Histograms. " alt="" coords="1909,602,1961,629"/>
+<area shape="rect" id="node27" href="$da/d8d/class_detector_summary.html" title="DetectorSummary" alt="" coords="1502,198,1630,225"/>
+<area shape="rect" id="node8" title="STL class. " alt="" coords="863,463,989,504"/>
+<area shape="rect" id="node10" href="$d9/d1c/struct_calibration_params.html" title="This structure holds walk calibration model identfier, range of calibration and vector of parameters ..." alt="" coords="709,13,839,39"/>
+<area shape="rect" id="node15" href="$d6/dac/struct_correction_params.html" title="This structure holds walk calibration model identfier and vector of parameters needed for the functio..." alt="" coords="404,74,531,101"/>
+<area shape="rect" id="node32" href="$dd/db7/class_trace.html" title="This defines a more extensible implementation of a digitized trace. The class is derived from a vecto..." alt="" coords="318,237,373,263"/>
+<area shape="rect" id="node12" href="$d7/dda/class_walk_corrector.html" title="Class to correct channels for walk in the onboard filters. " alt="" coords="2541,371,2648,398"/>
+<area shape="rect" id="node20" href="$d7/d6e/class_plots_register.html" title="Holds ranges and offsets of all plots. Singleton class. " alt="" coords="1515,775,1617,802"/>
+<area shape="rect" id="node28" href="$d5/d91/class_chan_event.html" title="A channel event. " alt="" coords="883,187,969,214"/>
+<area shape="rect" id="node29" href="$df/d3c/class_processed_xia_data.html" title="ProcessedXiaData" alt="" coords="555,237,685,263"/>
+<area shape="rect" id="node30" href="$d2/ddd/class_xia_data.html" title="A pixie16 channel event. " alt="" coords="311,317,380,343"/>
+</map>

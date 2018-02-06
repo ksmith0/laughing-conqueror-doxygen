@@ -1,0 +1,51 @@
+<map id="ProcessedXiaData::GetTrace" name="ProcessedXiaData::GetTrace">
+<area shape="rect" id="node2" href="$d2/daa/class_anl1471_processor.html#ae0e82aa964d24549afd9d17f1a136fc2" title="Anl1471Processor::Process" alt="" coords="1036,42,1220,69"/>
+<area shape="rect" id="node3" href="$de/d91/class_detector_driver.html#a2ae4e98c641d49183631eceb40dc19bb" title="Check threshold and calibrate each channel. Check the thresholds and calibrate the energy for each ch..." alt="" coords="247,717,445,744"/>
+<area shape="rect" id="node10" href="$d7/d61/class_high_res_timing_data.html#abb4f71795de7ea6f8b918e0ece2b1a74" title="HighResTimingData::\lGetIsValid" alt="" coords="535,591,683,632"/>
+<area shape="rect" id="node11" href="$d7/d6b/class_liquid_scint_processor.html#a6e1f7662a1362e5c14275c9a13388231" title="LiquidScintProcessor\l::Process" alt="" coords="800,378,945,419"/>
+<area shape="rect" id="node13" href="$d3/d5e/class_teeny_vandle_processor.html#a01b193b7a00b5bbc2d0b35ccc0f34d82" title="TeenyVandleProcessor\l::PreProcess" alt="" coords="794,443,951,484"/>
+<area shape="rect" id="node21" href="$d8/db5/class_two_chan_timing_processor.html#a82918c06d018d83020afc1bdd3486e6a" title="TwoChanTimingProcessor\l::Process" alt="" coords="785,619,961,660"/>
+<area shape="rect" id="node24" href="$d7/d61/class_high_res_timing_data.html#a9a451f539ba43bc1af2950e63041070c" title="HighResTimingData::\lGetAveBaseline" alt="" coords="272,322,420,363"/>
+<area shape="rect" id="node25" href="$d7/d61/class_high_res_timing_data.html#a5c37acd4af0aca55fa830e31d6d803df" title="HighResTimingData::\lGetDiscrimination" alt="" coords="272,387,420,428"/>
+<area shape="rect" id="node26" href="$d7/d61/class_high_res_timing_data.html#a38d19413ed2efb9f623393a2519f5040" title="HighResTimingData::\lGetMaximumPosition" alt="" coords="272,768,420,810"/>
+<area shape="rect" id="node27" href="$d7/d61/class_high_res_timing_data.html#ab06b6f703b5aa89f55e6e41428e69003" title="HighResTimingData::\lGetMaximumValue" alt="" coords="535,408,683,450"/>
+<area shape="rect" id="node28" href="$d7/d61/class_high_res_timing_data.html#a21273328ec61a432f82cc2af3ec3d0ca" title="HighResTimingData::\lGetPhaseInNs" alt="" coords="272,256,420,298"/>
+<area shape="rect" id="node29" href="$d7/d61/class_high_res_timing_data.html#ae030857390e4ad2262e30f896c9f03b3" title="HighResTimingData::\lGetTraceQdc" alt="" coords="535,139,683,180"/>
+<area shape="rect" id="node36" href="$d7/d61/class_high_res_timing_data.html#a3263be14be1ea123751ceb90e4de14ab" title="HighResTimingData::\lGetStdDevBaseline" alt="" coords="535,526,683,567"/>
+<area shape="rect" id="node37" href="$d0/d48/class_hist_scanner_chan_data.html#a54d9449f072b091c776adafbce18c5a0" title="HistScannerChanData::Set" alt="" coords="255,834,437,861"/>
+<area shape="rect" id="node41" href="$df/df5/class_implant_ssd_processor.html#a4633fc3b34a8e8915713dd8e1ba5666a" title="ImplantSsdProcessor\l::Process" alt="" coords="273,886,419,927"/>
+<area shape="rect" id="node43" href="$d3/dab/class_lite_position_processor.html#a41e329779cb70710078ab066afd4f953" title="LitePositionProcessor\l::Process" alt="" coords="271,951,421,992"/>
+<area shape="rect" id="node45" href="$d3/df3/class_position_processor.html#a45a6ef172d9253956769b1ccd15a6e4a" title="Process the QDC data involved in top/bottom side for a strip. " alt="" coords="278,1016,414,1058"/>
+<area shape="rect" id="node46" href="$dd/d2c/class_pspmt_processor.html#afd615887b035057293dc86455155c3c7" title="PspmtProcessor::PreProcess" alt="" coords="249,1082,443,1109"/>
+<area shape="rect" id="node48" href="$d0/d1e/class_scope_unpacker.html#a72f39d42058753f97fd4499fd6b2b79f" title="ScopeUnpacker::ProcessRaw\lEvent" alt="" coords="773,1151,972,1192"/>
+<area shape="rect" id="node49" href="$d0/d1e/class_scope_unpacker.html#aa68f23ae94ba7bfe4aded8f36ef379b8" title="Plot the current event. " alt="" coords="273,1184,419,1210"/>
+<area shape="rect" id="node4" href="$de/d91/class_detector_driver.html#a19c152206c95dfbc2a98ffd1d002165e" title="Control of the event processing. " alt="" coords="511,782,708,809"/>
+<area shape="rect" id="node5" href="$de/d91/class_detector_driver.html#a3a556ab94a878e057dea8a081d0df55a" title="Plots into histogram defined by dammId. " alt="" coords="805,736,941,762"/>
+<area shape="rect" id="node8" href="$d4/d48/class_utk_unpacker.html#a09c96dd753088977aa1f458f7c07d24b" title="Process all events in the event list. " alt="" coords="1020,837,1236,864"/>
+<area shape="rect" id="node6" href="$de/d91/class_detector_driver.html#a7f2a28ba2a756e034e38630a5e258309" title="DetectorDriver::PlotRaw" alt="" coords="1045,685,1211,712"/>
+<area shape="rect" id="node7" href="$de/d91/class_detector_driver.html#ad966b8fe4330bb0cf117422b9bd08f40" title="DetectorDriver::PlotCal" alt="" coords="1049,786,1207,813"/>
+<area shape="rect" id="node9" href="$d4/d48/class_utk_unpacker.html#a61ba5974ee476d5c3ab316b5b6759204" title="Add an event to generic statistics output. " alt="" coords="1045,736,1211,762"/>
+<area shape="rect" id="node15" href="$dd/dcd/class_timing_map_builder.html#afd32696516ef5999dc7293ae8ea4835b" title="TimingMapBuilder::FillMaps" alt="" coords="781,513,964,540"/>
+<area shape="rect" id="node22" href="$d1/dd7/class_vandle_ornl2012_processor.html#a05b7477fad0d6614e01ca86cb9cff0bf" title="VandleOrnl2012Processor\l::Process" alt="" coords="1041,560,1215,602"/>
+<area shape="rect" id="node12" href="$d7/d6b/class_liquid_scint_processor.html#a4d89e8c3779a6903973b8313b063ceb1" title="LiquidScintProcessor\l::~LiquidScintProcessor" alt="" coords="1047,378,1209,419"/>
+<area shape="rect" id="node14" href="$d3/d5e/class_teeny_vandle_processor.html#ace84b3cc48debac1892f4fa954adafbd" title="TeenyVandleProcessor\l::~TeenyVandleProcessor" alt="" coords="1041,443,1215,484"/>
+<area shape="rect" id="node16" href="$dd/dcd/class_timing_map_builder.html#a5ad30423496d0aa122c64d85b91a3d93" title="TimingMapBuilder::GetMap" alt="" coords="1038,509,1218,536"/>
+<area shape="rect" id="node17" href="$db/d21/class_vandle_processor.html#ac50169b4e140313d1a5a2ce6032dc6af" title="VandleProcessor::Process" alt="" coords="1292,196,1469,222"/>
+<area shape="rect" id="node18" href="$de/d3c/class_crosstalk_processor.html#a641e3912de9f8d9f2a9bf4e902429723" title="CrosstalkProcessor\l::Process" alt="" coords="1546,188,1683,230"/>
+<area shape="rect" id="node19" href="$d0/d80/class_walk_vandle_beta_processor.html#a191e1076d68a81dde827459dd3374124" title="WalkVandleBetaProcessor\l::Process" alt="" coords="1525,268,1704,310"/>
+<area shape="rect" id="node20" href="$d0/d80/class_walk_vandle_beta_processor.html#a4b72d8b893fa03ac656780d152640428" title="WalkVandleBetaProcessor\l::~WalkVandleBetaProcessor" alt="" coords="1752,268,1947,310"/>
+<area shape="rect" id="node23" href="$d1/dd7/class_vandle_ornl2012_processor.html#a394c47ec126f1be6ca5ef7dc5ce305d1" title="VandleOrnl2012Processor\l::~VandleOrnl2012Processor" alt="" coords="1286,560,1475,602"/>
+<area shape="rect" id="node30" href="$d6/d15/class_bar_detector.html#a425dd8e2c5639358fa9728dfcc90b35e" title="BarDetector::GetQdc" alt="" coords="800,194,945,221"/>
+<area shape="rect" id="node35" href="$d6/d15/class_bar_detector.html#afbfc72aea4d7b48838f3f8fff5a619e2" title="BarDetector::GetQdcPosition" alt="" coords="777,93,969,120"/>
+<area shape="rect" id="node31" href="$de/d81/class_i_s600_processor.html#a92f29e9c021fffb08f02bf48d12aff42" title="IS600Processor::Process" alt="" coords="1043,225,1213,252"/>
+<area shape="rect" id="node32" href="$db/d21/class_vandle_processor.html#a0110c42a30912f6c299770a8d7bb2283" title="Analyze the data for scenarios with Bar Starts; e.g. Double Beta detectors. " alt="" coords="1040,159,1216,200"/>
+<area shape="rect" id="node34" href="$db/d21/class_vandle_processor.html#abf7e3570d321d098ef154bbe937821dc" title="Analyze the data for scenarios with Single sided Starts; e.g. LeRIBSS beta scintillators. " alt="" coords="1040,94,1216,135"/>
+<area shape="rect" id="node33" href="$db/d21/class_vandle_processor.html#a186633b14ff6be88a7ef5c0e1a646ae2" title="VandleProcessor::GetHasBig" alt="" coords="1284,116,1477,142"/>
+<area shape="rect" id="node38" href="$d0/d48/class_hist_scanner_chan_data.html#a82d5d06223b575c99b8c1ccf4a39a08d" title="HistScannerChanData\l::~HistScannerChanData" alt="" coords="525,834,694,875"/>
+<area shape="rect" id="node39" href="$d0/d4f/class_hist_unpacker.html#a9fe1102664592a667957f73feb98b0bf" title="Create a HistScannerChanData from the provided XiaData. " alt="" coords="526,900,693,926"/>
+<area shape="rect" id="node40" href="$d0/d4f/class_hist_unpacker.html#aff13db53afd16e00d86681802171768e" title="HistUnpacker::ProcessRaw\lEvent" alt="" coords="780,892,965,934"/>
+<area shape="rect" id="node42" href="$df/df5/class_implant_ssd_processor.html#a057e44029967a209fc626811e2ba4412" title="ImplantSsdProcessor\l::~ImplantSsdProcessor" alt="" coords="528,951,691,992"/>
+<area shape="rect" id="node44" href="$d3/dab/class_lite_position_processor.html#a602ce3c9355626b96649b08690d391ef" title="LitePositionProcessor\l::~LitePositionProcessor" alt="" coords="527,1016,692,1058"/>
+<area shape="rect" id="node47" href="$dd/d2c/class_pspmt_processor.html#a23ed80963dc7c683eba1b95aa12f37db" title="PspmtProcessor::~PspmtProcessor" alt="" coords="493,1082,725,1109"/>
+<area shape="rect" id="node50" href="$d0/d1e/class_scope_unpacker.html#a6f396dfd3e7a0c25de3d0919a1791a11" title="ScopeUnpacker::ProcessEvents" alt="" coords="503,1184,715,1210"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="TemplateExpProcessor.hpp" name="TemplateExpProcessor.hpp">
+<area shape="rect" id="node3" href="$da/dd1/_event_processor_8hpp.html" title="Generic event processor. " alt="" coords="189,80,329,107"/>
+<area shape="rect" id="node8" href="$de/d87/_plots_8hpp.html" title="A container to request a block of plots and plot respective spectra through the plots register..." alt="" coords="361,379,439,405"/>
+<area shape="rect" id="node26" href="$d6/ded/_tree_correlator_8hpp.html" title="A class to handle complex correlations between various processors. " alt="" coords="1023,155,1153,181"/>
+<area shape="rect" id="node9" href="$d4/d9c/_globals_8hpp.html" title="constant parameters used in pixie16 analysis " alt="" coords="1133,453,1224,480"/>
+<area shape="rect" id="node24" href="$d3/d87/_his_file_8hpp.html" title="HisFile.hpp" alt="" coords="397,453,485,480"/>
+<area shape="rect" id="node25" href="$da/d82/_plots_register_8hpp.html" title="PlotsRegister.hpp" alt="" coords="814,453,941,480"/>
+<area shape="rect" id="node17" href="$dc/d77/_constants_8hpp.html" title="A header that contains various useful constants for the software. " alt="" coords="1464,528,1571,555"/>
+<area shape="rect" id="node18" href="$df/dd4/_paass_exceptions_8hpp.html" title="Class to handle errors occurring during the execution of the code This file will break with the One&#45;C..." alt="" coords="1872,603,2021,629"/>
+<area shape="rect" id="node20" href="$d0/db0/_messenger_8hpp.html" title="A class to handle messages and output them prettily. " alt="" coords="955,528,1066,555"/>
+<area shape="rect" id="node23" href="$dd/d48/_trap_filter_parameters_8hpp.html" title="A class to hold parameters for a trapezoidal filter in units of ns. " alt="" coords="1595,528,1765,555"/>
+<area shape="rect" id="node28" href="$d5/d2d/_places_8hpp.html" title="Defines the various places for the TreeCorrelator. " alt="" coords="1142,304,1229,331"/>
+<area shape="rect" id="node31" href="$db/dc4/_place_builder_8hpp.html" title="Defines the various places for the TreeCorrelator. " alt="" coords="1028,229,1148,256"/>
+<area shape="rect" id="node30" href="$dd/d77/_event_data_8hpp.html" title="Structure holding event data. " alt="" coords="899,379,1008,405"/>
+</map>

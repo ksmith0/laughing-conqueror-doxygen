@@ -1,0 +1,8 @@
+<map id="TreeCorrelatorXmlParser::~TreeCorrelatorXmlParser" name="TreeCorrelatorXmlParser::~TreeCorrelatorXmlParser">
+<area shape="rect" id="node2" href="$da/dde/class_tree_correlator_xml_parser.html#a74f49bab1bb08549b54300beb5ba2933" title="TreeCorrelatorXmlParser\l::ParseNode" alt="" coords="236,23,403,65"/>
+<area shape="rect" id="node3" href="$d1/df9/class_xml_interface.html#a5a437bc25ac0f9ecc65cdebf6c664ad0" title="XmlInterface::get" alt="" coords="482,5,605,32"/>
+<area shape="rect" id="node5" href="$d1/df9/class_xml_interface.html#a3c935eddf6f5905cf461c1cef806e38a" title="XmlInterface::GetDocument" alt="" coords="451,56,636,83"/>
+<area shape="rect" id="node4" href="$d1/df9/class_xml_interface.html#a9924d1a9f16987091b58c70ed13a5718" title="XmlInterface::XmlInterface" alt="" coords="688,5,867,32"/>
+<area shape="rect" id="node6" href="$d1/df9/class_xml_interface.html#a9326df5bd548bd9a40b62dee6a2e3025" title="Default destructor that deletes the instance when its called. " alt="" coords="684,56,871,83"/>
+<area shape="rect" id="node7" href="$d1/df9/class_xml_interface.html#ac853fae42b1b3446a00a0d37e50d670d" title="copy constructor " alt="" coords="698,107,857,133"/>
+</map>

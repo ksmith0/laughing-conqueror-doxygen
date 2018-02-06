@@ -1,0 +1,6 @@
+<map id="StatsHandler::StatsHandler" name="StatsHandler::StatsHandler">
+<area shape="rect" id="node2" href="$d3/d7a/class_client.html#af3ae3362b6d1a2208a996be5d9d9179e" title="Client::Init" alt="" coords="263,5,346,32"/>
+<area shape="rect" id="node3" href="$d2/d58/class_stats_handler.html#a409f63879ca1c7b9d12184d07703b9c8" title="Clear the stats. " alt="" coords="236,56,373,83"/>
+<area shape="rect" id="node4" href="$d2/d58/class_stats_handler.html#afb61bd932e6d4350a9e6fa36526deb52" title="StatsHandler::ClearRates" alt="" coords="422,31,594,57"/>
+<area shape="rect" id="node5" href="$d2/d58/class_stats_handler.html#a01df5186e4927be0fed832c48dd746d0" title="StatsHandler::ClearTotals" alt="" coords="421,81,595,108"/>
+</map>

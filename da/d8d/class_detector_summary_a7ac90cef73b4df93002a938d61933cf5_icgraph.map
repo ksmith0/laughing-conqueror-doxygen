@@ -1,0 +1,15 @@
+<map id="DetectorSummary::GetMult" name="DetectorSummary::GetMult">
+<area shape="rect" id="node2" href="$d4/d67/class_dssd_processor.html#a0e32fc233a84ef03dc994b83899e1388" title="DssdProcessor::Process" alt="" coords="237,5,405,32"/>
+<area shape="rect" id="node3" href="$df/df5/class_implant_ssd_processor.html#a4633fc3b34a8e8915713dd8e1ba5666a" title="ImplantSsdProcessor\l::Process" alt="" coords="248,57,395,98"/>
+<area shape="rect" id="node5" href="$db/d21/class_vandle_processor.html#a1597bac08eca7f01d8da1837ce9a14be" title="VandleProcessor::PlotTof\lHistograms" alt="" coords="236,147,407,189"/>
+<area shape="rect" id="node4" href="$df/df5/class_implant_ssd_processor.html#a057e44029967a209fc626811e2ba4412" title="ImplantSsdProcessor\l::~ImplantSsdProcessor" alt="" coords="461,43,624,85"/>
+<area shape="rect" id="node6" href="$db/d21/class_vandle_processor.html#a0110c42a30912f6c299770a8d7bb2283" title="Analyze the data for scenarios with Bar Starts; e.g. Double Beta detectors. " alt="" coords="455,161,631,202"/>
+<area shape="rect" id="node13" href="$db/d21/class_vandle_processor.html#a186633b14ff6be88a7ef5c0e1a646ae2" title="VandleProcessor::GetHasBig" alt="" coords="679,168,872,195"/>
+<area shape="rect" id="node14" href="$db/d21/class_vandle_processor.html#abf7e3570d321d098ef154bbe937821dc" title="Analyze the data for scenarios with Single sided Starts; e.g. LeRIBSS beta scintillators. " alt="" coords="455,226,631,267"/>
+<area shape="rect" id="node7" href="$db/d21/class_vandle_processor.html#ac50169b4e140313d1a5a2ce6032dc6af" title="VandleProcessor::Process" alt="" coords="687,227,864,253"/>
+<area shape="rect" id="node8" href="$de/d3c/class_crosstalk_processor.html#a641e3912de9f8d9f2a9bf4e902429723" title="CrosstalkProcessor\l::Process" alt="" coords="941,154,1078,195"/>
+<area shape="rect" id="node10" href="$db/d21/class_vandle_processor.html#adeb801d12cbeb4a4426b7d2f5ee522cd" title="Default Destructor */. " alt="" coords="921,219,1098,261"/>
+<area shape="rect" id="node11" href="$d0/d80/class_walk_vandle_beta_processor.html#a191e1076d68a81dde827459dd3374124" title="WalkVandleBetaProcessor\l::Process" alt="" coords="920,285,1099,326"/>
+<area shape="rect" id="node9" href="$de/d3c/class_crosstalk_processor.html#a974ad94596916e6d24e863dcbec1058c" title="CrosstalkProcessor\l::~CrosstalkProcessor" alt="" coords="1167,154,1321,195"/>
+<area shape="rect" id="node12" href="$d0/d80/class_walk_vandle_beta_processor.html#a4b72d8b893fa03ac656780d152640428" title="WalkVandleBetaProcessor\l::~WalkVandleBetaProcessor" alt="" coords="1147,285,1341,326"/>
+</map>

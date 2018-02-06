@@ -1,0 +1,51 @@
+<map id="RawEvent.hpp" name="RawEvent.hpp">
+<area shape="rect" id="node2" href="$d5/dc9/_correlator_8hpp.html" title="Header file for correlation. " alt="" coords="263,80,367,107"/>
+<area shape="rect" id="node7" href="$d5/d0b/_dssd_processor_8cpp.html" title="Processes DSSD events. " alt="" coords="392,155,529,181"/>
+<area shape="rect" id="node8" href="$d0/d9c/_utk_unpacker_8hpp.html" title="UtkUnpacker.hpp" alt="" coords="2175,80,2299,107"/>
+<area shape="rect" id="node13" href="$d4/df5/_detector_driver_8cpp.html" title="Main driver for event processing. " alt="" coords="2323,80,2455,107"/>
+<area shape="rect" id="node14" href="$db/d1e/_raw_event_8cpp.html" title="defines functions associated with a rawevent " alt="" coords="2479,80,2587,107"/>
+<area shape="rect" id="node15" href="$df/d98/_read_buff_data_a_8cpp.html" title="retrieve data from raw buffer array ibuf " alt="" coords="2611,80,2750,107"/>
+<area shape="rect" id="node16" href="$dc/d3f/_crosstalk_processor_8hpp.html" title="A Crosstalk class to be used to build others. " alt="" coords="2825,80,2987,107"/>
+<area shape="rect" id="node17" href="$d9/d45/_crosstalk_processor_8cpp.html" title="A Template processor class that can be used to build your own. " alt="" coords="2825,155,2987,181"/>
+<area shape="rect" id="node18" href="$d0/d02/_dssd4_s_h_e_processor_8hpp.html" title="Dssd4SHEProcessor.hpp" alt="" coords="3063,80,3235,107"/>
+<area shape="rect" id="node19" href="$d1/d8f/_dssd4_s_h_e_processor_8cpp.html" title="Dssd4SHEProcessor.cpp" alt="" coords="3037,155,3209,181"/>
+<area shape="rect" id="node20" href="$d8/d6d/_ge4_hen3_processor_8hpp.html" title="Ge4Hen3Processor.hpp" alt="" coords="2020,155,2181,181"/>
+<area shape="rect" id="node21" href="$d7/d18/_ge4_hen3_processor_8cpp.html" title="Ge4Hen3Processor.cpp" alt="" coords="2020,229,2181,256"/>
+<area shape="rect" id="node22" href="$dd/df6/_beta4_hen3_processor_8cpp.html" title="Beta4Hen3Processor.cpp" alt="" coords="3259,80,3430,107"/>
+<area shape="rect" id="node23" href="$d1/d8b/_e11027_processor_8cpp.html" title="Class that handles outputting MONA&#45;LISA&#45;SWEEPER timestamps from the E11027 experiment conducted at NS..." alt="" coords="3455,80,3605,107"/>
+<area shape="rect" id="node24" href="$d2/d5d/_la_br3_test_processor_8cpp.html" title="A LaBr3Test processor class that can be used to build your own. " alt="" coords="3629,80,3796,107"/>
+<area shape="rect" id="node25" href="$de/dd7/_template_exp_processor_8cpp.html" title="Example class for experiment specific setups. " alt="" coords="1145,155,1328,181"/>
+<area shape="rect" id="node26" href="$dc/da5/_two_chan_timing_processor_8cpp.html" title="Analyzes data from a simple Two channel Timing setup. " alt="" coords="3820,80,4021,107"/>
+<area shape="rect" id="node27" href="$da/d74/_walk_vandle_beta_processor_8cpp.html" title="A class to determine the walk between Vandle and the LeRIBSS betas. " alt="" coords="4046,80,4249,107"/>
+<area shape="rect" id="node28" href="$de/d51/_clover_calib_processor_8hpp.html" title="Processor for germanium detectors &#45; calibration. " alt="" coords="553,155,728,181"/>
+<area shape="rect" id="node30" href="$d0/de3/_clover_processor_8hpp.html" title="Processor for Clovers. " alt="" coords="979,80,1123,107"/>
+<area shape="rect" id="node33" href="$da/d91/_clover_processor_8cpp.html" title="Implementation for germanium processor. " alt="" coords="1353,155,1497,181"/>
+<area shape="rect" id="node34" href="$d5/d18/_ge_processor_8hpp.html" title="Processor for germanium detectors. " alt="" coords="1923,80,2046,107"/>
+<area shape="rect" id="node35" href="$d7/da0/_position_processor_8hpp.html" title="Handle QDCs for the position sensitive detector. " alt="" coords="1636,80,1789,107"/>
+<area shape="rect" id="node36" href="$dc/d4d/_position_processor_8cpp.html" title="Handle some QDC action to determine positions in a strip detector. " alt="" coords="1521,155,1675,181"/>
+<area shape="rect" id="node37" href="$d7/d20/_pspmt_processor_8hpp.html" title="A processor to handle pixelated PMTs. " alt="" coords="1750,155,1894,181"/>
+<area shape="rect" id="node38" href="$d0/d37/_beta_scint_processor_8cpp.html" title="BetaScintProcessor.cpp" alt="" coords="4273,80,4435,107"/>
+<area shape="rect" id="node39" href="$d6/d1f/_double_beta_processor_8cpp.html" title="A DoubleBeta processor class that can be used to analyze double beta detectors. " alt="" coords="4460,80,4635,107"/>
+<area shape="rect" id="node40" href="$d2/de4/_event_processor_8cpp.html" title="Implementation of a generic event processor. " alt="" coords="4659,80,4799,107"/>
+<area shape="rect" id="node41" href="$d7/d49/_hen3_processor_8cpp.html" title="Hen3Processor.cpp" alt="" coords="4823,80,4960,107"/>
+<area shape="rect" id="node42" href="$d3/d01/_ion_chamber_processor_8cpp.html" title="implementation for ion chambers " alt="" coords="4984,80,5161,107"/>
+<area shape="rect" id="node43" href="$d2/d61/_liquid_scint_processor_8cpp.html" title="LiquidScintProcessor.cpp" alt="" coords="5186,80,5357,107"/>
+<area shape="rect" id="node44" href="$d1/deb/_lite_position_processor_8cpp.html" title="Handle some QDC action to determine positions in a strip detector. " alt="" coords="5381,80,5556,107"/>
+<area shape="rect" id="node45" href="$d8/d5f/_logic_processor_8cpp.html" title="handling of logic events, derived from MtcProcessor.cpp " alt="" coords="5580,80,5717,107"/>
+<area shape="rect" id="node46" href="$da/d74/_mcp_processor_8cpp.html" title="Handles MCP detectors. " alt="" coords="5742,80,5873,107"/>
+<area shape="rect" id="node47" href="$d9/df3/_neutron_scint_processor_8cpp.html" title="NeutronScintProcessor.cpp" alt="" coords="5897,80,6080,107"/>
+<area shape="rect" id="node48" href="$dc/dbb/_teeny_vandle_processor_8cpp.html" title="A Template processor class that can be used to build your own. " alt="" coords="6104,80,6287,107"/>
+<area shape="rect" id="node49" href="$dd/d27/_template_processor_8cpp.html" title="A Template processor class that can be used to build your own. " alt="" coords="6311,80,6471,107"/>
+<area shape="rect" id="node50" href="$d8/d7f/_vandle_processor_8cpp.html" title="Processes information for VANDLE. " alt="" coords="6495,80,6642,107"/>
+<area shape="rect" id="node3" href="$d3/d79/_correlator_8cpp.html" title="Correlates events. " alt="" coords="263,155,367,181"/>
+<area shape="rect" id="node4" href="$d7/d7f/_implant_ssd_processor_8hpp.html" title="Header file for an SSD detector for implantation and correlation. " alt="" coords="67,155,239,181"/>
+<area shape="rect" id="node6" href="$d9/d43/_implant_ssd_processor_8cpp.html" title="Handles ssd:implant detectors. " alt="" coords="5,229,177,256"/>
+<area shape="rect" id="node5" href="$dc/d67/_detector_driver_xml_parser_8cpp.html" title="Class to parse the DetectorDriver node. " alt="" coords="1184,229,1377,256"/>
+<area shape="rect" id="node9" href="$d7/d8c/utkscan_8cpp.html" title="utkscan.cpp" alt="" coords="2257,155,2350,181"/>
+<area shape="rect" id="node10" href="$d6/d72/_utk_scan_interface_8cpp.html" title="Derived class handling the interface with utkscan. " alt="" coords="2374,155,2523,181"/>
+<area shape="rect" id="node11" href="$d1/dd5/utkscanor_8cpp.html" title="utkscanor.cpp" alt="" coords="2547,155,2651,181"/>
+<area shape="rect" id="node12" href="$df/d40/_utk_unpacker_8cpp.html" title="A child of the Unpacker class that is used to replace some of the functionality of the PixieStd..." alt="" coords="2676,155,2800,181"/>
+<area shape="rect" id="node29" href="$d3/d1e/_clover_calib_processor_8cpp.html" title="CloverCalibProcessor.cpp" alt="" coords="553,229,728,256"/>
+<area shape="rect" id="node31" href="$d6/df5/_anl1471_processor_8cpp.html" title="A class to process data from ANL1471 experiment using VANDLE. " alt="" coords="804,155,957,181"/>
+<area shape="rect" id="node32" href="$d4/dbf/_i_s600_processor_8cpp.html" title="A class to process data from ISOLDE 599 and 600 experiments using VANDLE. " alt="" coords="981,155,1121,181"/>
+</map>

@@ -1,0 +1,51 @@
+<map id="XiaData::GetModuleNumber" name="XiaData::GetModuleNumber">
+<area shape="rect" id="node2" href="$d5/d91/class_chan_event.html#ac92976ab74eb43a72bf6e6e536f59496" title="ChanEvent::GetChanID" alt="" coords="259,483,420,510"/>
+<area shape="rect" id="node34" href="$d5/d91/class_chan_event.html#ac2f5a4534b4ad1856689040a7bf13dd2" title="ChanEvent::GetID" alt="" coords="274,1191,405,1218"/>
+<area shape="rect" id="node35" href="$d5/d91/class_chan_event.html#acd9d0ab0041d20a86a4b7bd5246be6b7" title="ChanEvent::operator==" alt="" coords="260,1242,419,1269"/>
+<area shape="rect" id="node37" href="$d5/da6/class_event_reader_unpacker.html#a32b44b49d71c4f790512bd2abe8b7cbc" title="EventReaderUnpacker\l::ProcessRawEvent" alt="" coords="509,1344,663,1385"/>
+<area shape="rect" id="node39" href="$d5/da6/class_event_reader_unpacker.html#af48d90005d811fd86e70ff0660b7fe4b" title="EventReaderUnpacker\l::AddEvent" alt="" coords="262,1293,417,1335"/>
+<area shape="rect" id="node40" href="$d0/d48/class_hist_scanner_chan_data.html#a54d9449f072b091c776adafbce18c5a0" title="HistScannerChanData::Set" alt="" coords="249,1410,430,1437"/>
+<area shape="rect" id="node43" href="$d0/d1e/class_scope_unpacker.html#a72f39d42058753f97fd4499fd6b2b79f" title="ScopeUnpacker::ProcessRaw\lEvent" alt="" coords="240,1461,439,1503"/>
+<area shape="rect" id="node44" href="$d2/de8/class_unpacker.html#af3b767d00a571f8ee416df9a89625cc0" title="Unpacker::BuildRawEvent" alt="" coords="251,1527,427,1554"/>
+<area shape="rect" id="node46" href="$d2/de8/class_unpacker.html#a73aa13070de679d80a3cc5f327f3f606" title="Unpacker::AddEvent" alt="" coords="268,1578,411,1605"/>
+<area shape="rect" id="node47" href="$d2/ddd/class_xia_data.html#a286fce64fe1fcc764013c3e070e7ed7f" title="XiaData::GetId" alt="" coords="285,1645,394,1671"/>
+<area shape="rect" id="node3" href="$db/d4e/class_clover_calib_processor.html#a3a226660db21991ef09515012cab6eda" title="CloverCalibProcessor\l::Process" alt="" coords="511,392,661,433"/>
+<area shape="rect" id="node4" href="$d5/d01/class_clover_processor.html#af09c75d9da0b1620a24f83e7df0154bc" title="CloverProcessor::PreProcess" alt="" coords="489,458,683,485"/>
+<area shape="rect" id="node5" href="$d5/d01/class_clover_processor.html#a50eae562dbdc21e5dac462d0a6474326" title="CloverProcessor::Process" alt="" coords="499,509,673,535"/>
+<area shape="rect" id="node6" href="$de/d91/class_detector_driver.html#a2ae4e98c641d49183631eceb40dc19bb" title="Check threshold and calibrate each channel. Check the thresholds and calibrate the energy for each ch..." alt="" coords="487,1135,685,1162"/>
+<area shape="rect" id="node12" href="$db/da8/class_dssd4_s_h_e_processor.html#a069993b16eb9c18b547a279e9f5d1b28" title="Dssd4SHEProcessor::\lPreProcess" alt="" coords="509,560,663,601"/>
+<area shape="rect" id="node13" href="$d4/d67/class_dssd_processor.html#a0e32fc233a84ef03dc994b83899e1388" title="DssdProcessor::Process" alt="" coords="502,626,670,653"/>
+<area shape="rect" id="node14" href="$d6/d4e/class_hen3_processor.html#a12510344f12aa28fb4de00c28569995f" title="Hen3Processor::Process" alt="" coords="502,743,670,770"/>
+<area shape="rect" id="node16" href="$d7/d61/class_high_res_timing_data.html#ae030857390e4ad2262e30f896c9f03b3" title="HighResTimingData::\lGetTraceQdc" alt="" coords="512,795,660,836"/>
+<area shape="rect" id="node23" href="$df/df5/class_implant_ssd_processor.html#a4633fc3b34a8e8915713dd8e1ba5666a" title="ImplantSsdProcessor\l::Process" alt="" coords="513,881,659,923"/>
+<area shape="rect" id="node25" href="$d3/dab/class_lite_position_processor.html#a41e329779cb70710078ab066afd4f953" title="LitePositionProcessor\l::Process" alt="" coords="768,400,917,441"/>
+<area shape="rect" id="node27" href="$d3/dab/class_lite_position_processor.html#a52476ab85ff699211d625ac941e84c95" title="LitePositionProcessor\l::FindMatchingEdge" alt="" coords="511,677,661,719"/>
+<area shape="rect" id="node28" href="$da/d2f/class_logic_processor.html#a91ad87eb1649cebfa5a90de4943455ae" title="LogicProcessor::PreProcess" alt="" coords="492,71,680,98"/>
+<area shape="rect" id="node29" href="$dd/dcb/class_mcp_processor.html#ae65166c302b60f81ddd8edddc137de23" title="McpProcessor::PreProcess" alt="" coords="495,122,677,149"/>
+<area shape="rect" id="node30" href="$d9/dfc/class_neutron_scint_processor.html#a72ba8607b6df372e4b76d396140f765d" title="NeutronScintProcessor\l::Process" alt="" coords="507,173,665,215"/>
+<area shape="rect" id="node31" href="$d3/df3/class_position_processor.html#a45a6ef172d9253956769b1ccd15a6e4a" title="Process the QDC data involved in top/bottom side for a strip. " alt="" coords="775,119,911,160"/>
+<area shape="rect" id="node32" href="$d3/df3/class_position_processor.html#ade34c6c5eabff0d2d231d2e4b536e85c" title="PositionProcessor::\lFindMatchingEdge" alt="" coords="518,5,654,47"/>
+<area shape="rect" id="node33" href="$dd/d2c/class_pspmt_processor.html#afd615887b035057293dc86455155c3c7" title="PspmtProcessor::PreProcess" alt="" coords="489,341,683,367"/>
+<area shape="rect" id="node7" href="$de/d91/class_detector_driver.html#a19c152206c95dfbc2a98ffd1d002165e" title="Control of the event processing. " alt="" coords="744,1073,941,1099"/>
+<area shape="rect" id="node8" href="$de/d91/class_detector_driver.html#a3a556ab94a878e057dea8a081d0df55a" title="Plots into histogram defined by dammId. " alt="" coords="1024,1147,1160,1174"/>
+<area shape="rect" id="node9" href="$de/d91/class_detector_driver.html#a7f2a28ba2a756e034e38630a5e258309" title="DetectorDriver::PlotRaw" alt="" coords="1232,1147,1397,1174"/>
+<area shape="rect" id="node10" href="$de/d91/class_detector_driver.html#ad966b8fe4330bb0cf117422b9bd08f40" title="DetectorDriver::PlotCal" alt="" coords="1235,1071,1394,1098"/>
+<area shape="rect" id="node11" href="$d4/d48/class_utk_unpacker.html#a61ba5974ee476d5c3ab316b5b6759204" title="Add an event to generic statistics output. " alt="" coords="1232,1473,1397,1499"/>
+<area shape="rect" id="node15" href="$d6/d4e/class_hen3_processor.html#a8ed35806e6801f6c8f1eb402525e2834" title="Hen3Processor::~Hen3Processor" alt="" coords="733,543,952,570"/>
+<area shape="rect" id="node17" href="$d2/daa/class_anl1471_processor.html#ae0e82aa964d24549afd9d17f1a136fc2" title="Anl1471Processor::Process" alt="" coords="1000,827,1184,854"/>
+<area shape="rect" id="node18" href="$d6/d15/class_bar_detector.html#a425dd8e2c5639358fa9728dfcc90b35e" title="BarDetector::GetQdc" alt="" coords="770,777,915,803"/>
+<area shape="rect" id="node19" href="$d0/d80/class_walk_vandle_beta_processor.html#a191e1076d68a81dde827459dd3374124" title="WalkVandleBetaProcessor\l::Process" alt="" coords="1003,673,1181,715"/>
+<area shape="rect" id="node20" href="$d6/d15/class_bar_detector.html#afbfc72aea4d7b48838f3f8fff5a619e2" title="BarDetector::GetQdcPosition" alt="" coords="747,878,939,905"/>
+<area shape="rect" id="node21" href="$d7/d6b/class_liquid_scint_processor.html#a6e1f7662a1362e5c14275c9a13388231" title="LiquidScintProcessor\l::Process" alt="" coords="770,645,915,687"/>
+<area shape="rect" id="node22" href="$d3/d5e/class_teeny_vandle_processor.html#a01b193b7a00b5bbc2d0b35ccc0f34d82" title="TeenyVandleProcessor\l::PreProcess" alt="" coords="764,711,921,752"/>
+<area shape="rect" id="node24" href="$df/df5/class_implant_ssd_processor.html#a057e44029967a209fc626811e2ba4412" title="ImplantSsdProcessor\l::~ImplantSsdProcessor" alt="" coords="761,929,924,971"/>
+<area shape="rect" id="node26" href="$d3/dab/class_lite_position_processor.html#a602ce3c9355626b96649b08690d391ef" title="LitePositionProcessor\l::~LitePositionProcessor" alt="" coords="1009,400,1175,441"/>
+<area shape="rect" id="node36" href="$d5/d91/class_chan_event.html#a0c7ef67103707fc2d0ba1d43636ddd7a" title="ChanEvent::operator!=" alt="" coords="509,1242,663,1269"/>
+<area shape="rect" id="node38" href="$d5/da6/class_event_reader_unpacker.html#adb8a1bcd8677101a233eb7301285c7df" title="EventReaderUnpacker\l::SetShowTrace" alt="" coords="765,1315,920,1356"/>
+<area shape="rect" id="node41" href="$d0/d48/class_hist_scanner_chan_data.html#a82d5d06223b575c99b8c1ccf4a39a08d" title="HistScannerChanData\l::~HistScannerChanData" alt="" coords="501,1461,671,1503"/>
+<area shape="rect" id="node42" href="$d0/d4f/class_hist_unpacker.html#a9fe1102664592a667957f73feb98b0bf" title="Create a HistScannerChanData from the provided XiaData. " alt="" coords="503,1410,669,1437"/>
+<area shape="rect" id="node45" href="$d2/de8/class_unpacker.html#a0924b471bf4cb54b70118b314c39b70b" title="Unpacker::ReadSpill" alt="" coords="515,1527,657,1554"/>
+<area shape="rect" id="node48" href="$d7/de2/class_skeleton_unpacker.html#ab489608dad5ee12699ad2e17c5057605" title="Process all events in the event list. " alt="" coords="493,1579,679,1620"/>
+<area shape="rect" id="node49" href="$d2/ddd/class_xia_data.html#a396219ec180ae84da5abaeb3e3f66357" title="Equality operator that compares checks if we have the same channel (i.e. the ID and Time are identica..." alt="" coords="516,1645,656,1671"/>
+<area shape="rect" id="node50" href="$d2/ddd/class_xia_data.html#aae18ee188fa07f1f6f3429237b188fe2" title="A method that will compare the unique ID of two XiaData classes. " alt="" coords="515,1695,657,1722"/>
+</map>

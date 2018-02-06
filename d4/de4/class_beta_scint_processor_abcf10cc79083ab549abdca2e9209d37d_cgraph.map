@@ -1,0 +1,16 @@
+<map id="BetaScintProcessor::Process" name="BetaScintProcessor::Process">
+<area shape="rect" id="node2" href="$d6/d65/class_event_processor.html#ae2d41a947da0cb509fd0ca85f6caa0fc" title="EventProcessor::Process" alt="" coords="202,52,373,79"/>
+<area shape="rect" id="node3" href="$d6/d65/class_event_processor.html#a301eb8d69b3ceeeb4e69ce84a685f5a1" title="EventProcessor::EndProcess" alt="" coords="431,27,625,54"/>
+<area shape="rect" id="node4" href="$d3/daf/class_globals.html#ae66fa0173342202c96b13d71a6522512" title="Instance is created upon first call. " alt="" coords="241,103,333,130"/>
+<area shape="rect" id="node5" href="$d3/daf/class_globals.html#a02ea3605db675e1c5504de0ff317d16b" title="Globals::GetClockInSeconds" alt="" coords="192,154,383,180"/>
+<area shape="rect" id="node6" href="$d3/d2c/class_tree_correlator.html#a4f70fdbb0d6dead4212d8e926ce1755f" title="TreeCorrelator::get" alt="" coords="463,234,593,260"/>
+<area shape="rect" id="node7" href="$d3/d2c/class_tree_correlator.html#aadf6cf8c8bedbbde03fb678667c7cb01" title="TreeCorrelator::place" alt="" coords="456,354,600,380"/>
+<area shape="rect" id="node8" href="$dd/d21/class_place.html#adbd2dfae258717a40107ad34ebe248c1" title="Place::status" alt="" coords="238,322,337,348"/>
+<area shape="rect" id="node9" href="$dd/d21/class_place.html#a25854d42e71e507da8c1a1805e663850" title="Place::last" alt="" coords="245,372,329,399"/>
+<area shape="rect" id="node10" href="$d6/d65/class_event_processor.html#ad5201bb392726e409ba2a6ac44e764d8" title="Implementation of the plot command to interface with the DAMM routines. " alt="" coords="215,474,359,500"/>
+<area shape="rect" id="node14" href="$d4/de4/class_beta_scint_processor.html#a236a0af63b1537accccda7b73ae919a3" title="BetaScintProcessor\l::BestGammaForBeta" alt="" coords="213,256,362,297"/>
+<area shape="rect" id="node15" href="$d4/de4/class_beta_scint_processor.html#a71a4fdc237bc55bdbcb2aacecd9c4607" title="BetaScintProcessor\l::GoodGammaBeta" alt="" coords="218,525,357,566"/>
+<area shape="rect" id="node11" href="$d7/d8b/class_plots.html#a68849b82c8c7a5d57f972cbd8de83328" title="Plots into histogram defined by dammId. " alt="" coords="487,474,569,500"/>
+<area shape="rect" id="node12" href="$da/d57/_scanor_8hpp.html#a31aca3d0ff704e08f8f8968288ae7895" title="Defines the DAMM function to call for 1D hists */. " alt="" coords="673,448,756,475"/>
+<area shape="rect" id="node13" href="$da/d57/_scanor_8hpp.html#a8b0a662ebdb3f947ba8470bf89f11c3a" title="Defines the DAMM function to call for 2D hists */. " alt="" coords="681,499,749,526"/>
+</map>

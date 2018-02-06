@@ -1,0 +1,21 @@
+<map id="drrsub_" name="drrsub_">
+<area shape="rect" id="node2" href="$da/d57/_scanor_8hpp.html#a28962c49a5b0425dafa7d1e517177706" title="DAMM initialization call. " alt="" coords="176,132,252,159"/>
+<area shape="rect" id="node3" href="$de/d91/class_detector_driver.html#a374a759674faebb18f7a2b4fa06c7a70" title="DetectorDriver::get" alt="" coords="147,183,281,209"/>
+<area shape="rect" id="node4" href="$de/d91/class_detector_driver.html#a8810acdc149879688b81ec333531a28e" title="DetectorDriver::DeclarePlots" alt="" coords="119,233,309,260"/>
+<area shape="rect" id="node20" href="$da/d57/_scanor_8hpp.html#a5a0670e6ea02c181c558f1766ba91c9c" title="DAMM declaration wrap&#45;up call. " alt="" coords="185,284,243,311"/>
+<area shape="rect" id="node5" href="$de/d91/class_detector_driver.html#a745e3089d76a4fa437e44a7e82b9424e" title="DetectorDriver::DeclareHistogram1D" alt="" coords="357,5,595,32"/>
+<area shape="rect" id="node8" href="$de/d91/class_detector_driver.html#ac59589819db9e526e9abecb6328cc0e4" title="Declares a 2D histogram calls the C++ wrapper for DAMM. " alt="" coords="357,56,595,83"/>
+<area shape="rect" id="node11" href="$d3/daf/class_globals.html#ae66fa0173342202c96b13d71a6522512" title="Instance is created upon first call. " alt="" coords="430,107,522,133"/>
+<area shape="rect" id="node12" href="$dc/dbe/class_detector_library.html#a6ab3ff825daa8b607865086741bc9b2c" title="DetectorLibrary::get" alt="" coords="407,157,545,184"/>
+<area shape="rect" id="node13" href="$dc/dbe/class_detector_library.html#ad31d4f3ce8f28645df931cf94f7aad9d" title="DetectorLibrary::HasValue" alt="" coords="388,208,564,235"/>
+<area shape="rect" id="node15" href="$dc/dbe/class_detector_library.html#a7dc03a85fdd914647e3b4405524d8f02" title="DetectorLibrary::at" alt="" coords="411,259,541,285"/>
+<area shape="rect" id="node16" href="$dc/dbe/class_detector_library.html#a9297fb25cacc210dd6d2c1fd50675543" title="DetectorLibrary::ModuleFrom\lIndex" alt="" coords="381,310,571,351"/>
+<area shape="rect" id="node17" href="$dc/dbe/class_detector_library.html#aac228e18e7452d8233ad77195e05278b" title="DetectorLibrary::Channel\lFromIndex" alt="" coords="393,375,559,417"/>
+<area shape="rect" id="node18" href="$d3/daf/class_globals.html#abbd54bd790423391fa9d30cf39c3737d" title="Globals::GetPixieRevision" alt="" coords="389,441,563,468"/>
+<area shape="rect" id="node19" href="$da/d6a/namespace_display.html#a762315ce58efcb1203edfcb74158f59b" title="Display::ErrorStr" alt="" coords="417,492,535,519"/>
+<area shape="rect" id="node6" href="$d7/d8b/class_plots.html#a126b1dfe1d671776ee1caddc7cc249b9" title="Declares a 1D histogram calls the C++ wrapper for DAMM. " alt="" coords="643,5,825,32"/>
+<area shape="rect" id="node7" href="$da/d57/_scanor_8hpp.html#ae9985183725e9354913756c7f86d355a" title="create a DAMM 1D histogram args are damm id, half&#45;words per channel, param length, hist length, low x&#45;range, high x&#45;range, and title " alt="" coords="873,5,931,32"/>
+<area shape="rect" id="node9" href="$d7/d8b/class_plots.html#a59a2ffc3288d877c695346d82499e769" title="Declares a 2D histogram calls the C++ wrapper for DAMM. " alt="" coords="643,56,825,83"/>
+<area shape="rect" id="node10" href="$da/d57/_scanor_8hpp.html#a65d497b6686f1daba9896091bada3eb1" title="create a DAMM 2D histogram " alt="" coords="873,56,931,83"/>
+<area shape="rect" id="node14" href="$dc/dbe/class_detector_library.html#a90877646fc3c5c845baa0ff3643335d4" title="DetectorLibrary::GetIndex" alt="" coords="648,233,820,260"/>
+</map>

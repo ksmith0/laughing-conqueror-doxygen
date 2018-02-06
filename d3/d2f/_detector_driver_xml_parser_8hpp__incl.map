@@ -1,0 +1,20 @@
+<map id="DetectorDriverXmlParser.hpp" name="DetectorDriverXmlParser.hpp">
+<area shape="rect" id="node5" href="$dd/dfe/_detector_driver_8hpp.html" title="Main Driver for event processing. " alt="" coords="1242,80,1374,107"/>
+<area shape="rect" id="node30" href="$d0/db0/_messenger_8hpp.html" title="A class to handle messages and output them prettily. " alt="" coords="195,379,306,405"/>
+<area shape="rect" id="node35" href="$d0/d79/_xml_parser_8hpp.html" title="Class to help parse nodes XML based files. " alt="" coords="2513,80,2621,107"/>
+<area shape="rect" id="node9" href="$df/dbb/_calibrator_8hpp.html" title="Class to handle energy calibrations for the channels. " alt="" coords="1447,304,1550,331"/>
+<area shape="rect" id="node16" href="$df/dcf/_chan_event_8hpp.html" title="A Class to define what a channel event is. " alt="" coords="1763,155,1875,181"/>
+<area shape="rect" id="node22" href="$da/d18/_walk_corrector_8hpp.html" title="A Class to handle walk corrections for channels. " alt="" coords="1625,304,1756,331"/>
+<area shape="rect" id="node23" href="$d4/d9c/_globals_8hpp.html" title="constant parameters used in pixie16 analysis " alt="" coords="663,304,753,331"/>
+<area shape="rect" id="node32" href="$de/d87/_plots_8hpp.html" title="A container to request a block of plots and plot respective spectra through the plots register..." alt="" coords="1064,229,1141,256"/>
+<area shape="rect" id="node11" href="$d8/dd0/_channel_configuration_8hpp.html" title="Class that holds information about channel specific information. Including things like the trace dela..." alt="" coords="1269,379,1441,405"/>
+<area shape="rect" id="node15" href="$dd/d48/_trap_filter_parameters_8hpp.html" title="A class to hold parameters for a trapezoidal filter in units of ns. " alt="" coords="766,453,935,480"/>
+<area shape="rect" id="node17" href="$dc/dec/_processed_xia_data_8hpp.html" title="An XiaData object that has undergone additional processing. " alt="" coords="1959,304,2115,331"/>
+<area shape="rect" id="node18" href="$df/d04/_trace_8hpp.html" title="A simple class to store the traces. " alt="" coords="1831,379,1911,405"/>
+<area shape="rect" id="node21" href="$d6/d3a/_detector_library_8hpp.html" title="This is an extension of the vector of the channelConfigurations that was previously used..." alt="" coords="1699,229,1835,256"/>
+<area shape="rect" id="node20" href="$d3/d2b/_xia_data_8hpp.html" title="XiaData.hpp" alt="" coords="2189,379,2283,405"/>
+<area shape="rect" id="node27" href="$dc/d77/_constants_8hpp.html" title="A header that contains various useful constants for the software. " alt="" coords="655,379,761,405"/>
+<area shape="rect" id="node28" href="$df/dd4/_paass_exceptions_8hpp.html" title="Class to handle errors occurring during the execution of the code This file will break with the One&#45;C..." alt="" coords="99,453,248,480"/>
+<area shape="rect" id="node33" href="$d3/d87/_his_file_8hpp.html" title="HisFile.hpp" alt="" coords="1516,379,1604,405"/>
+<area shape="rect" id="node34" href="$da/d82/_plots_register_8hpp.html" title="PlotsRegister.hpp" alt="" coords="989,304,1115,331"/>
+</map>

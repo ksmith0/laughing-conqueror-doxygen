@@ -1,0 +1,11 @@
+<map id="TraceExtractor::Analyze" name="TraceExtractor::Analyze">
+<area shape="rect" id="node2" href="$d6/d20/class_channel_configuration.html#aba4539c47063c552522bcf7c20d5bf29" title="ChannelConfiguration\l::GetType" alt="" coords="229,5,376,47"/>
+<area shape="rect" id="node3" href="$d6/d20/class_channel_configuration.html#aaa6fcf267aebd6df6fa3df5510cfaeea" title="ChannelConfiguration\l::GetSubtype" alt="" coords="229,71,376,112"/>
+<area shape="rect" id="node4" href="$d6/d20/class_channel_configuration.html#a12d5e0dec96416851743462c53775bf5" title="ChannelConfiguration\l::HasTag" alt="" coords="229,136,376,177"/>
+<area shape="rect" id="node5" href="$d2/dbc/class_trace_analyzer.html#a0915fb97c3ebe928cab17deff5e497ec" title="TraceAnalyzer::Analyze" alt="" coords="222,202,383,229"/>
+<area shape="rect" id="node6" href="$d2/dbc/class_trace_analyzer.html#ae7ac212d764d0e394fcb323f68d23c66" title="TraceAnalyzer::EndAnalyze" alt="" coords="437,227,621,254"/>
+<area shape="rect" id="node7" href="$d2/dbc/class_trace_analyzer.html#a04f155e328cf8027bc1fc59f154c4e7a" title="TraceAnalyzer::OffsetPlot" alt="" coords="216,303,389,330"/>
+<area shape="rect" id="node8" href="$d7/d8b/class_plots.html#a68849b82c8c7a5d57f972cbd8de83328" title="Plots into histogram defined by dammId. " alt="" coords="488,303,571,330"/>
+<area shape="rect" id="node9" href="$da/d57/_scanor_8hpp.html#a31aca3d0ff704e08f8f8968288ae7895" title="Defines the DAMM function to call for 1D hists */. " alt="" coords="669,278,752,305"/>
+<area shape="rect" id="node10" href="$da/d57/_scanor_8hpp.html#a8b0a662ebdb3f947ba8470bf89f11c3a" title="Defines the DAMM function to call for 2D hists */. " alt="" coords="677,329,745,355"/>
+</map>

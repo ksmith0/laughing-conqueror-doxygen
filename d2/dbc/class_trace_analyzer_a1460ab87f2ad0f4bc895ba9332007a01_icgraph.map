@@ -1,0 +1,6 @@
+<map id="TraceAnalyzer::DeclareHistogram2D" name="TraceAnalyzer::DeclareHistogram2D">
+<area shape="rect" id="node2" href="$d8/d3d/class_trace_extractor.html#a67a7ee6e93deea26d1d16e3b243ac65c" title="TraceExtractor::DeclarePlots" alt="" coords="289,5,480,32"/>
+<area shape="rect" id="node4" href="$d4/db0/class_trace_filter_analyzer.html#ae5ac6f06108d2fec746da7312f2fdd00" title="TraceFilterAnalyzer\l::DeclarePlots" alt="" coords="317,57,452,98"/>
+<area shape="rect" id="node3" href="$d8/d3d/class_trace_extractor.html#af0c10d38d76e8b3695bd5e92748a6907" title="TraceExtractor::~TraceExtractor" alt="" coords="528,5,739,32"/>
+<area shape="rect" id="node5" href="$d4/db0/class_trace_filter_analyzer.html#aaadf927cff2a0fe2ded1929ce14ea3d6" title="TraceFilterAnalyzer\l::~TraceFilterAnalyzer" alt="" coords="558,57,709,98"/>
+</map>

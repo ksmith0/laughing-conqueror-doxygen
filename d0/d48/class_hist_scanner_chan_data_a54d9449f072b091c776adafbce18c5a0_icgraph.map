@@ -1,0 +1,5 @@
+<map id="HistScannerChanData::Set" name="HistScannerChanData::Set">
+<area shape="rect" id="node2" href="$d0/d48/class_hist_scanner_chan_data.html#a82d5d06223b575c99b8c1ccf4a39a08d" title="HistScannerChanData\l::~HistScannerChanData" alt="" coords="235,5,404,47"/>
+<area shape="rect" id="node3" href="$d0/d4f/class_hist_unpacker.html#a9fe1102664592a667957f73feb98b0bf" title="Create a HistScannerChanData from the provided XiaData. " alt="" coords="236,71,403,98"/>
+<area shape="rect" id="node4" href="$d0/d4f/class_hist_unpacker.html#aff13db53afd16e00d86681802171768e" title="HistUnpacker::ProcessRaw\lEvent" alt="" coords="452,64,637,105"/>
+</map>

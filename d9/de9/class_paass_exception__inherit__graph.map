@@ -1,0 +1,9 @@
+<map id="PaassException" name="PaassException">
+<area shape="rect" id="node3" href="$d3/d12/class_conversion_exception.html" title="Error related to converting between different variable types. " alt="" coords="331,5,477,32"/>
+<area shape="rect" id="node4" href="$d5/d62/class_histogram_exception.html" title="Errors related to access, creation, or closing of histograms. " alt="" coords="334,56,474,83"/>
+<area shape="rect" id="node5" href="$de/dab/class_i_o_exception.html" title="Read/write exception for all file operation related tasks. " alt="" coords="357,107,451,133"/>
+<area shape="rect" id="node6" href="$d3/d5d/class_not_implemented.html" title="Errors related to partially implemented features that may or may not work properly. " alt="" coords="345,157,463,184"/>
+<area shape="rect" id="node7" href="$d6/de6/class_paass_warning.html" title="An exception type that is used when we just need to send the user a message not actually kill the cod..." alt="" coords="351,208,457,235"/>
+<area shape="rect" id="node8" href="$d1/dfd/class_tree_correlator_exception.html" title="Errors in the setup of the TreeCorrelator. Including, but not limited to creating new places..." alt="" coords="323,259,485,285"/>
+<area shape="rect" id="node2" title="STL class. " alt="" coords="5,132,109,159"/>
+</map>

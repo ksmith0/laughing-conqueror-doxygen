@@ -1,0 +1,9 @@
+<map id="Trace::IsSaturated" name="Trace::IsSaturated">
+<area shape="rect" id="node2" href="$d5/d61/class_cfd_analyzer.html#a033267b19893a5c655dd186cbc73853e" title="CfdAnalyzer::Analyze" alt="" coords="203,5,353,32"/>
+<area shape="rect" id="node4" href="$d8/d35/class_fitting_analyzer.html#ae3f301aba508287caefbe46f39f1914d" title="FittingAnalyzer::Analyze" alt="" coords="196,56,360,83"/>
+<area shape="rect" id="node5" href="$d1/d61/class_waa_analyzer.html#acb271698a71ece00c719b7f8ad4c3025" title="WaaAnalyzer::Analyze" alt="" coords="201,107,355,133"/>
+<area shape="rect" id="node7" href="$da/d8c/class_waveform_analyzer.html#a36eda222c9ffa40319cd0ba9ebe62a0a" title="WaveformAnalyzer::Analyze" alt="" coords="184,159,372,185"/>
+<area shape="rect" id="node3" href="$d5/d61/class_cfd_analyzer.html#a09ee7711fb9948913e2aa0b6a022d25e" title="CfdAnalyzer::DeclarePlots" alt="" coords="429,5,606,32"/>
+<area shape="rect" id="node6" href="$d1/d61/class_waa_analyzer.html#acf4c091fd816f6cac524499091094079" title="WaaAnalyzer::~WaaAnalyzer" alt="" coords="420,104,615,131"/>
+<area shape="rect" id="node8" href="$da/d8c/class_waveform_analyzer.html#a9ab9178974207b8f16eccb28bbadec2c" title="WaveformAnalyzer::Declare\lPlots" alt="" coords="424,155,611,197"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="TreeCorrelatorXmlParser.hpp" name="TreeCorrelatorXmlParser.hpp">
+<area shape="rect" id="node4" href="$d6/ded/_tree_correlator_8hpp.html" title="A class to handle complex correlations between various processors. " alt="" coords="1413,80,1544,107"/>
+<area shape="rect" id="node26" href="$d0/d79/_xml_parser_8hpp.html" title="Class to help parse nodes XML based files. " alt="" coords="1711,80,1819,107"/>
+<area shape="rect" id="node9" href="$d5/d2d/_places_8hpp.html" title="Defines the various places for the TreeCorrelator. " alt="" coords="750,229,837,256"/>
+<area shape="rect" id="node18" href="$df/dd4/_paass_exceptions_8hpp.html" title="Class to handle errors occurring during the execution of the code This file will break with the One&#45;C..." alt="" coords="1511,528,1660,555"/>
+<area shape="rect" id="node25" href="$db/dc4/_place_builder_8hpp.html" title="Defines the various places for the TreeCorrelator. " alt="" coords="1295,155,1415,181"/>
+<area shape="rect" id="node13" href="$d4/d9c/_globals_8hpp.html" title="constant parameters used in pixie16 analysis " alt="" coords="707,379,797,405"/>
+<area shape="rect" id="node24" href="$dd/d77/_event_data_8hpp.html" title="Structure holding event data. " alt="" coords="580,304,689,331"/>
+<area shape="rect" id="node17" href="$dc/d77/_constants_8hpp.html" title="A header that contains various useful constants for the software. " alt="" coords="755,453,861,480"/>
+<area shape="rect" id="node20" href="$d0/db0/_messenger_8hpp.html" title="A class to handle messages and output them prettily. " alt="" coords="1079,453,1190,480"/>
+<area shape="rect" id="node23" href="$dd/d48/_trap_filter_parameters_8hpp.html" title="A class to hold parameters for a trapezoidal filter in units of ns. " alt="" coords="886,453,1055,480"/>
+</map>

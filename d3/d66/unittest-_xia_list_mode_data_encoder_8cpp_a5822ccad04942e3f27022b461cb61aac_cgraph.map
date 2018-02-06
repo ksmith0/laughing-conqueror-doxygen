@@ -1,0 +1,4 @@
+<map id="SetupExternalTimestamp" name="SetupExternalTimestamp">
+<area shape="rect" id="node2" href="$d2/ddd/class_xia_data.html#a673d1a85a4a03615668e99da93e30db5" title="Sets the lower 32 bits of the external event time. " alt="" coords="224,5,423,32"/>
+<area shape="rect" id="node3" href="$d2/ddd/class_xia_data.html#a4dc1410b6214be80115181cedd88a044" title="Sets the upper 16 bits of the external event time. " alt="" coords="223,56,424,83"/>
+</map>

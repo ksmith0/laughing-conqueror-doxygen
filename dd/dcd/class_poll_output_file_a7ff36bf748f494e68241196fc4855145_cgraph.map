@@ -1,0 +1,7 @@
+<map id="PollOutputFile::OpenNewFile" name="PollOutputFile::OpenNewFile">
+<area shape="rect" id="node2" href="$de/deb/class_p_l_d__header.html#a4252dd3e126646cd64d0fa8da48559b6" title="Set the title of the output pld file (unlimited length). " alt="" coords="274,5,421,32"/>
+<area shape="rect" id="node3" href="$de/deb/class_p_l_d__header.html#a927c679248de655ff6bb4fdba1601e8a" title="PLD_header::SetRunNumber" alt="" coords="251,56,443,83"/>
+<area shape="rect" id="node4" href="$de/deb/class_p_l_d__header.html#a7a3d7efc608c6986bc9a2a7c5727fe70" title="Set the date and tiem of when the file is opened. " alt="" coords="244,107,451,133"/>
+<area shape="rect" id="node6" href="$de/deb/class_p_l_d__header.html#a250c9f18e25d89625593ca0ffe59a0d5" title="Get the length of the header buffer. " alt="" coords="249,157,446,184"/>
+<area shape="rect" id="node5" href="$db/ddf/hribf__buffers_8cpp.html#a3497158c3af249fa3e1fe9c2c582dcf5" title="End of spill vsn. The scan code searches for these words. " alt="" coords="499,107,607,133"/>
+</map>

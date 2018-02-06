@@ -1,0 +1,11 @@
+<map id="VandleProcessor.hpp" name="VandleProcessor.hpp">
+<area shape="rect" id="node2" href="$dc/d67/_detector_driver_xml_parser_8cpp.html" title="Class to parse the DetectorDriver node. " alt="" coords="5,80,199,107"/>
+<area shape="rect" id="node3" href="$dc/d3f/_crosstalk_processor_8hpp.html" title="A Crosstalk class to be used to build others. " alt="" coords="223,80,386,107"/>
+<area shape="rect" id="node5" href="$dd/dc1/_walk_vandle_beta_processor_8hpp.html" title="A class to determine the walk between Vandle and the LeRIBSS betas. " alt="" coords="410,80,613,107"/>
+<area shape="rect" id="node7" href="$d6/df5/_anl1471_processor_8cpp.html" title="A class to process data from ANL1471 experiment using VANDLE. " alt="" coords="637,80,791,107"/>
+<area shape="rect" id="node8" href="$d4/dbf/_i_s600_processor_8cpp.html" title="A class to process data from ISOLDE 599 and 600 experiments using VANDLE. " alt="" coords="815,80,955,107"/>
+<area shape="rect" id="node9" href="$dd/dc0/_vandle_ornl2012_processor_8cpp.html" title="A class to process data from the LeRIBSS 2012 campaign. " alt="" coords="979,80,1177,107"/>
+<area shape="rect" id="node10" href="$d8/d7f/_vandle_processor_8cpp.html" title="Processes information for VANDLE. " alt="" coords="1202,80,1349,107"/>
+<area shape="rect" id="node4" href="$d9/d45/_crosstalk_processor_8cpp.html" title="A Template processor class that can be used to build your own. " alt="" coords="223,155,386,181"/>
+<area shape="rect" id="node6" href="$da/d74/_walk_vandle_beta_processor_8cpp.html" title="A class to determine the walk between Vandle and the LeRIBSS betas. " alt="" coords="410,155,613,181"/>
+</map>

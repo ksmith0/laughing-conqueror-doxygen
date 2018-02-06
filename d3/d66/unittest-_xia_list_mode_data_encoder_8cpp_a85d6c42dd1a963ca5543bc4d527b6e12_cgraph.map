@@ -1,0 +1,25 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node2" href="$d3/d66/unittest-_xia_list_mode_data_encoder_8cpp.html#a40acdc4640ed2248d22139fbfba265dd" title="SetupXiaDataClass" alt="" coords="126,183,263,209"/>
+<area shape="rect" id="node10" href="$d3/d66/unittest-_xia_list_mode_data_encoder_8cpp.html#aa8251bc80322061dc4e62fddbd263eaf" title="SetupEsums" alt="" coords="146,385,243,412"/>
+<area shape="rect" id="node13" href="$d2/ddd/class_xia_data.html#ac68b617d4dfc56484670219f8cb2ef3f" title="Sets the QDCs that were calculated on&#45;board. " alt="" coords="134,436,255,463"/>
+<area shape="rect" id="node14" href="$d3/d66/unittest-_xia_list_mode_data_encoder_8cpp.html#a5822ccad04942e3f27022b461cb61aac" title="SetupExternalTimestamp" alt="" coords="110,487,279,513"/>
+<area shape="rect" id="node17" href="$df/d1a/class_xia_list_mode_data_encoder.html#a0dafae523646704e98a8217cf425ec2e" title="XiaListModeDataEncoder\l::EncodeXiaData" alt="" coords="109,698,280,739"/>
+<area shape="rect" id="node3" href="$d2/ddd/class_xia_data.html#a4d60bfdab03855cc0b2a0a55e484bf88" title="Initialize all variables and set them to some default values. " alt="" coords="367,5,492,32"/>
+<area shape="rect" id="node4" href="$d2/ddd/class_xia_data.html#aaf91ca7a3d8cc1eb54ab6eca795ffefe" title="Sets the energy calculated on&#45;board. " alt="" coords="360,56,499,83"/>
+<area shape="rect" id="node5" href="$d2/ddd/class_xia_data.html#ac962808325ff3dce7b47863d4f96624f" title="Sets the slot number. " alt="" coords="346,107,513,133"/>
+<area shape="rect" id="node6" href="$d2/ddd/class_xia_data.html#a9c7fd2f8302abcaa614202087c33c4e0" title="Sets the channel number. " alt="" coords="334,157,525,184"/>
+<area shape="rect" id="node7" href="$d2/ddd/class_xia_data.html#a8785811860905761ba919ae67487a394" title="Sets the crate number. " alt="" coords="342,208,517,235"/>
+<area shape="rect" id="node8" href="$d2/ddd/class_xia_data.html#ab1d2117cb57edc28c5fbcc172e6f6226" title="Sets the lower 32 bits of the event time. " alt="" coords="337,259,521,285"/>
+<area shape="rect" id="node9" href="$d2/ddd/class_xia_data.html#a45331d8c7bdbf63d63ffea2ba63be992" title="Sets the upper 16 bits of the event time. " alt="" coords="336,309,523,336"/>
+<area shape="rect" id="node11" href="$d2/ddd/class_xia_data.html#a88e29fec9a50f6f1e3ecbeaedd03456c" title="Sets the baseline recorded on the module if the energy sums were recorded in the data stream..." alt="" coords="341,360,517,387"/>
+<area shape="rect" id="node12" href="$d2/ddd/class_xia_data.html#a87c703d624bdaecfd584a75a4ce2c73e" title="Sets the energy sums calculated on&#45;board. " alt="" coords="343,411,515,437"/>
+<area shape="rect" id="node15" href="$d2/ddd/class_xia_data.html#a673d1a85a4a03615668e99da93e30db5" title="Sets the lower 32 bits of the external event time. " alt="" coords="330,461,529,488"/>
+<area shape="rect" id="node16" href="$d2/ddd/class_xia_data.html#a4dc1410b6214be80115181cedd88a044" title="Sets the upper 16 bits of the external event time. " alt="" coords="329,512,530,539"/>
+<area shape="rect" id="node18" href="$d2/ddd/class_xia_data.html#acdb12ff4d003a85ef15d579932271095" title="XiaData::GetEnergySums" alt="" coords="343,563,516,589"/>
+<area shape="rect" id="node19" href="$d6/d23/namespace_ieee_standards.html#abaef6159408f93ef7a38eb2ac2f94a28" title="IeeeStandards::DecimalTo\lIeeeFloating" alt="" coords="341,614,518,655"/>
+<area shape="rect" id="node20" href="$d2/ddd/class_xia_data.html#a14dc218717636bd6b1b4bfbf8e566cd1" title="XiaData::GetFilterBaseline" alt="" coords="341,680,518,707"/>
+<area shape="rect" id="node21" href="$d2/ddd/class_xia_data.html#a7b617d36e152efa74c4f657bc3848c81" title="XiaData::GetQdc" alt="" coords="368,731,491,757"/>
+<area shape="rect" id="node22" href="$d2/ddd/class_xia_data.html#ac0a5410997d9b116ebae66651a3278c8" title="XiaData::GetExternalTimeLow" alt="" coords="330,781,529,808"/>
+<area shape="rect" id="node23" href="$d2/ddd/class_xia_data.html#a7a35b41ce4920c43eaaa4ce1c46ffaac" title="XiaData::GetExternalTimeHigh" alt="" coords="328,832,531,859"/>
+<area shape="rect" id="node24" href="$d2/ddd/class_xia_data.html#a94d10f0eb065dd14032b8b666bfcf663" title="XiaData::GetTrace" alt="" coords="364,883,495,909"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Correlator::~Correlator" name="Correlator::~Correlator">
+<area shape="rect" id="node2" href="$de/da4/class_correlation_list.html#a43da68022a10054d51c51062c3a208fe" title="CorrelationList::IsFlagged" alt="" coords="220,31,391,57"/>
+<area shape="rect" id="node3" href="$de/da4/class_correlation_list.html#a8cf0b887af892534a8f0639220c5ccb9" title="CorrelationList::PrintDecayList" alt="" coords="205,81,405,108"/>
+<area shape="rect" id="node4" href="$de/d91/class_detector_driver.html#a374a759674faebb18f7a2b4fa06c7a70" title="DetectorDriver::get" alt="" coords="482,5,615,32"/>
+<area shape="rect" id="node5" href="$de/d91/class_detector_driver.html#a7db08c317209259015b30a91c8f33241" title="DetectorDriver::GetWallTime" alt="" coords="453,107,644,133"/>
+<area shape="rect" id="node6" href="$d3/daf/class_globals.html#ae66fa0173342202c96b13d71a6522512" title="Instance is created upon first call. " alt="" coords="741,56,833,83"/>
+<area shape="rect" id="node8" href="$d3/daf/class_globals.html#af966809742d39e7acbd52c4fe4f5a95c" title="Globals::GetFilterClockIn\lSeconds" alt="" coords="464,158,633,199"/>
+<area shape="rect" id="node7" href="$d3/daf/class_globals.html#a02ea3605db675e1c5504de0ff317d16b" title="Globals::GetClockInSeconds" alt="" coords="692,107,883,133"/>
+</map>

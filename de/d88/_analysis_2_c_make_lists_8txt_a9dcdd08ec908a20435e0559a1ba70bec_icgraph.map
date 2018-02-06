@@ -1,0 +1,9 @@
+<map id="option" name="option">
+<area shape="rect" id="node2" href="$dd/dc1/get__traces_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="158,5,209,32"/>
+<area shape="rect" id="node3" href="$d4/d23/classoption_ext.html#a650838755d0f45dbd07765bf61475661" title="optionExt::getOption" alt="" coords="113,56,254,83"/>
+<area shape="rect" id="node4" href="$d4/d23/classoption_ext.html#ae06eef0c6d2ce7f0b275b90b6941801f" title="Set to true if this option was selected by the user. " alt="" coords="304,81,444,108"/>
+<area shape="rect" id="node6" href="$d7/dfc/class_scan_interface.html#af51c02387e61a32d14ddfc0f3f43f2f9" title="ScanInterface::Setup" alt="" coords="111,157,256,184"/>
+<area shape="rect" id="node5" href="$d7/dfc/class_scan_interface.html#a3f9ff04d21dad186fb8dc1a98b1abd17" title="Default constructor. " alt="" coords="492,81,684,108"/>
+<area shape="rect" id="node7" href="$d9/d0e/event_reader_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="563,157,613,184"/>
+<area shape="rect" id="node8" href="$d1/dd5/utkscanor_8cpp.html#a8dbf7975e3e8cf9404086d6f85c6f308" title="Begins setups the interface between SCANOR and the C++ and the Unpacker. It also handles the processi..." alt="" coords="339,183,409,209"/>
+</map>

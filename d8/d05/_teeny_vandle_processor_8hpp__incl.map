@@ -1,0 +1,24 @@
+<map id="TeenyVandleProcessor.hpp" name="TeenyVandleProcessor.hpp">
+<area shape="rect" id="node2" href="$da/dd1/_event_processor_8hpp.html" title="Generic event processor. " alt="" coords="1378,80,1518,107"/>
+<area shape="rect" id="node32" href="$df/d14/_high_res_timing_data_8hpp.html" title="Class to hold all of the information for high resolution timing. " alt="" coords="1939,229,2104,256"/>
+<area shape="rect" id="node7" href="$de/d87/_plots_8hpp.html" title="A container to request a block of plots and plot respective spectra through the plots register..." alt="" coords="1397,379,1475,405"/>
+<area shape="rect" id="node26" href="$d6/ded/_tree_correlator_8hpp.html" title="A class to handle complex correlations between various processors. " alt="" coords="736,155,867,181"/>
+<area shape="rect" id="node9" href="$d4/d9c/_globals_8hpp.html" title="constant parameters used in pixie16 analysis " alt="" coords="771,453,861,480"/>
+<area shape="rect" id="node24" href="$d3/d87/_his_file_8hpp.html" title="HisFile.hpp" alt="" coords="1472,528,1560,555"/>
+<area shape="rect" id="node25" href="$da/d82/_plots_register_8hpp.html" title="PlotsRegister.hpp" alt="" coords="1371,453,1498,480"/>
+<area shape="rect" id="node17" href="$dc/d77/_constants_8hpp.html" title="A header that contains various useful constants for the software. " alt="" coords="1011,528,1117,555"/>
+<area shape="rect" id="node18" href="$df/dd4/_paass_exceptions_8hpp.html" title="Class to handle errors occurring during the execution of the code This file will break with the One&#45;C..." alt="" coords="135,603,284,629"/>
+<area shape="rect" id="node20" href="$d0/db0/_messenger_8hpp.html" title="A class to handle messages and output them prettily. " alt="" coords="483,528,594,555"/>
+<area shape="rect" id="node23" href="$dd/d48/_trap_filter_parameters_8hpp.html" title="A class to hold parameters for a trapezoidal filter in units of ns. " alt="" coords="2037,603,2206,629"/>
+<area shape="rect" id="node28" href="$d5/d2d/_places_8hpp.html" title="Defines the various places for the TreeCorrelator. " alt="" coords="697,304,783,331"/>
+<area shape="rect" id="node31" href="$db/dc4/_place_builder_8hpp.html" title="Defines the various places for the TreeCorrelator. " alt="" coords="872,229,992,256"/>
+<area shape="rect" id="node30" href="$dd/d77/_event_data_8hpp.html" title="Structure holding event data. " alt="" coords="577,379,687,405"/>
+<area shape="rect" id="node33" href="$df/dcf/_chan_event_8hpp.html" title="A Class to define what a channel event is. " alt="" coords="2037,304,2149,331"/>
+<area shape="rect" id="node34" href="$d8/dd0/_channel_configuration_8hpp.html" title="Class that holds information about channel specific information. Including things like the trace dela..." alt="" coords="2214,528,2386,555"/>
+<area shape="rect" id="node36" href="$dc/dec/_processed_xia_data_8hpp.html" title="An XiaData object that has undergone additional processing. " alt="" coords="1881,453,2037,480"/>
+<area shape="rect" id="node37" href="$df/d04/_trace_8hpp.html" title="A simple class to store the traces. " alt="" coords="1685,528,1765,555"/>
+<area shape="rect" id="node39" href="$d6/d3a/_detector_library_8hpp.html" title="This is an extension of the vector of the channelConfigurations that was previously used..." alt="" coords="2308,379,2444,405"/>
+<area shape="rect" id="node38" href="$d3/d2b/_xia_data_8hpp.html" title="XiaData.hpp" alt="" coords="1891,528,1986,555"/>
+<area shape="rect" id="node40" href="$df/dbb/_calibrator_8hpp.html" title="Class to handle energy calibrations for the channels. " alt="" coords="2490,453,2593,480"/>
+<area shape="rect" id="node41" href="$da/d18/_walk_corrector_8hpp.html" title="A Class to handle walk corrections for channels. " alt="" coords="2335,453,2465,480"/>
+</map>

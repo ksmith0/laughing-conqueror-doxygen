@@ -1,0 +1,13 @@
+<map id="CloverProcessor" name="CloverProcessor">
+<area shape="rect" id="node2" href="$d6/d65/class_event_processor.html" title="Class to handle event processing. " alt="" coords="1855,395,1969,421"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="933,340,1013,367"/>
+<area shape="rect" id="node7" href="$da/d8d/class_detector_summary.html" title="DetectorSummary" alt="" coords="1187,549,1315,576"/>
+<area shape="rect" id="node15" href="$d7/d8b/class_plots.html" title="Holds pointers to all Histograms. " alt="" coords="1589,164,1641,191"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="649,333,776,374"/>
+<area shape="rect" id="node8" href="$d5/d91/class_chan_event.html" title="A channel event. " alt="" coords="669,585,756,612"/>
+<area shape="rect" id="node9" href="$df/d3c/class_processed_xia_data.html" title="ProcessedXiaData" alt="" coords="469,585,600,612"/>
+<area shape="rect" id="node10" href="$d2/ddd/class_xia_data.html" title="A pixie16 channel event. " alt="" coords="311,615,380,641"/>
+<area shape="rect" id="node12" href="$dd/db7/class_trace.html" title="This defines a more extensible implementation of a digitized trace. The class is derived from a vecto..." alt="" coords="318,535,373,561"/>
+<area shape="rect" id="node17" href="$d7/d6e/class_plots_register.html" title="Holds ranges and offsets of all plots. Singleton class. " alt="" coords="1200,44,1301,71"/>
+<area shape="rect" id="node24" href="$d5/de7/class_add_back_event.html" title="Simple structure&#45;like class to store info on addback reconstructed event. " alt="" coords="1560,808,1669,835"/>
+</map>

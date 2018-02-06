@@ -1,0 +1,30 @@
+<map id="DetectorLibrary::SetWalkCorrection" name="DetectorLibrary::SetWalkCorrection">
+<area shape="rect" id="node2" href="$dc/dbe/class_detector_library.html#a139f2413cf7d9890e32d87a0968b0fa2" title="Default Constructor. " alt="" coords="225,187,395,229"/>
+<area shape="rect" id="node29" href="$dc/dbe/class_detector_library.html#a3ded09f016ec5c08492a127ad7fe341c" title="Define copy constructor. " alt="" coords="223,253,397,280"/>
+<area shape="rect" id="node3" href="$d1/d1c/class_map_node_xml_parser.html#ab0bb09c0943299b2a793d091efcae1bd" title="MapNodeXmlParser::ParseNode" alt="" coords="445,249,657,276"/>
+<area shape="rect" id="node4" href="$d1/df9/class_xml_interface.html#a5a437bc25ac0f9ecc65cdebf6c664ad0" title="XmlInterface::get" alt="" coords="748,5,871,32"/>
+<area shape="rect" id="node6" href="$d1/df9/class_xml_interface.html#a3c935eddf6f5905cf461c1cef806e38a" title="XmlInterface::GetDocument" alt="" coords="717,56,902,83"/>
+<area shape="rect" id="node9" href="$d3/d2c/class_tree_correlator.html#a4f70fdbb0d6dead4212d8e926ce1755f" title="TreeCorrelator::get" alt="" coords="744,107,875,133"/>
+<area shape="rect" id="node10" href="$dc/dbe/class_detector_library.html#ad31d4f3ce8f28645df931cf94f7aad9d" title="DetectorLibrary::HasValue" alt="" coords="721,157,897,184"/>
+<area shape="rect" id="node12" href="$d6/d20/class_channel_configuration.html#aaad3d852d0961bceea47f5b1ae3bbd58" title="ChannelConfiguration\l::SetType" alt="" coords="736,209,883,250"/>
+<area shape="rect" id="node13" href="$dc/dbe/class_detector_library.html#ae111bf4e296587b18d2dd9ef5ce3f962" title="DetectorLibrary::GetNext\lLocation" alt="" coords="725,274,893,315"/>
+<area shape="rect" id="node14" href="$d5/d2b/namespace_string_manipulation.html#a4aa49767efe3ea44a39d90ff3cb603b0" title="StringManipulation\l::TokenizeString" alt="" coords="745,339,874,381"/>
+<area shape="rect" id="node15" href="$dc/dbe/class_detector_library.html#a9b4ea4ad0464f8039dafedbb6a3a7939" title="DetectorLibrary::Set" alt="" coords="740,405,879,432"/>
+<area shape="rect" id="node22" href="$d3/d2c/class_tree_correlator.html#ab37566c3af5521659b90f38de3674176" title="TreeCorrelator::createPlace" alt="" coords="718,595,901,621"/>
+<area shape="rect" id="node28" href="$dc/dbe/class_detector_library.html#a5e2d8d944cc6b6f34d679ade85fc7a52" title="DetectorLibrary::SetCalibrations" alt="" coords="705,645,913,672"/>
+<area shape="rect" id="node5" href="$d1/df9/class_xml_interface.html#a9924d1a9f16987091b58c70ed13a5718" title="XmlInterface::XmlInterface" alt="" coords="967,5,1146,32"/>
+<area shape="rect" id="node7" href="$d1/df9/class_xml_interface.html#a9326df5bd548bd9a40b62dee6a2e3025" title="Default destructor that deletes the instance when its called. " alt="" coords="963,56,1150,83"/>
+<area shape="rect" id="node8" href="$d1/df9/class_xml_interface.html#ac853fae42b1b3446a00a0d37e50d670d" title="copy constructor " alt="" coords="977,107,1136,133"/>
+<area shape="rect" id="node11" href="$dc/dbe/class_detector_library.html#a90877646fc3c5c845baa0ff3643335d4" title="DetectorLibrary::GetIndex" alt="" coords="1200,347,1372,373"/>
+<area shape="rect" id="node16" href="$d6/d20/class_channel_configuration.html#aba4539c47063c552522bcf7c20d5bf29" title="ChannelConfiguration\l::GetType" alt="" coords="983,209,1130,250"/>
+<area shape="rect" id="node17" href="$dc/dbe/class_detector_library.html#a9297fb25cacc210dd6d2c1fd50675543" title="DetectorLibrary::ModuleFrom\lIndex" alt="" coords="961,274,1152,315"/>
+<area shape="rect" id="node18" href="$d6/d20/class_channel_configuration.html#a12d5e0dec96416851743462c53775bf5" title="ChannelConfiguration\l::HasTag" alt="" coords="983,339,1130,381"/>
+<area shape="rect" id="node19" href="$d6/d20/class_channel_configuration.html#aaa6fcf267aebd6df6fa3df5510cfaeea" title="ChannelConfiguration\l::GetSubtype" alt="" coords="983,405,1130,446"/>
+<area shape="rect" id="node20" href="$d6/d20/class_channel_configuration.html#a63b0841b2af27b4d019b5f68097a5eef" title="ChannelConfiguration\l::GetLocation" alt="" coords="983,470,1130,511"/>
+<area shape="rect" id="node21" href="$dc/dbe/class_detector_library.html#a7dc03a85fdd914647e3b4405524d8f02" title="DetectorLibrary::at" alt="" coords="991,536,1122,563"/>
+<area shape="rect" id="node23" href="$d5/d2b/namespace_string_manipulation.html#a0baa707fc46dac7faf25b279ca1633a4" title="StringManipulation\l::StringToBool" alt="" coords="992,587,1121,629"/>
+<area shape="rect" id="node24" href="$d6/dc9/class_messenger.html#a24d0db0aece5830b3de62310f5753be8" title="Messenger::detail" alt="" coords="994,653,1119,680"/>
+<area shape="rect" id="node25" href="$dd/d21/class_place.html#a96fef01c13e97a21482ab8672c9b654a" title="Place::activate" alt="" coords="1002,704,1111,731"/>
+<area shape="rect" id="node26" href="$dd/d21/class_place.html#a46ca9e450b872465c3de5a72e3bbcda8" title="Place::add_info_" alt="" coords="1227,679,1345,705"/>
+<area shape="rect" id="node27" href="$dd/d21/class_place.html#a1e53541fda9d0ad92d00cfc58a51a465" title="Place::report_" alt="" coords="1235,729,1337,756"/>
+</map>

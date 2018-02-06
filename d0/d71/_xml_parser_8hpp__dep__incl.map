@@ -1,0 +1,15 @@
+<map id="XmlParser.hpp" name="XmlParser.hpp">
+<area shape="rect" id="node2" href="$d8/d1d/_detector_driver_xml_parser_8hpp.html" title="Class to parse the DetectorDriver node. " alt="" coords="161,80,355,107"/>
+<area shape="rect" id="node5" href="$dc/d1a/_globals_xml_parser_8hpp.html" title="Class to parse nodes needed for the Global&#39;s class from utkscan&#39;s configuration file. " alt="" coords="494,80,646,107"/>
+<area shape="rect" id="node8" href="$d8/d9e/_map_node_xml_parser_8hpp.html" title="Class to parse the Map node. " alt="" coords="703,80,867,107"/>
+<area shape="rect" id="node11" href="$d2/dfd/_tree_correlator_xml_parser_8hpp.html" title="Class that handles parsing the TreeCorrelator node. " alt="" coords="956,80,1147,107"/>
+<area shape="rect" id="node14" href="$d4/d6b/_xml_parser_8cpp.html" title="An abstracted class that provides basic functionality of parsing an XML node. " alt="" coords="1171,80,1279,107"/>
+<area shape="rect" id="node3" href="$d4/df5/_detector_driver_8cpp.html" title="Main driver for event processing. " alt="" coords="5,155,137,181"/>
+<area shape="rect" id="node4" href="$dc/d67/_detector_driver_xml_parser_8cpp.html" title="Class to parse the DetectorDriver node. " alt="" coords="161,155,355,181"/>
+<area shape="rect" id="node6" href="$d2/d5d/_globals_8cpp.html" title="constant parameters used in pixie16 analysis " alt="" coords="379,155,470,181"/>
+<area shape="rect" id="node7" href="$db/dc6/_globals_xml_parser_8cpp.html" title="Class to parse nodes needed for the Global&#39;s class from utkscan&#39;s configuration file. " alt="" coords="494,155,646,181"/>
+<area shape="rect" id="node9" href="$d5/d98/_detector_library_8cpp.html" title="Some useful function for managing the list of channel channelConfigurations. " alt="" coords="670,155,806,181"/>
+<area shape="rect" id="node10" href="$d2/d62/_map_node_xml_parser_8cpp.html" title="Class to parse the Map node in the utkscan configuration file. " alt="" coords="831,155,995,181"/>
+<area shape="rect" id="node12" href="$d3/d8d/_tree_correlator_8cpp.html" title="A class to handle complex correlations between various processors. " alt="" coords="1019,155,1150,181"/>
+<area shape="rect" id="node13" href="$d5/dd1/_tree_correlator_xml_parser_8cpp.html" title="Class that handles parsing the TreeCorrelator node. " alt="" coords="1175,155,1365,181"/>
+</map>

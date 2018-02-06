@@ -1,0 +1,9 @@
+<map id="DetectorLibrary::Set" name="DetectorLibrary::Set">
+<area shape="rect" id="node2" href="$dc/dbe/class_detector_library.html#ad2c451c7d2dd7b812d8c043c68d19f07" title="DetectorLibrary::Set" alt="" coords="229,5,367,32"/>
+<area shape="rect" id="node3" href="$dc/dbe/class_detector_library.html#ac2a9b10e5c57416ef21f790417c15557" title="DetectorLibrary::GetModules" alt="" coords="203,56,393,83"/>
+<area shape="rect" id="node5" href="$d1/d1c/class_map_node_xml_parser.html#ab0bb09c0943299b2a793d091efcae1bd" title="MapNodeXmlParser::ParseNode" alt="" coords="192,143,404,169"/>
+<area shape="rect" id="node4" href="$d4/d48/class_utk_unpacker.html#a89e579a959aaf036eb92ea6b96df8250" title="Initializes the DetectorLibrary and DetectorDriver. " alt="" coords="452,37,643,64"/>
+<area shape="rect" id="node6" href="$dc/dbe/class_detector_library.html#a139f2413cf7d9890e32d87a0968b0fa2" title="Default Constructor. " alt="" coords="463,89,632,130"/>
+<area shape="rect" id="node8" href="$d1/d1c/class_map_node_xml_parser.html#a45bc6854cdd35a8f9ad82f2c8d2c2b8b" title="Default Destructor. " alt="" coords="474,154,621,195"/>
+<area shape="rect" id="node7" href="$dc/dbe/class_detector_library.html#a270b2785fce0d3f1b2806c1b6019b7e4" title="DetectorLibrary::SetWalk\lCorrection" alt="" coords="691,151,860,193"/>
+</map>

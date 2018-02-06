@@ -1,0 +1,8 @@
+<map id="CfdAnalyzer" name="CfdAnalyzer">
+<area shape="rect" id="node2" href="$d2/dbc/class_trace_analyzer.html" title="Abstract class that all trace analyzers are derived from. " alt="" coords="959,341,1065,368"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="213,189,293,216"/>
+<area shape="rect" id="node5" href="$d7/d8b/class_plots.html" title="Holds pointers to all Histograms. " alt="" coords="761,180,813,207"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="5,182,132,223"/>
+<area shape="rect" id="node7" href="$d7/d6e/class_plots_register.html" title="Holds ranges and offsets of all plots. Singleton class. " alt="" coords="452,44,553,71"/>
+<area shape="rect" id="node11" href="$dd/d06/class_timing_driver.html" title="An abstract class that will be used to handle timing. " alt="" coords="964,392,1060,419"/>
+</map>

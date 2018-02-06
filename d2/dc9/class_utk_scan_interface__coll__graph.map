@@ -1,0 +1,31 @@
+<map id="UtkScanInterface" name="UtkScanInterface">
+<area shape="rect" id="node2" href="$d7/dfc/class_scan_interface.html" title="ScanInterface" alt="" coords="1807,417,1909,444"/>
+<area shape="rect" id="node3" href="$d0/d15/class_p_l_d__data.html" title="The DATA buffer contains all physics data within the .pld file. " alt="" coords="1564,157,1644,184"/>
+<area shape="rect" id="node4" href="$d4/d57/class_buffer_type.html" title="BufferType" alt="" coords="1196,80,1283,107"/>
+<area shape="rect" id="node18" href="$d6/d4e/class_e_o_f__buffer.html" title="A single EOF buffer signals the end of a run (pacman .ldf format). A double EOF signals the end of th..." alt="" coords="1559,208,1649,235"/>
+<area shape="rect" id="node35" href="$d2/deb/class_d_i_r__buffer.html" title="DIR_buffer" alt="" coords="1561,259,1647,285"/>
+<area shape="rect" id="node36" href="$de/deb/class_p_l_d__header.html" title="The pld header contains information about the run including the date/time, the title, and the run number. " alt="" coords="1557,5,1651,32"/>
+<area shape="rect" id="node39" href="$d0/dff/class_d_a_t_a__buffer.html" title="DATA_buffer" alt="" coords="1555,56,1653,83"/>
+<area shape="rect" id="node40" href="$d8/d68/class_h_e_a_d__buffer.html" title="HEAD_buffer" alt="" coords="1554,107,1654,133"/>
+<area shape="rect" id="node5" href="$dc/db6/class_server.html" title="Server" alt="" coords="1574,497,1634,524"/>
+<area shape="rect" id="node6" href="$d2/de8/class_unpacker.html" title="Unpacker" alt="" coords="1565,309,1643,336"/>
+<area shape="rect" id="node9" href="$d2/ddd/class_xia_data.html" title="A pixie16 channel event. " alt="" coords="638,169,707,196"/>
+<area shape="rect" id="node11" href="$dc/d76/class_xia_list_mode_data_mask.html" title="XiaListModeDataMask" alt="" coords="1162,200,1317,227"/>
+<area shape="rect" id="node15" href="$d4/d23/classoption_ext.html" title="optionExt" alt="" coords="1201,1056,1278,1083"/>
+<area shape="rect" id="node16" title="STL class. " alt="" coords="888,811,968,837"/>
+<area shape="rect" id="node24" href="$dc/d46/class_terminal.html" title="Terminal" alt="" coords="1568,580,1640,607"/>
+<area shape="rect" id="node26" href="$d2/d2e/class_command_holder.html" title="CommandHolder" alt="" coords="1179,661,1299,688"/>
+<area shape="rect" id="node17" title="STL class. " alt="" coords="609,803,736,845"/>
+<area shape="rect" id="node19" title="STL class. " alt="" coords="1035,391,1130,417"/>
+<area shape="rect" id="node20" title="STL class. " alt="" coords="606,374,739,415"/>
+<area shape="rect" id="node21" title="STL class. " alt="" coords="368,410,497,451"/>
+<area shape="rect" id="node29" title="STL class. " alt="" coords="605,439,741,481"/>
+<area shape="rect" id="node22" title="STL class. " alt="" coords="155,447,309,473"/>
+<area shape="rect" id="node30" title="STL class. " alt="" coords="366,475,499,517"/>
+<area shape="rect" id="node23" title="STL class. " alt="" coords="5,447,105,473"/>
+<area shape="rect" id="node27" title="STL class. " alt="" coords="1179,447,1299,473"/>
+<area shape="rect" id="node28" title="STL class. " alt="" coords="849,439,1007,481"/>
+<area shape="rect" id="node32" title="STL class. " alt="" coords="604,505,741,546"/>
+<area shape="rect" id="node31" title="STL class. " alt="" coords="1033,504,1132,531"/>
+<area shape="rect" id="node37" href="$d1/db0/classfile_information.html" title="fileInformation" alt="" coords="1552,447,1656,473"/>
+</map>

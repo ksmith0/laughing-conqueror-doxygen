@@ -1,0 +1,15 @@
+<map id="ScopeUnpacker::ProcessEvents" name="ScopeUnpacker::ProcessEvents">
+<area shape="rect" id="node2" href="$d0/d1e/class_scope_unpacker.html#aa68f23ae94ba7bfe4aded8f36ef379b8" title="Plot the current event. " alt="" coords="265,208,412,235"/>
+<area shape="rect" id="node3" href="$d0/d1e/class_scope_unpacker.html#ab447049fc35d5d77992e5208335c1815" title="ScopeUnpacker::ResetGraph" alt="" coords="460,5,653,32"/>
+<area shape="rect" id="node4" href="$d8/da5/class_root_interface.html#ad369e92a08888d5f34b27a029bd9cdd4" title="RootInterface::get" alt="" coords="493,56,620,83"/>
+<area shape="rect" id="node6" href="$d8/da5/class_root_interface.html#a7d7a082954d93789c99e93bb29dc6dcb" title="RootInterface::ResetZoom" alt="" coords="937,157,1115,184"/>
+<area shape="rect" id="node7" href="$d8/da5/class_root_interface.html#abfbf3ab2a2b3dec89614030175198c36" title="RootInterface::UpdateZoom" alt="" coords="703,259,887,285"/>
+<area shape="rect" id="node9" href="$dd/db7/class_trace.html#adabf44308f34afb878504b0ed7ee0d0a" title="Trace::GetMaxInfo" alt="" coords="491,208,622,235"/>
+<area shape="rect" id="node10" href="$dd/db7/class_trace.html#a825c518af0ec6dcba45253c05b562a62" title="Trace::GetQdc" alt="" coords="503,259,611,285"/>
+<area shape="rect" id="node11" href="$dd/db7/class_trace.html#aeee6c9b5e253a8df3dd8fa81fccc104f" title="Trace::GetBaselineInfo" alt="" coords="479,309,635,336"/>
+<area shape="rect" id="node12" href="$df/d3c/class_processed_xia_data.html#a2d98ff813786abdb09ebc6bd22dbf48d" title="ProcessedXiaData::GetTrace" alt="" coords="460,360,653,387"/>
+<area shape="rect" id="node13" href="$d8/da5/class_root_interface.html#ab29db8e2b6a0fdae2e6fb5ce3ca74555" title="RootInterface::GetCanvas" alt="" coords="469,157,644,184"/>
+<area shape="rect" id="node5" href="$d8/da5/class_root_interface.html#a0a3fafffd865dcd011ee5dcc95600c26" title="RootInterface::RootInterface" alt="" coords="701,56,889,83"/>
+<area shape="rect" id="node8" href="$dc/d06/_analysis_2_resources_2source_2_c_make_lists_8txt.html#a92407aa83aceb7e781743373bcb8035a" title="list" alt="" coords="1007,259,1045,285"/>
+<area shape="rect" id="node14" href="$d8/da5/class_root_interface.html#a44bce7d73b4f1505e0750da0681ef67c" title="RootInterface::IdleTask" alt="" coords="716,208,875,235"/>
+</map>

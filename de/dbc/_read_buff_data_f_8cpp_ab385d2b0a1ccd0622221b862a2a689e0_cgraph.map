@@ -1,0 +1,9 @@
+<map id="ReadBuffDataF" name="ReadBuffDataF">
+<area shape="rect" id="node2" href="$df/d59/class_stats_data.html#a4303ccc0eaac5bb3836f6e8b3bb74d4f" title="StatsData::DoStatisticsBlock" alt="" coords="167,5,361,32"/>
+<area shape="rect" id="node5" href="$dc/dbe/class_detector_library.html#a6ab3ff825daa8b607865086741bc9b2c" title="DetectorLibrary::get" alt="" coords="195,56,333,83"/>
+<area shape="rect" id="node6" href="$dc/dbe/class_detector_library.html#a9070f0cf50763dc2ffdb77421e448c9f" title="DetectorLibrary::GetPhysical\lModules" alt="" coords="169,107,359,149"/>
+<area shape="rect" id="node7" href="$dc/dbe/class_detector_library.html#a7dc03a85fdd914647e3b4405524d8f02" title="DetectorLibrary::at" alt="" coords="199,173,329,200"/>
+<area shape="rect" id="node3" href="$df/d59/class_stats_data.html#a3a4e003aed1e2926ad821ff298136670" title="StatsData::GetRealTime" alt="" coords="412,5,579,32"/>
+<area shape="rect" id="node4" href="$d3/daf/class_globals.html#ae66fa0173342202c96b13d71a6522512" title="Instance is created upon first call. " alt="" coords="629,5,721,32"/>
+<area shape="rect" id="node8" href="$dc/dbe/class_detector_library.html#a90877646fc3c5c845baa0ff3643335d4" title="DetectorLibrary::GetIndex" alt="" coords="409,173,581,200"/>
+</map>

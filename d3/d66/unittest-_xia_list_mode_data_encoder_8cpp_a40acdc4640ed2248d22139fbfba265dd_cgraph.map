@@ -1,0 +1,9 @@
+<map id="SetupXiaDataClass" name="SetupXiaDataClass">
+<area shape="rect" id="node2" href="$d2/ddd/class_xia_data.html#a4d60bfdab03855cc0b2a0a55e484bf88" title="Initialize all variables and set them to some default values. " alt="" coords="223,5,349,32"/>
+<area shape="rect" id="node3" href="$d2/ddd/class_xia_data.html#aaf91ca7a3d8cc1eb54ab6eca795ffefe" title="Sets the energy calculated on&#45;board. " alt="" coords="217,56,355,83"/>
+<area shape="rect" id="node4" href="$d2/ddd/class_xia_data.html#ac962808325ff3dce7b47863d4f96624f" title="Sets the slot number. " alt="" coords="203,107,369,133"/>
+<area shape="rect" id="node5" href="$d2/ddd/class_xia_data.html#a9c7fd2f8302abcaa614202087c33c4e0" title="Sets the channel number. " alt="" coords="191,157,381,184"/>
+<area shape="rect" id="node6" href="$d2/ddd/class_xia_data.html#a8785811860905761ba919ae67487a394" title="Sets the crate number. " alt="" coords="199,208,373,235"/>
+<area shape="rect" id="node7" href="$d2/ddd/class_xia_data.html#ab1d2117cb57edc28c5fbcc172e6f6226" title="Sets the lower 32 bits of the event time. " alt="" coords="194,259,378,285"/>
+<area shape="rect" id="node8" href="$d2/ddd/class_xia_data.html#a45331d8c7bdbf63d63ffea2ba63be992" title="Sets the upper 16 bits of the event time. " alt="" coords="193,309,379,336"/>
+</map>

@@ -1,0 +1,30 @@
+<map id="utkscan.cpp" name="utkscan.cpp">
+<area shape="rect" id="node5" href="$df/dde/_display_8h.html" title="Display.h" alt="" coords="461,80,539,107"/>
+<area shape="rect" id="node8" href="$da/d00/_utk_scan_interface_8hpp.html" title="UtkScanInterface.hpp" alt="" coords="837,379,987,405"/>
+<area shape="rect" id="node18" href="$d0/d9c/_utk_unpacker_8hpp.html" title="UtkUnpacker.hpp" alt="" coords="1642,80,1766,107"/>
+<area shape="rect" id="node7" href="$d2/d35/_term_colors_8h.html" title="TermColors.h" alt="" coords="157,155,259,181"/>
+<area shape="rect" id="node10" href="$da/d8e/_scan_interface_8hpp.html" title="A class to handle reading from various UTK/ORNL pixie16 data formats. " alt="" coords="848,453,976,480"/>
+<area shape="rect" id="node17" href="$d3/d2b/_xia_data_8hpp.html" title="XiaData.hpp" alt="" coords="1030,528,1125,555"/>
+<area shape="rect" id="node15" href="$d3/d71/hribf__buffers_8h.html" title="Handles poll2 output data files. " alt="" coords="1807,528,1913,555"/>
+<area shape="rect" id="node20" href="$dd/dfe/_detector_driver_8hpp.html" title="Main Driver for event processing. " alt="" coords="1899,229,2031,256"/>
+<area shape="rect" id="node32" href="$d6/d3a/_detector_library_8hpp.html" title="This is an extension of the vector of the channelConfigurations that was previously used..." alt="" coords="1763,379,1899,405"/>
+<area shape="rect" id="node44" href="$d0/d24/_raw_event_8hpp.html" title="Header file for the rawevent. " alt="" coords="1561,155,1669,181"/>
+<area shape="rect" id="node46" href="$dd/d34/_unpacker_8hpp.html" title="A class to handle the unpacking of UTK/ORNL style pixie16 data spills. " alt="" coords="373,453,475,480"/>
+<area shape="rect" id="node23" href="$df/dbb/_calibrator_8hpp.html" title="Class to handle energy calibrations for the channels. " alt="" coords="1914,453,2017,480"/>
+<area shape="rect" id="node28" href="$df/dcf/_chan_event_8hpp.html" title="A Class to define what a channel event is. " alt="" coords="1559,304,1671,331"/>
+<area shape="rect" id="node33" href="$da/d18/_walk_corrector_8hpp.html" title="A Class to handle walk corrections for channels. " alt="" coords="1705,453,1836,480"/>
+<area shape="rect" id="node34" href="$d4/d9c/_globals_8hpp.html" title="constant parameters used in pixie16 analysis " alt="" coords="2852,453,2943,480"/>
+<area shape="rect" id="node40" href="$d0/db0/_messenger_8hpp.html" title="A class to handle messages and output them prettily. " alt="" coords="3362,528,3473,555"/>
+<area shape="rect" id="node41" href="$de/d87/_plots_8hpp.html" title="A container to request a block of plots and plot respective spectra through the plots register..." alt="" coords="2419,379,2496,405"/>
+<area shape="rect" id="node24" href="$d8/dd0/_channel_configuration_8hpp.html" title="Class that holds information about channel specific information. Including things like the trace dela..." alt="" coords="2498,528,2670,555"/>
+<area shape="rect" id="node27" href="$dd/d48/_trap_filter_parameters_8hpp.html" title="A class to hold parameters for a trapezoidal filter in units of ns. " alt="" coords="2806,603,2975,629"/>
+<area shape="rect" id="node29" href="$dc/dec/_processed_xia_data_8hpp.html" title="An XiaData object that has undergone additional processing. " alt="" coords="1421,453,1577,480"/>
+<area shape="rect" id="node30" href="$df/d04/_trace_8hpp.html" title="A simple class to store the traces. " alt="" coords="2039,528,2119,555"/>
+<area shape="rect" id="node38" href="$dc/d77/_constants_8hpp.html" title="A header that contains various useful constants for the software. " alt="" coords="2959,528,3065,555"/>
+<area shape="rect" id="node39" href="$df/dd4/_paass_exceptions_8hpp.html" title="Class to handle errors occurring during the execution of the code This file will break with the One&#45;C..." alt="" coords="3621,603,3771,629"/>
+<area shape="rect" id="node42" href="$d3/d87/_his_file_8hpp.html" title="HisFile.hpp" alt="" coords="2695,528,2783,555"/>
+<area shape="rect" id="node43" href="$da/d82/_plots_register_8hpp.html" title="PlotsRegister.hpp" alt="" coords="1657,528,1783,555"/>
+<area shape="rect" id="node45" href="$de/d02/_detector_summary_8hpp.html" title="A class that generates summaries of detector types/subtypes/tags that are requested by the user..." alt="" coords="1141,229,1294,256"/>
+<area shape="rect" id="node47" href="$d0/d8e/_xia_list_mode_data_mask_8hpp.html" title="Class that provides the data masks for XIA list mode data. " alt="" coords="195,528,373,555"/>
+<area shape="rect" id="node48" href="$d3/d18/_helper_enumerations_8hpp.html" title="Header containing namespaced enumerations that are useful to different parts of the software..." alt="" coords="201,603,367,629"/>
+</map>

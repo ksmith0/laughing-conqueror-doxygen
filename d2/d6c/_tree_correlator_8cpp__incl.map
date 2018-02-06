@@ -1,0 +1,14 @@
+<map id="TreeCorrelator.cpp" name="TreeCorrelator.cpp">
+<area shape="rect" id="node2" href="$df/dd4/_paass_exceptions_8hpp.html" title="Class to handle errors occurring during the execution of the code This file will break with the One&#45;C..." alt="" coords="83,603,232,629"/>
+<area shape="rect" id="node4" href="$d4/d9c/_globals_8hpp.html" title="constant parameters used in pixie16 analysis " alt="" coords="865,453,956,480"/>
+<area shape="rect" id="node15" href="$d0/db0/_messenger_8hpp.html" title="A class to handle messages and output them prettily. " alt="" coords="459,528,570,555"/>
+<area shape="rect" id="node20" href="$db/d7c/_string_manipulation_functions_8hpp.html" title="A collection of functions to aid in string manipulations. " alt="" coords="1436,528,1647,555"/>
+<area shape="rect" id="node22" href="$d6/ded/_tree_correlator_8hpp.html" title="A class to handle complex correlations between various processors. " alt="" coords="1064,155,1195,181"/>
+<area shape="rect" id="node28" href="$d2/dfd/_tree_correlator_xml_parser_8hpp.html" title="Class that handles parsing the TreeCorrelator node. " alt="" coords="1490,80,1681,107"/>
+<area shape="rect" id="node14" href="$dc/d77/_constants_8hpp.html" title="A header that contains various useful constants for the software. " alt="" coords="684,528,791,555"/>
+<area shape="rect" id="node19" href="$dd/d48/_trap_filter_parameters_8hpp.html" title="A class to hold parameters for a trapezoidal filter in units of ns. " alt="" coords="815,528,985,555"/>
+<area shape="rect" id="node24" href="$d5/d2d/_places_8hpp.html" title="Defines the various places for the TreeCorrelator. " alt="" coords="867,304,954,331"/>
+<area shape="rect" id="node27" href="$db/dc4/_place_builder_8hpp.html" title="Defines the various places for the TreeCorrelator. " alt="" coords="1011,229,1131,256"/>
+<area shape="rect" id="node26" href="$dd/d77/_event_data_8hpp.html" title="Structure holding event data. " alt="" coords="1049,379,1159,405"/>
+<area shape="rect" id="node29" href="$d0/d79/_xml_parser_8hpp.html" title="Class to help parse nodes XML based files. " alt="" coords="1531,155,1639,181"/>
+</map>

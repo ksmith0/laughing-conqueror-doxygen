@@ -1,0 +1,12 @@
+<map id="BufferType::ReadHeader" name="BufferType::ReadHeader">
+<area shape="rect" id="node2" href="$d4/d57/class_buffer_type.html#a965e66fde54356d4ebdc77042439be90" title="BufferType::SetDebugMode" alt="" coords="220,81,404,108"/>
+<area shape="rect" id="node3" href="$dd/dcd/class_poll_output_file.html#a30a3e2771d2b82f5f7b2635037584178" title="Toggle debug mode. " alt="" coords="452,31,655,57"/>
+<area shape="rect" id="node7" href="$dd/dcd/class_poll_output_file.html#aaa7ea4051522de4e6a8556cf041d7103" title="Return a pointer to the EOF buffer object. " alt="" coords="457,81,650,108"/>
+<area shape="rect" id="node8" href="$d7/dfc/class_scan_interface.html#a749b46ea2b9eef6afc5dde98d7fcd660" title="Main scan control method. " alt="" coords="465,132,642,159"/>
+<area shape="rect" id="node4" href="$d6/db0/class_poll.html#a1353049de2d032ee6aabd8f1f714941d" title="Initialize the poll object. " alt="" coords="712,5,812,32"/>
+<area shape="rect" id="node6" href="$d6/db0/class_poll.html#a7bc77d04169be53d1a3553e0a55932d6" title="Acquire raw traces from a pixie module. " alt="" coords="705,56,819,83"/>
+<area shape="rect" id="node5" href="$d1/d50/poll2_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="923,5,974,32"/>
+<area shape="rect" id="node9" href="$de/d60/_scan_interface_8cpp.html#ac7ac27704dc3a2665eea2f51e12253d4" title="start_run_control" alt="" coords="703,132,821,159"/>
+<area shape="rect" id="node10" href="$d7/dfc/class_scan_interface.html#a77b6166db2cc17ca956235ba7447616e" title="Run the program. " alt="" coords="869,132,1028,159"/>
+<area shape="rect" id="node11" href="$d9/d0e/event_reader_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1076,132,1127,159"/>
+</map>

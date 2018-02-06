@@ -1,0 +1,12 @@
+<map id="DetectorLibrary.cpp" name="DetectorLibrary.cpp">
+<area shape="rect" id="node8" href="$dc/d77/_constants_8hpp.html" title="A header that contains various useful constants for the software. " alt="" coords="785,80,892,107"/>
+<area shape="rect" id="node9" href="$d6/d3a/_detector_library_8hpp.html" title="This is an extension of the vector of the channelConfigurations that was previously used..." alt="" coords="528,155,664,181"/>
+<area shape="rect" id="node17" href="$d8/d9e/_map_node_xml_parser_8hpp.html" title="Class to parse the Map node. " alt="" coords="917,80,1081,107"/>
+<area shape="rect" id="node20" href="$d0/db0/_messenger_8hpp.html" title="A class to handle messages and output them prettily. " alt="" coords="1110,229,1221,256"/>
+<area shape="rect" id="node12" href="$df/dbb/_calibrator_8hpp.html" title="Class to handle energy calibrations for the channels. " alt="" coords="355,229,458,256"/>
+<area shape="rect" id="node13" href="$d8/dd0/_channel_configuration_8hpp.html" title="Class that holds information about channel specific information. Including things like the trace dela..." alt="" coords="643,304,815,331"/>
+<area shape="rect" id="node16" href="$da/d18/_walk_corrector_8hpp.html" title="A Class to handle walk corrections for channels. " alt="" coords="533,229,664,256"/>
+<area shape="rect" id="node15" href="$dd/d48/_trap_filter_parameters_8hpp.html" title="A class to hold parameters for a trapezoidal filter in units of ns. " alt="" coords="655,379,825,405"/>
+<area shape="rect" id="node24" href="$d0/d79/_xml_parser_8hpp.html" title="Class to help parse nodes XML based files. " alt="" coords="853,155,961,181"/>
+<area shape="rect" id="node22" href="$df/dd4/_paass_exceptions_8hpp.html" title="Class to handle errors occurring during the execution of the code This file will break with the One&#45;C..." alt="" coords="1235,304,1384,331"/>
+</map>

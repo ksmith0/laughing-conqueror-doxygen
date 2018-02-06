@@ -1,0 +1,9 @@
+<map id="DetectorLibrary::GetNextLocation" name="DetectorLibrary::GetNextLocation">
+<area shape="rect" id="node2" href="$d3/dab/class_lite_position_processor.html#a21187f3e55bb450c2dbcbc61e8b7cfd3" title="LitePositionProcessor\l::Init" alt="" coords="253,24,402,65"/>
+<area shape="rect" id="node4" href="$d1/d1c/class_map_node_xml_parser.html#ab0bb09c0943299b2a793d091efcae1bd" title="MapNodeXmlParser::ParseNode" alt="" coords="221,126,433,153"/>
+<area shape="rect" id="node8" href="$d3/df3/class_position_processor.html#a4c7bb0b65dbf1115f6a10f0f9b0da0a0" title="Reads in QDC parameters from an input file. " alt="" coords="250,177,405,203"/>
+<area shape="rect" id="node3" href="$d3/dab/class_lite_position_processor.html#a602ce3c9355626b96649b08690d391ef" title="LitePositionProcessor\l::~LitePositionProcessor" alt="" coords="483,5,649,47"/>
+<area shape="rect" id="node5" href="$dc/dbe/class_detector_library.html#a139f2413cf7d9890e32d87a0968b0fa2" title="Default Constructor. " alt="" coords="481,71,651,112"/>
+<area shape="rect" id="node7" href="$d1/d1c/class_map_node_xml_parser.html#a45bc6854cdd35a8f9ad82f2c8d2c2b8b" title="Default Destructor. " alt="" coords="493,136,639,177"/>
+<area shape="rect" id="node6" href="$dc/dbe/class_detector_library.html#a270b2785fce0d3f1b2806c1b6019b7e4" title="DetectorLibrary::SetWalk\lCorrection" alt="" coords="699,133,868,175"/>
+</map>

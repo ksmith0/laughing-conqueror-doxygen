@@ -1,0 +1,26 @@
+<map id="VandleProcessor.hpp" name="VandleProcessor.hpp">
+<area shape="rect" id="node4" href="$d3/d54/_bar_detector_8hpp.html" title="A class to handle bar style detectors (VANDLE, Betas, etc.) " alt="" coords="1616,155,1733,181"/>
+<area shape="rect" id="node8" href="$df/d14/_high_res_timing_data_8hpp.html" title="Class to hold all of the information for high resolution timing. " alt="" coords="1885,229,2051,256"/>
+<area shape="rect" id="node34" href="$da/dd1/_event_processor_8hpp.html" title="Generic event processor. " alt="" coords="1749,80,1889,107"/>
+<area shape="rect" id="node33" href="$db/d6d/_timing_calibrator_8hpp.html" title="A class to handle the timing calibration parameters. " alt="" coords="1691,379,1834,405"/>
+<area shape="rect" id="node9" href="$df/dcf/_chan_event_8hpp.html" title="A Class to define what a channel event is. " alt="" coords="1243,304,1355,331"/>
+<area shape="rect" id="node22" href="$dc/d77/_constants_8hpp.html" title="A header that contains various useful constants for the software. " alt="" coords="2232,528,2339,555"/>
+<area shape="rect" id="node23" href="$d4/d9c/_globals_8hpp.html" title="constant parameters used in pixie16 analysis " alt="" coords="2371,453,2461,480"/>
+<area shape="rect" id="node11" href="$d8/dd0/_channel_configuration_8hpp.html" title="Class that holds information about channel specific information. Including things like the trace dela..." alt="" coords="1238,528,1410,555"/>
+<area shape="rect" id="node15" href="$dc/dec/_processed_xia_data_8hpp.html" title="An XiaData object that has undergone additional processing. " alt="" coords="1137,453,1293,480"/>
+<area shape="rect" id="node16" href="$df/d04/_trace_8hpp.html" title="A simple class to store the traces. " alt="" coords="1485,528,1565,555"/>
+<area shape="rect" id="node19" href="$d6/d3a/_detector_library_8hpp.html" title="This is an extension of the vector of the channelConfigurations that was previously used..." alt="" coords="871,379,1007,405"/>
+<area shape="rect" id="node14" href="$dd/d48/_trap_filter_parameters_8hpp.html" title="A class to hold parameters for a trapezoidal filter in units of ns. " alt="" coords="1899,603,2069,629"/>
+<area shape="rect" id="node18" href="$d3/d2b/_xia_data_8hpp.html" title="XiaData.hpp" alt="" coords="905,528,999,555"/>
+<area shape="rect" id="node20" href="$df/dbb/_calibrator_8hpp.html" title="Class to handle energy calibrations for the channels. " alt="" coords="958,453,1061,480"/>
+<area shape="rect" id="node21" href="$da/d18/_walk_corrector_8hpp.html" title="A Class to handle walk corrections for channels. " alt="" coords="803,453,933,480"/>
+<area shape="rect" id="node29" href="$df/dd4/_paass_exceptions_8hpp.html" title="Class to handle errors occurring during the execution of the code This file will break with the One&#45;C..." alt="" coords="3084,603,3233,629"/>
+<area shape="rect" id="node31" href="$d0/db0/_messenger_8hpp.html" title="A class to handle messages and output them prettily. " alt="" coords="1995,528,2106,555"/>
+<area shape="rect" id="node36" href="$de/d87/_plots_8hpp.html" title="A container to request a block of plots and plot respective spectra through the plots register..." alt="" coords="1857,379,1935,405"/>
+<area shape="rect" id="node39" href="$d6/ded/_tree_correlator_8hpp.html" title="A class to handle complex correlations between various processors. " alt="" coords="2503,155,2633,181"/>
+<area shape="rect" id="node37" href="$d3/d87/_his_file_8hpp.html" title="HisFile.hpp" alt="" coords="1125,528,1213,555"/>
+<area shape="rect" id="node38" href="$da/d82/_plots_register_8hpp.html" title="PlotsRegister.hpp" alt="" coords="1995,453,2122,480"/>
+<area shape="rect" id="node41" href="$d5/d2d/_places_8hpp.html" title="Defines the various places for the TreeCorrelator. " alt="" coords="2465,304,2551,331"/>
+<area shape="rect" id="node44" href="$db/dc4/_place_builder_8hpp.html" title="Defines the various places for the TreeCorrelator. " alt="" coords="2377,229,2497,256"/>
+<area shape="rect" id="node43" href="$dd/d77/_event_data_8hpp.html" title="Structure holding event data. " alt="" coords="2453,379,2563,405"/>
+</map>

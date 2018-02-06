@@ -1,0 +1,13 @@
+<map id="IonChamberProcessor" name="IonChamberProcessor">
+<area shape="rect" id="node2" href="$d6/d65/class_event_processor.html" title="Class to handle event processing. " alt="" coords="1831,361,1945,388"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="933,341,1013,368"/>
+<area shape="rect" id="node7" href="$da/d8d/class_detector_summary.html" title="DetectorSummary" alt="" coords="1187,545,1315,572"/>
+<area shape="rect" id="node15" href="$d7/d8b/class_plots.html" title="Holds pointers to all Histograms. " alt="" coords="1589,184,1641,211"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="649,334,776,375"/>
+<area shape="rect" id="node8" href="$d5/d91/class_chan_event.html" title="A channel event. " alt="" coords="669,592,756,619"/>
+<area shape="rect" id="node9" href="$df/d3c/class_processed_xia_data.html" title="ProcessedXiaData" alt="" coords="469,592,600,619"/>
+<area shape="rect" id="node10" href="$d2/ddd/class_xia_data.html" title="A pixie16 channel event. " alt="" coords="311,563,380,589"/>
+<area shape="rect" id="node12" href="$dd/db7/class_trace.html" title="This defines a more extensible implementation of a digitized trace. The class is derived from a vecto..." alt="" coords="318,613,373,640"/>
+<area shape="rect" id="node17" href="$d7/d6e/class_plots_register.html" title="Holds ranges and offsets of all plots. Singleton class. " alt="" coords="1200,44,1301,71"/>
+<area shape="rect" id="node21" href="$d9/dee/struct_ion_chamber_processor_1_1_data.html" title="A Data structure to handle all of the info for the chamber. " alt="" coords="1812,413,1964,454"/>
+</map>

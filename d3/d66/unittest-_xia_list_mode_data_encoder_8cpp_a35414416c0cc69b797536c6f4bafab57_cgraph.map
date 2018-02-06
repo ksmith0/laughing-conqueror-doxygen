@@ -1,0 +1,10 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node2" href="$df/d1a/class_xia_list_mode_data_encoder.html#a0dafae523646704e98a8217cf425ec2e" title="XiaListModeDataEncoder\l::EncodeXiaData" alt="" coords="109,166,280,207"/>
+<area shape="rect" id="node3" href="$d2/ddd/class_xia_data.html#acdb12ff4d003a85ef15d579932271095" title="XiaData::GetEnergySums" alt="" coords="343,5,516,32"/>
+<area shape="rect" id="node4" href="$d6/d23/namespace_ieee_standards.html#abaef6159408f93ef7a38eb2ac2f94a28" title="IeeeStandards::DecimalTo\lIeeeFloating" alt="" coords="341,57,518,98"/>
+<area shape="rect" id="node5" href="$d2/ddd/class_xia_data.html#a14dc218717636bd6b1b4bfbf8e566cd1" title="XiaData::GetFilterBaseline" alt="" coords="341,123,518,149"/>
+<area shape="rect" id="node6" href="$d2/ddd/class_xia_data.html#a7b617d36e152efa74c4f657bc3848c81" title="XiaData::GetQdc" alt="" coords="368,173,491,200"/>
+<area shape="rect" id="node7" href="$d2/ddd/class_xia_data.html#ac0a5410997d9b116ebae66651a3278c8" title="XiaData::GetExternalTimeLow" alt="" coords="330,224,529,251"/>
+<area shape="rect" id="node8" href="$d2/ddd/class_xia_data.html#a7a35b41ce4920c43eaaa4ce1c46ffaac" title="XiaData::GetExternalTimeHigh" alt="" coords="328,275,531,301"/>
+<area shape="rect" id="node9" href="$d2/ddd/class_xia_data.html#a94d10f0eb065dd14032b8b666bfcf663" title="XiaData::GetTrace" alt="" coords="364,325,495,352"/>
+</map>

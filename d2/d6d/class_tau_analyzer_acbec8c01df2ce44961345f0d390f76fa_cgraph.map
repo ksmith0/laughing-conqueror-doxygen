@@ -1,0 +1,10 @@
+<map id="TauAnalyzer::~TauAnalyzer" name="TauAnalyzer::~TauAnalyzer">
+<area shape="rect" id="node2" href="$d2/d6d/class_tau_analyzer.html#a0f5dff5bca5d6c6b19f155204a68aaaa" title="TauAnalyzer::Analyze" alt="" coords="237,187,388,214"/>
+<area shape="rect" id="node3" href="$d6/d20/class_channel_configuration.html#aba4539c47063c552522bcf7c20d5bf29" title="ChannelConfiguration\l::GetType" alt="" coords="458,5,605,47"/>
+<area shape="rect" id="node4" href="$d6/d20/class_channel_configuration.html#aaa6fcf267aebd6df6fa3df5510cfaeea" title="ChannelConfiguration\l::GetSubtype" alt="" coords="458,71,605,112"/>
+<area shape="rect" id="node5" href="$d2/dbc/class_trace_analyzer.html#a0915fb97c3ebe928cab17deff5e497ec" title="TraceAnalyzer::Analyze" alt="" coords="451,137,612,163"/>
+<area shape="rect" id="node6" href="$d2/dbc/class_trace_analyzer.html#ae7ac212d764d0e394fcb323f68d23c66" title="TraceAnalyzer::EndAnalyze" alt="" coords="675,162,859,189"/>
+<area shape="rect" id="node7" href="$d3/daf/class_globals.html#ae66fa0173342202c96b13d71a6522512" title="Instance is created upon first call. " alt="" coords="485,238,577,265"/>
+<area shape="rect" id="node8" href="$d3/daf/class_globals.html#a02ea3605db675e1c5504de0ff317d16b" title="Globals::GetClockInSeconds" alt="" coords="436,289,627,315"/>
+<area shape="rect" id="node9" href="$dd/db7/class_trace.html#a9690626f8a9e609a00a7aad4c996027f" title="Trace::SetTau" alt="" coords="479,339,584,366"/>
+</map>

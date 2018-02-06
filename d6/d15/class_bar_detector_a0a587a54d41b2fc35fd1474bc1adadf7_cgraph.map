@@ -1,0 +1,9 @@
+<map id="BarDetector::GetFlightPath" name="BarDetector::GetFlightPath">
+<area shape="rect" id="node2" href="$d6/d15/class_bar_detector.html#a809fe47808591c16680d0fe90500dcdd" title="BarDetector::GetType" alt="" coords="263,5,414,32"/>
+<area shape="rect" id="node3" href="$d6/d15/class_bar_detector.html#aa76fb3d3f78aa6d8d3cc572cb18e1f70" title="BarDetector::GetCalibration" alt="" coords="494,77,677,104"/>
+<area shape="rect" id="node5" href="$d3/daf/class_globals.html#ae66fa0173342202c96b13d71a6522512" title="Instance is created upon first call. " alt="" coords="293,107,385,133"/>
+<area shape="rect" id="node6" href="$d6/d15/class_bar_detector.html#a9aeef4ac770dad5953229e9aacb5b32c" title="BarDetector::GetTimeDifference" alt="" coords="233,157,444,184"/>
+<area shape="rect" id="node4" href="$dd/d02/class_timing_calibrator.html#aef9d53667925c12fee1462de03a5c063" title="TimingCalibrator::get" alt="" coords="727,77,869,104"/>
+<area shape="rect" id="node7" href="$df/d3c/class_processed_xia_data.html#a5da8714dc3420a4efd9a199de3f56079" title="ProcessedXiaData::GetHigh\lResTimeInNs" alt="" coords="492,139,679,181"/>
+<area shape="rect" id="node8" href="$d2/d44/class_timing_calibration.html#a029592fb044fa928de8a7b67873c489d" title="TimingCalibration::\lGetLeftRightTimeOffset" alt="" coords="505,205,666,246"/>
+</map>

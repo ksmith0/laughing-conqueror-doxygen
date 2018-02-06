@@ -1,0 +1,9 @@
+<map id="EventReaderInterface.hpp" name="EventReaderInterface.hpp">
+<area shape="rect" id="node4" href="$d9/d0a/_event_reader_unpacker_8hpp.html" title="Derived class to handle unpacking of events for EventReader. " alt="" coords="476,80,655,107"/>
+<area shape="rect" id="node12" href="$da/d8e/_scan_interface_8hpp.html" title="A class to handle reading from various UTK/ORNL pixie16 data formats. " alt="" coords="315,80,443,107"/>
+<area shape="rect" id="node5" href="$dd/d34/_unpacker_8hpp.html" title="A class to handle the unpacking of UTK/ORNL style pixie16 data spills. " alt="" coords="689,155,792,181"/>
+<area shape="rect" id="node11" href="$d3/d2b/_xia_data_8hpp.html" title="XiaData.hpp" alt="" coords="518,155,613,181"/>
+<area shape="rect" id="node8" href="$d0/d8e/_xia_list_mode_data_mask_8hpp.html" title="Class that provides the data masks for XIA list mode data. " alt="" coords="730,229,908,256"/>
+<area shape="rect" id="node10" href="$d3/d18/_helper_enumerations_8hpp.html" title="Header containing namespaced enumerations that are useful to different parts of the software..." alt="" coords="803,304,968,331"/>
+<area shape="rect" id="node15" href="$d3/d71/hribf__buffers_8h.html" title="Handles poll2 output data files. " alt="" coords="49,155,154,181"/>
+</map>

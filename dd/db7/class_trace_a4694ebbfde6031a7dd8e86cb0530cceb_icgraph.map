@@ -1,0 +1,7 @@
+<map id="Trace::SetPhase" name="Trace::SetPhase">
+<area shape="rect" id="node2" href="$d5/d61/class_cfd_analyzer.html#a033267b19893a5c655dd186cbc73853e" title="CfdAnalyzer::Analyze" alt="" coords="181,5,330,32"/>
+<area shape="rect" id="node4" href="$d8/d35/class_fitting_analyzer.html#ae3f301aba508287caefbe46f39f1914d" title="FittingAnalyzer::Analyze" alt="" coords="173,56,337,83"/>
+<area shape="rect" id="node5" href="$d1/d61/class_waa_analyzer.html#acb271698a71ece00c719b7f8ad4c3025" title="WaaAnalyzer::Analyze" alt="" coords="178,107,333,133"/>
+<area shape="rect" id="node3" href="$d5/d61/class_cfd_analyzer.html#a09ee7711fb9948913e2aa0b6a022d25e" title="CfdAnalyzer::DeclarePlots" alt="" coords="394,5,571,32"/>
+<area shape="rect" id="node6" href="$d1/d61/class_waa_analyzer.html#acf4c091fd816f6cac524499091094079" title="WaaAnalyzer::~WaaAnalyzer" alt="" coords="385,107,580,133"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="WaveformAnalyzer" name="WaveformAnalyzer">
+<area shape="rect" id="node2" href="$d2/dbc/class_trace_analyzer.html" title="Abstract class that all trace analyzers are derived from. " alt="" coords="961,56,1068,83"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="213,108,293,135"/>
+<area shape="rect" id="node5" href="$d7/d8b/class_plots.html" title="Holds pointers to all Histograms. " alt="" coords="772,211,824,237"/>
+<area shape="rect" id="node4" title="STL class. " alt="" coords="5,101,132,142"/>
+<area shape="rect" id="node7" href="$d7/d6e/class_plots_register.html" title="Holds ranges and offsets of all plots. Singleton class. " alt="" coords="452,392,553,419"/>
+</map>

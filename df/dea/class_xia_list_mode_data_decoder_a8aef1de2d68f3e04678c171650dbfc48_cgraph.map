@@ -1,0 +1,23 @@
+<map id="XiaListModeDataDecoder::DecodeBuffer" name="XiaListModeDataDecoder::DecodeBuffer">
+<area shape="rect" id="node2" href="$d2/ddd/class_xia_data.html#ab1d2117cb57edc28c5fbcc172e6f6226" title="Sets the lower 32 bits of the event time. " alt="" coords="244,5,428,32"/>
+<area shape="rect" id="node3" href="$dc/d76/class_xia_list_mode_data_mask.html#ae7b6abea7530a613bcaf8467f77e3431" title="XiaListModeDataMask\l::GetNumberOfExternalTimestamp\lWords" alt="" coords="224,56,448,112"/>
+<area shape="rect" id="node4" href="$dc/d76/class_xia_list_mode_data_mask.html#a2636ba87b479c5d1351d181b6f7c82c2" title="XiaListModeDataMask\l::GetNumberOfQdcWords" alt="" coords="249,135,423,177"/>
+<area shape="rect" id="node5" href="$dc/d76/class_xia_list_mode_data_mask.html#a10cfe7418c0d2c2b8c3acd2725b98f74" title="XiaListModeDataMask\l::GetNumberOfEnergySumWords" alt="" coords="227,201,445,242"/>
+<area shape="rect" id="node6" href="$d2/ddd/class_xia_data.html#a532a17e56667eaec25330d0bc0a6797b" title="XiaData::GetCrateNumber" alt="" coords="248,267,424,293"/>
+<area shape="rect" id="node7" href="$d2/ddd/class_xia_data.html#ae6409571b278d1d974c3e67842ea3495" title="XiaData::GetSlotNumber" alt="" coords="253,317,419,344"/>
+<area shape="rect" id="node8" href="$d2/ddd/class_xia_data.html#a34bf9ef6f8f1dee918da2be675e7767a" title="XiaData::GetChannelNumber" alt="" coords="240,368,432,395"/>
+<area shape="rect" id="node9" href="$d2/ddd/class_xia_data.html#a673d1a85a4a03615668e99da93e30db5" title="Sets the lower 32 bits of the external event time. " alt="" coords="237,419,435,445"/>
+<area shape="rect" id="node10" href="$d2/ddd/class_xia_data.html#a4dc1410b6214be80115181cedd88a044" title="Sets the upper 16 bits of the external event time. " alt="" coords="235,469,437,496"/>
+<area shape="rect" id="node11" href="$d2/ddd/class_xia_data.html#a0c4fc5e4fcf490969bdbe6e1583b38e3" title="Sets the value of the concatenated external timestamp. " alt="" coords="231,520,441,547"/>
+<area shape="rect" id="node12" href="$dd/df8/namespace_conversions.html#ab4a6f68a55e2cb0cae208ea8ba028e37" title="Conversions::Concatenate\lWords" alt="" coords="247,571,425,613"/>
+<area shape="rect" id="node13" href="$d2/ddd/class_xia_data.html#ac0a5410997d9b116ebae66651a3278c8" title="XiaData::GetExternalTimeLow" alt="" coords="237,637,435,664"/>
+<area shape="rect" id="node14" href="$d2/ddd/class_xia_data.html#a7a35b41ce4920c43eaaa4ce1c46ffaac" title="XiaData::GetExternalTimeHigh" alt="" coords="235,688,437,715"/>
+<area shape="rect" id="node15" href="$d2/ddd/class_xia_data.html#a87c703d624bdaecfd584a75a4ce2c73e" title="Sets the energy sums calculated on&#45;board. " alt="" coords="250,739,422,765"/>
+<area shape="rect" id="node16" href="$d2/ddd/class_xia_data.html#a88e29fec9a50f6f1e3ecbeaedd03456c" title="Sets the baseline recorded on the module if the energy sums were recorded in the data stream..." alt="" coords="248,789,424,816"/>
+<area shape="rect" id="node17" href="$d6/d23/namespace_ieee_standards.html#a3215bf702bd2a12adf40e54f894d7d27" title="IeeeStandards::IeeeFloating\lToDecimal" alt="" coords="243,841,429,882"/>
+<area shape="rect" id="node18" href="$d2/ddd/class_xia_data.html#ac68b617d4dfc56484670219f8cb2ef3f" title="Sets the QDCs that were calculated on&#45;board. " alt="" coords="275,907,397,933"/>
+<area shape="rect" id="node19" href="$d2/ddd/class_xia_data.html#a71da12674be88f691bc00b7b0090c3f1" title="XiaData::IsSaturated" alt="" coords="264,957,408,984"/>
+<area shape="rect" id="node20" href="$d2/ddd/class_xia_data.html#aaf91ca7a3d8cc1eb54ab6eca795ffefe" title="Sets the energy calculated on&#45;board. " alt="" coords="267,1008,405,1035"/>
+<area shape="rect" id="node21" href="$d2/ddd/class_xia_data.html#ae3f04642cb3383ae9e0756de8e2265f5" title="Sets the calculated arrival time of the signal sans the CFD fractional time components. " alt="" coords="247,1059,425,1085"/>
+<area shape="rect" id="node22" href="$d2/ddd/class_xia_data.html#a45189c3a5409a4f6e1edddf46f78d402" title="Sets the calculated arrival time of the signal. " alt="" coords="273,1109,399,1136"/>
+</map>

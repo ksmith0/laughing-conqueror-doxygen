@@ -1,0 +1,51 @@
+<map id="TrapFilterParameters.hpp" name="TrapFilterParameters.hpp">
+<area shape="rect" id="node2" href="$d8/dd0/_channel_configuration_8hpp.html" title="Class that holds information about channel specific information. Including things like the trace dela..." alt="" coords="621,80,793,107"/>
+<area shape="rect" id="node11" href="$d2/d6c/_trace_filter_analyzer_8hpp.html" title="Declaration of analysis class which does the filtering of traces. " alt="" coords="360,528,520,555"/>
+<area shape="rect" id="node36" href="$d5/dee/_trace_filter_8hpp.html" title="A class to perform trapezoidal filtering. " alt="" coords="43,80,152,107"/>
+<area shape="rect" id="node38" href="$d4/d9c/_globals_8hpp.html" title="constant parameters used in pixie16 analysis " alt="" coords="2156,304,2247,331"/>
+<area shape="rect" id="node48" href="$db/dc6/_globals_xml_parser_8cpp.html" title="Class to parse nodes needed for the Global&#39;s class from utkscan&#39;s configuration file. " alt="" coords="3720,453,3872,480"/>
+<area shape="rect" id="node3" href="$d0/d21/unittest-_channel_configuration_8cpp.html" title="Program that will test functionality of ChannelConfiguration. " alt="" coords="277,155,496,181"/>
+<area shape="rect" id="node4" href="$dd/d01/_trace_analyzer_8hpp.html" title="Header file for the TraceAnalyzer class. " alt="" coords="717,453,848,480"/>
+<area shape="rect" id="node13" href="$df/dcf/_chan_event_8hpp.html" title="A Class to define what a channel event is. " alt="" coords="953,304,1065,331"/>
+<area shape="rect" id="node31" href="$df/dbb/_calibrator_8hpp.html" title="Class to handle energy calibrations for the channels. " alt="" coords="726,155,829,181"/>
+<area shape="rect" id="node32" href="$d6/d3a/_detector_library_8hpp.html" title="This is an extension of the vector of the channelConfigurations that was previously used..." alt="" coords="744,229,880,256"/>
+<area shape="rect" id="node33" href="$d8/d9e/_map_node_xml_parser_8hpp.html" title="Class to parse the Map node. " alt="" coords="434,304,598,331"/>
+<area shape="rect" id="node34" href="$da/d18/_walk_corrector_8hpp.html" title="A Class to handle walk corrections for channels. " alt="" coords="571,155,701,181"/>
+<area shape="rect" id="node35" href="$d5/d6a/unittest-_walk_corrector_8cpp.html" title="Program that will test functionality of the WalkCorrector. " alt="" coords="248,229,427,256"/>
+<area shape="rect" id="node5" href="$dd/deb/_cfd_analyzer_8hpp.html" title="Class to use Cfd on traces. " alt="" coords="543,528,662,555"/>
+<area shape="rect" id="node6" href="$dc/d67/_detector_driver_xml_parser_8cpp.html" title="Class to parse the DetectorDriver node. " alt="" coords="657,603,850,629"/>
+<area shape="rect" id="node7" href="$de/dfa/_fitting_analyzer_8hpp.html" title="Class to fit functions to waveforms. " alt="" coords="738,528,873,555"/>
+<area shape="rect" id="node8" href="$db/db7/_tau_analyzer_8hpp.html" title="A trace analyzer which determines the decay time constant of traces. " alt="" coords="1055,528,1175,555"/>
+<area shape="rect" id="node10" href="$d7/d3f/_trace_extractor_8hpp.html" title="Header file for the TraceExtractor class. " alt="" coords="897,528,1031,555"/>
+<area shape="rect" id="node9" href="$d2/dce/_tau_analyzer_8cpp.html" title="Implements the determination of the decay constants for a trace. " alt="" coords="1149,603,1269,629"/>
+<area shape="rect" id="node12" href="$d7/d16/_trace_filter_analyzer_8cpp.html" title="Implements the analysis of traces using trapezoidal filters. " alt="" coords="243,603,403,629"/>
+<area shape="rect" id="node14" href="$df/d14/_high_res_timing_data_8hpp.html" title="Class to hold all of the information for high resolution timing. " alt="" coords="1559,379,1724,405"/>
+<area shape="rect" id="node17" href="$d0/d24/_raw_event_8hpp.html" title="Header file for the rawevent. " alt="" coords="2349,379,2457,405"/>
+<area shape="rect" id="node28" href="$dd/dfe/_detector_driver_8hpp.html" title="Main Driver for event processing. " alt="" coords="1058,453,1190,480"/>
+<area shape="rect" id="node29" href="$d7/d9b/_read_buff_data_d_8cpp.html" title="retrieve data from raw buffer array ibuf " alt="" coords="775,379,915,405"/>
+<area shape="rect" id="node30" href="$de/dbc/_read_buff_data_f_8cpp.html" title="retrieve data from raw buffer array ibuf " alt="" coords="940,379,1079,405"/>
+<area shape="rect" id="node15" href="$d2/d5d/_la_br3_test_processor_8cpp.html" title="A LaBr3Test processor class that can be used to build your own. " alt="" coords="1678,453,1845,480"/>
+<area shape="rect" id="node16" href="$dc/da5/_two_chan_timing_processor_8cpp.html" title="Analyzes data from a simple Two channel Timing setup. " alt="" coords="1453,453,1654,480"/>
+<area shape="rect" id="node18" href="$d5/dc9/_correlator_8hpp.html" title="Header file for correlation. " alt="" coords="1324,453,1428,480"/>
+<area shape="rect" id="node20" href="$df/d98/_read_buff_data_a_8cpp.html" title="retrieve data from raw buffer array ibuf " alt="" coords="1869,453,2008,480"/>
+<area shape="rect" id="node21" href="$d9/d45/_crosstalk_processor_8cpp.html" title="A Template processor class that can be used to build your own. " alt="" coords="2032,453,2195,480"/>
+<area shape="rect" id="node22" href="$d1/d8f/_dssd4_s_h_e_processor_8cpp.html" title="Dssd4SHEProcessor.cpp" alt="" coords="2219,453,2391,480"/>
+<area shape="rect" id="node23" href="$da/d74/_walk_vandle_beta_processor_8cpp.html" title="A class to determine the walk between Vandle and the LeRIBSS betas. " alt="" coords="2416,453,2619,480"/>
+<area shape="rect" id="node24" href="$d6/d1f/_double_beta_processor_8cpp.html" title="A DoubleBeta processor class that can be used to analyze double beta detectors. " alt="" coords="2643,453,2818,480"/>
+<area shape="rect" id="node25" href="$d3/d01/_ion_chamber_processor_8cpp.html" title="implementation for ion chambers " alt="" coords="2842,453,3019,480"/>
+<area shape="rect" id="node26" href="$d8/d5f/_logic_processor_8cpp.html" title="handling of logic events, derived from MtcProcessor.cpp " alt="" coords="3043,453,3181,480"/>
+<area shape="rect" id="node27" href="$dc/dbb/_teeny_vandle_processor_8cpp.html" title="A Template processor class that can be used to build your own. " alt="" coords="3205,453,3387,480"/>
+<area shape="rect" id="node19" href="$d3/d79/_correlator_8cpp.html" title="Correlates events. " alt="" coords="1273,528,1377,555"/>
+<area shape="rect" id="node37" href="$d8/d0f/_trace_filter_8cpp.html" title="A class to perform trapezoidal filtering. " alt="" coords="43,155,152,181"/>
+<area shape="rect" id="node39" href="$df/d84/_stats_data_8cpp.html" title="Stores statistics data from the data stream in its original format. " alt="" coords="1849,379,1956,405"/>
+<area shape="rect" id="node40" href="$d0/d52/_waa_analyzer_8cpp.html" title="Obtains the phase of a waveform using a weighted average algorithm. " alt="" coords="1980,379,2105,405"/>
+<area shape="rect" id="node41" href="$db/d6d/_timing_calibrator_8hpp.html" title="A class to handle the timing calibration parameters. " alt="" coords="2130,379,2273,405"/>
+<area shape="rect" id="node42" href="$de/d87/_plots_8hpp.html" title="A container to request a block of plots and plot respective spectra through the plots register..." alt="" coords="1255,379,1332,405"/>
+<area shape="rect" id="node43" href="$dd/d77/_event_data_8hpp.html" title="Structure holding event data. " alt="" coords="3359,379,3468,405"/>
+<area shape="rect" id="node44" href="$d5/d2d/_places_8hpp.html" title="Defines the various places for the TreeCorrelator. " alt="" coords="3411,453,3498,480"/>
+<area shape="rect" id="node45" href="$db/dc4/_place_builder_8hpp.html" title="Defines the various places for the TreeCorrelator. " alt="" coords="3435,528,3555,555"/>
+<area shape="rect" id="node46" href="$dc/d1a/_globals_xml_parser_8hpp.html" title="Class to parse nodes needed for the Global&#39;s class from utkscan&#39;s configuration file. " alt="" coords="3615,379,3767,405"/>
+<area shape="rect" id="node47" href="$d2/d5d/_globals_8cpp.html" title="constant parameters used in pixie16 analysis " alt="" coords="3595,453,3685,480"/>
+<area shape="rect" id="node49" href="$d3/d8d/_tree_correlator_8cpp.html" title="A class to handle complex correlations between various processors. " alt="" coords="2633,379,2764,405"/>
+<area shape="rect" id="node50" href="$dd/d1b/_pspmt_processor_8cpp.html" title="PspmtProcessor.cpp" alt="" coords="2788,379,2932,405"/>
+</map>

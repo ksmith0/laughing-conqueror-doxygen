@@ -1,0 +1,21 @@
+<map id="CloverCalibProcessor::Process" name="CloverCalibProcessor::Process">
+<area shape="rect" id="node2" href="$d6/d65/class_event_processor.html#ae2d41a947da0cb509fd0ca85f6caa0fc" title="EventProcessor::Process" alt="" coords="227,5,397,32"/>
+<area shape="rect" id="node3" href="$d6/d65/class_event_processor.html#a301eb8d69b3ceeeb4e69ce84a685f5a1" title="EventProcessor::EndProcess" alt="" coords="469,31,664,57"/>
+<area shape="rect" id="node4" href="$d3/d2c/class_tree_correlator.html#a4f70fdbb0d6dead4212d8e926ce1755f" title="TreeCorrelator::get" alt="" coords="247,107,377,133"/>
+<area shape="rect" id="node5" href="$d3/d2c/class_tree_correlator.html#aadf6cf8c8bedbbde03fb678667c7cb01" title="TreeCorrelator::place" alt="" coords="240,157,384,184"/>
+<area shape="rect" id="node6" href="$dd/d21/class_place.html#adbd2dfae258717a40107ad34ebe248c1" title="Place::status" alt="" coords="263,208,361,235"/>
+<area shape="rect" id="node7" href="$d6/d65/class_event_processor.html#ad5201bb392726e409ba2a6ac44e764d8" title="Implementation of the plot command to interface with the DAMM routines. " alt="" coords="240,259,384,285"/>
+<area shape="rect" id="node11" href="$df/d3c/class_processed_xia_data.html#ab9364a5f0a990ef3f27baa902d1c6036" title="ProcessedXiaData::GetCalibrated\lEnergy" alt="" coords="203,310,421,351"/>
+<area shape="rect" id="node12" href="$df/d3c/class_processed_xia_data.html#a796159b153b67faaaaf00650d4469ab4" title="ProcessedXiaData::GetWalk\lCorrectedTime" alt="" coords="217,375,407,417"/>
+<area shape="rect" id="node13" href="$d5/d91/class_chan_event.html#ac92976ab74eb43a72bf6e6e536f59496" title="ChanEvent::GetChanID" alt="" coords="231,441,393,468"/>
+<area shape="rect" id="node19" href="$d6/d20/class_channel_configuration.html#a63b0841b2af27b4d019b5f68097a5eef" title="ChannelConfiguration\l::GetLocation" alt="" coords="239,493,385,534"/>
+<area shape="rect" id="node20" href="$dd/d21/class_place.html#a25854d42e71e507da8c1a1805e663850" title="Place::last" alt="" coords="270,559,354,585"/>
+<area shape="rect" id="node8" href="$d7/d8b/class_plots.html#a68849b82c8c7a5d57f972cbd8de83328" title="Plots into histogram defined by dammId. " alt="" coords="525,259,608,285"/>
+<area shape="rect" id="node9" href="$da/d57/_scanor_8hpp.html#a31aca3d0ff704e08f8f8968288ae7895" title="Defines the DAMM function to call for 1D hists */. " alt="" coords="757,233,839,260"/>
+<area shape="rect" id="node10" href="$da/d57/_scanor_8hpp.html#a8b0a662ebdb3f947ba8470bf89f11c3a" title="Defines the DAMM function to call for 2D hists */. " alt="" coords="764,284,832,311"/>
+<area shape="rect" id="node14" href="$dc/dbe/class_detector_library.html#a6ab3ff825daa8b607865086741bc9b2c" title="DetectorLibrary::get" alt="" coords="498,365,635,392"/>
+<area shape="rect" id="node15" href="$dc/dbe/class_detector_library.html#a7dc03a85fdd914647e3b4405524d8f02" title="DetectorLibrary::at" alt="" coords="501,416,632,443"/>
+<area shape="rect" id="node17" href="$d2/ddd/class_xia_data.html#afcf7210c72022a696a926259d1c5ff84" title="XiaData::GetModuleNumber" alt="" coords="473,467,660,493"/>
+<area shape="rect" id="node18" href="$d2/ddd/class_xia_data.html#a34bf9ef6f8f1dee918da2be675e7767a" title="XiaData::GetChannelNumber" alt="" coords="471,517,663,544"/>
+<area shape="rect" id="node16" href="$dc/dbe/class_detector_library.html#a90877646fc3c5c845baa0ff3643335d4" title="DetectorLibrary::GetIndex" alt="" coords="712,416,884,443"/>
+</map>

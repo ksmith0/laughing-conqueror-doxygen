@@ -1,0 +1,16 @@
+<map id="ScopeScanner.hpp" name="ScopeScanner.hpp">
+<area shape="rect" id="node7" href="$da/d8e/_scan_interface_8hpp.html" title="A class to handle reading from various UTK/ORNL pixie16 data formats. " alt="" coords="366,155,494,181"/>
+<area shape="rect" id="node14" href="$d5/d77/_scope_unpacker_8hpp.html" title="ScopeUnpacker.hpp" alt="" coords="1065,80,1205,107"/>
+<area shape="rect" id="node11" href="$d3/d71/hribf__buffers_8h.html" title="Handles poll2 output data files. " alt="" coords="136,229,241,256"/>
+<area shape="rect" id="node13" href="$d3/d2b/_xia_data_8hpp.html" title="XiaData.hpp" alt="" coords="504,229,599,256"/>
+<area shape="rect" id="node15" href="$d7/dcb/_crystal_ball_function_8hpp.html" title="A class to handle the processing of traces. " alt="" coords="1693,155,1855,181"/>
+<area shape="rect" id="node16" href="$d2/d3c/_csi_function_8hpp.html" title="A class to handle the processing of traces. " alt="" coords="801,155,918,181"/>
+<area shape="rect" id="node17" href="$d1/de2/_em_cal_timing_function_8hpp.html" title="A class to handle the processing of traces. " alt="" coords="942,155,1118,181"/>
+<area shape="rect" id="node18" href="$dc/dec/_processed_xia_data_8hpp.html" title="An XiaData object that has undergone additional processing. " alt="" coords="569,155,725,181"/>
+<area shape="rect" id="node21" href="$d1/d4a/_si_pmt_fast_timing_function_8hpp.html" title="Definition for the fitting function for the Si PMT fast output. " alt="" coords="1143,155,1341,181"/>
+<area shape="rect" id="node22" href="$dd/d34/_unpacker_8hpp.html" title="A class to handle the unpacking of UTK/ORNL style pixie16 data spills. " alt="" coords="1567,155,1669,181"/>
+<area shape="rect" id="node26" href="$dc/df3/_vandle_timing_function_8hpp.html" title="A class to handle the processing of traces. " alt="" coords="1366,155,1542,181"/>
+<area shape="rect" id="node19" href="$df/d04/_trace_8hpp.html" title="A simple class to store the traces. " alt="" coords="725,229,805,256"/>
+<area shape="rect" id="node23" href="$d0/d8e/_xia_list_mode_data_mask_8hpp.html" title="Class that provides the data masks for XIA list mode data. " alt="" coords="1930,229,2109,256"/>
+<area shape="rect" id="node25" href="$d3/d18/_helper_enumerations_8hpp.html" title="Header containing namespaced enumerations that are useful to different parts of the software..." alt="" coords="1870,304,2035,331"/>
+</map>

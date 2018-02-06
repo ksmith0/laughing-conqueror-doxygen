@@ -1,0 +1,13 @@
+<map id="CfdAnalyzer::DeclarePlots" name="CfdAnalyzer::DeclarePlots">
+<area shape="rect" id="node2" href="$d5/d61/class_cfd_analyzer.html#a033267b19893a5c655dd186cbc73853e" title="CfdAnalyzer::Analyze" alt="" coords="231,245,380,272"/>
+<area shape="rect" id="node3" href="$d2/dbc/class_trace_analyzer.html#a0915fb97c3ebe928cab17deff5e497ec" title="TraceAnalyzer::Analyze" alt="" coords="449,5,611,32"/>
+<area shape="rect" id="node4" href="$d2/dbc/class_trace_analyzer.html#ae7ac212d764d0e394fcb323f68d23c66" title="TraceAnalyzer::EndAnalyze" alt="" coords="680,31,864,57"/>
+<area shape="rect" id="node5" href="$dd/db7/class_trace.html#a7ae0bf7209ee6b579b0cfcb7b86aa5ef" title="Trace::IsSaturated" alt="" coords="465,107,595,133"/>
+<area shape="rect" id="node6" href="$dd/db7/class_trace.html#a07422117998494b79c0805f0f2cc5f95" title="Trace::GetWaveform" alt="" coords="458,157,602,184"/>
+<area shape="rect" id="node7" href="$d6/d20/class_channel_configuration.html#aa32b0e13b6faf461fca001842cefa333" title="ChannelConfiguration\l::GetCfdParameters" alt="" coords="457,209,603,250"/>
+<area shape="rect" id="node8" href="$dd/db7/class_trace.html#a4694ebbfde6031a7dd8e86cb0530cceb" title="Trace::SetPhase" alt="" coords="470,275,590,301"/>
+<area shape="rect" id="node9" href="$dd/d06/class_timing_driver.html#acd650062cf78da2c5e5efea70a1658b8" title="TimingDriver::CalculatePhase" alt="" coords="432,325,628,352"/>
+<area shape="rect" id="node10" href="$dd/db7/class_trace.html#a7a75bd64211345aa8d8e9f5a516697ca" title="Trace::GetTraceSansBaseline" alt="" coords="431,376,629,403"/>
+<area shape="rect" id="node11" href="$dd/db7/class_trace.html#a2b1a6f03db233ea403c6390cb4159c36" title="Trace::GetExtrapolatedMaxInfo" alt="" coords="428,427,632,453"/>
+<area shape="rect" id="node12" href="$dd/db7/class_trace.html#aeee6c9b5e253a8df3dd8fa81fccc104f" title="Trace::GetBaselineInfo" alt="" coords="452,477,608,504"/>
+</map>

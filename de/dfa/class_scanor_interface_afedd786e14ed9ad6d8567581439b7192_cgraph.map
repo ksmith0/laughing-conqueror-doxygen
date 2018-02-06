@@ -1,0 +1,36 @@
+<map id="ScanorInterface::~ScanorInterface" name="ScanorInterface::~ScanorInterface">
+<area shape="rect" id="node2" href="$de/dfa/class_scanor_interface.html#abc2883ce3cd0783d422bbd8251a7e644" title="ScanorInterface::Hissub" alt="" coords="224,107,387,133"/>
+<area shape="rect" id="node3" href="$de/dfa/class_scanor_interface.html#ae4507711417daa37e55f278b9c486a54" title="inserts a delimiter in between individual module data and at end of buffer. Data is then passed to hi..." alt="" coords="435,107,659,133"/>
+<area shape="rect" id="node4" href="$d2/de8/class_unpacker.html#a0924b471bf4cb54b70118b314c39b70b" title="Unpacker::ReadSpill" alt="" coords="707,107,849,133"/>
+<area shape="rect" id="node5" href="$d2/de8/class_unpacker.html#a18f4ca1aa3e85cfb8756e7ddeac9ac1a" title="Unpacker::ClearEventList" alt="" coords="909,5,1081,32"/>
+<area shape="rect" id="node7" href="$d2/de8/class_unpacker.html#a9aa457a02e9889f56db2465af609bdf4" title="Unpacker::ReadBuffer" alt="" coords="919,157,1071,184"/>
+<area shape="rect" id="node30" href="$d2/de8/class_unpacker.html#a1271192c8b5d7fcee860a8b7974bf300" title="The time of the last xia event in the raw event. " alt="" coords="925,107,1064,133"/>
+<area shape="rect" id="node33" href="$d2/de8/class_unpacker.html#af3b767d00a571f8ee416df9a89625cc0" title="Unpacker::BuildRawEvent" alt="" coords="1140,56,1316,83"/>
+<area shape="rect" id="node35" href="$d2/de8/class_unpacker.html#a9388f58de41d2566ed9955df6a349d1d" title="Process all events in the event list. " alt="" coords="897,208,1092,235"/>
+<area shape="rect" id="node6" href="$d0/d31/_unpacker_8cpp.html#a49e41fc5561685b7fb114361b47cbd81" title="clearDeque" alt="" coords="1184,5,1272,32"/>
+<area shape="rect" id="node8" href="$df/dea/class_xia_list_mode_data_decoder.html#a8aef1de2d68f3e04678c171650dbfc48" title="XiaListModeDataDecoder\l::DecodeBuffer" alt="" coords="1143,597,1313,638"/>
+<area shape="rect" id="node9" href="$d2/ddd/class_xia_data.html#ab1d2117cb57edc28c5fbcc172e6f6226" title="Sets the lower 32 bits of the event time. " alt="" coords="1384,629,1568,656"/>
+<area shape="rect" id="node10" href="$dc/d76/class_xia_list_mode_data_mask.html#ae7b6abea7530a613bcaf8467f77e3431" title="XiaListModeDataMask\l::GetNumberOfExternalTimestamp\lWords" alt="" coords="1364,680,1588,736"/>
+<area shape="rect" id="node11" href="$dc/d76/class_xia_list_mode_data_mask.html#a2636ba87b479c5d1351d181b6f7c82c2" title="XiaListModeDataMask\l::GetNumberOfQdcWords" alt="" coords="1389,759,1563,801"/>
+<area shape="rect" id="node12" href="$dc/d76/class_xia_list_mode_data_mask.html#a10cfe7418c0d2c2b8c3acd2725b98f74" title="XiaListModeDataMask\l::GetNumberOfEnergySumWords" alt="" coords="1367,825,1585,866"/>
+<area shape="rect" id="node13" href="$d2/ddd/class_xia_data.html#a532a17e56667eaec25330d0bc0a6797b" title="XiaData::GetCrateNumber" alt="" coords="1388,891,1564,917"/>
+<area shape="rect" id="node14" href="$d2/ddd/class_xia_data.html#ae6409571b278d1d974c3e67842ea3495" title="XiaData::GetSlotNumber" alt="" coords="1393,941,1559,968"/>
+<area shape="rect" id="node15" href="$d2/ddd/class_xia_data.html#a34bf9ef6f8f1dee918da2be675e7767a" title="XiaData::GetChannelNumber" alt="" coords="1380,107,1572,133"/>
+<area shape="rect" id="node16" href="$d2/ddd/class_xia_data.html#a673d1a85a4a03615668e99da93e30db5" title="Sets the lower 32 bits of the external event time. " alt="" coords="1377,992,1575,1019"/>
+<area shape="rect" id="node17" href="$d2/ddd/class_xia_data.html#a4dc1410b6214be80115181cedd88a044" title="Sets the upper 16 bits of the external event time. " alt="" coords="1375,1043,1577,1069"/>
+<area shape="rect" id="node18" href="$d2/ddd/class_xia_data.html#a0c4fc5e4fcf490969bdbe6e1583b38e3" title="Sets the value of the concatenated external timestamp. " alt="" coords="1371,1093,1581,1120"/>
+<area shape="rect" id="node19" href="$dd/df8/namespace_conversions.html#ab4a6f68a55e2cb0cae208ea8ba028e37" title="Conversions::Concatenate\lWords" alt="" coords="1387,1145,1565,1186"/>
+<area shape="rect" id="node20" href="$d2/ddd/class_xia_data.html#ac0a5410997d9b116ebae66651a3278c8" title="XiaData::GetExternalTimeLow" alt="" coords="1377,1211,1575,1237"/>
+<area shape="rect" id="node21" href="$d2/ddd/class_xia_data.html#a7a35b41ce4920c43eaaa4ce1c46ffaac" title="XiaData::GetExternalTimeHigh" alt="" coords="1375,157,1577,184"/>
+<area shape="rect" id="node22" href="$d2/ddd/class_xia_data.html#a87c703d624bdaecfd584a75a4ce2c73e" title="Sets the energy sums calculated on&#45;board. " alt="" coords="1390,208,1562,235"/>
+<area shape="rect" id="node23" href="$d2/ddd/class_xia_data.html#a88e29fec9a50f6f1e3ecbeaedd03456c" title="Sets the baseline recorded on the module if the energy sums were recorded in the data stream..." alt="" coords="1388,259,1564,285"/>
+<area shape="rect" id="node24" href="$d6/d23/namespace_ieee_standards.html#a3215bf702bd2a12adf40e54f894d7d27" title="IeeeStandards::IeeeFloating\lToDecimal" alt="" coords="1383,310,1569,351"/>
+<area shape="rect" id="node25" href="$d2/ddd/class_xia_data.html#ac68b617d4dfc56484670219f8cb2ef3f" title="Sets the QDCs that were calculated on&#45;board. " alt="" coords="1415,376,1537,403"/>
+<area shape="rect" id="node26" href="$d2/ddd/class_xia_data.html#a71da12674be88f691bc00b7b0090c3f1" title="XiaData::IsSaturated" alt="" coords="1404,427,1548,453"/>
+<area shape="rect" id="node27" href="$d2/ddd/class_xia_data.html#aaf91ca7a3d8cc1eb54ab6eca795ffefe" title="Sets the energy calculated on&#45;board. " alt="" coords="1407,477,1545,504"/>
+<area shape="rect" id="node28" href="$d2/ddd/class_xia_data.html#ae3f04642cb3383ae9e0756de8e2265f5" title="Sets the calculated arrival time of the signal sans the CFD fractional time components. " alt="" coords="1387,528,1565,555"/>
+<area shape="rect" id="node29" href="$d2/ddd/class_xia_data.html#a45189c3a5409a4f6e1edddf46f78d402" title="Sets the calculated arrival time of the signal. " alt="" coords="1413,579,1539,605"/>
+<area shape="rect" id="node31" href="$d2/ddd/class_xia_data.html#ab474bcbc4813df18a20e015c76df8db7" title="A method that will compare the times of two XiaData classes this method can be used in conjunction wi..." alt="" coords="1149,107,1307,133"/>
+<area shape="rect" id="node32" href="$d2/ddd/class_xia_data.html#ac11c489cabed7180f6516d724d387a56" title="XiaData::GetTime" alt="" coords="1413,56,1539,83"/>
+<area shape="rect" id="node34" href="$d2/ddd/class_xia_data.html#afcf7210c72022a696a926259d1c5ff84" title="XiaData::GetModuleNumber" alt="" coords="1383,5,1569,32"/>
+</map>

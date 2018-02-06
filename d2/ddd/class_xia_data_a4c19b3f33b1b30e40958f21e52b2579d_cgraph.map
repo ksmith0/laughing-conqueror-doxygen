@@ -1,0 +1,7 @@
+<map id="XiaData::operator!=" name="XiaData::operator!=">
+<area shape="rect" id="node2" href="$d2/ddd/class_xia_data.html#a396219ec180ae84da5abaeb3e3f66357" title="Equality operator that compares checks if we have the same channel (i.e. the ID and Time are identica..." alt="" coords="189,56,329,83"/>
+<area shape="rect" id="node3" href="$d2/ddd/class_xia_data.html#a286fce64fe1fcc764013c3e070e7ed7f" title="XiaData::GetId" alt="" coords="392,5,501,32"/>
+<area shape="rect" id="node5" href="$d2/ddd/class_xia_data.html#ac11c489cabed7180f6516d724d387a56" title="XiaData::GetTime" alt="" coords="383,56,510,83"/>
+<area shape="rect" id="node6" href="$d2/ddd/class_xia_data.html#ade2672d5b33f5317bd0710408b88871b" title="XiaData::GetEnergy" alt="" coords="377,107,516,133"/>
+<area shape="rect" id="node4" href="$d2/ddd/class_xia_data.html#afcf7210c72022a696a926259d1c5ff84" title="XiaData::GetModuleNumber" alt="" coords="564,5,751,32"/>
+</map>

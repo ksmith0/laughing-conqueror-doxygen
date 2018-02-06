@@ -1,0 +1,12 @@
+<map id="unittest&#45;DetectorSummary.cpp" name="unittest&#45;DetectorSummary.cpp">
+<area shape="rect" id="node4" href="$de/d02/_detector_summary_8hpp.html" title="A class that generates summaries of detector types/subtypes/tags that are requested by the user..." alt="" coords="786,80,939,107"/>
+<area shape="rect" id="node7" href="$df/dcf/_chan_event_8hpp.html" title="A Class to define what a channel event is. " alt="" coords="723,155,835,181"/>
+<area shape="rect" id="node8" href="$d8/dd0/_channel_configuration_8hpp.html" title="Class that holds information about channel specific information. Including things like the trace dela..." alt="" coords="187,379,359,405"/>
+<area shape="rect" id="node14" href="$dc/dec/_processed_xia_data_8hpp.html" title="An XiaData object that has undergone additional processing. " alt="" coords="759,229,915,256"/>
+<area shape="rect" id="node15" href="$df/d04/_trace_8hpp.html" title="A simple class to store the traces. " alt="" coords="960,304,1040,331"/>
+<area shape="rect" id="node18" href="$d6/d3a/_detector_library_8hpp.html" title="This is an extension of the vector of the channelConfigurations that was previously used..." alt="" coords="409,229,545,256"/>
+<area shape="rect" id="node13" href="$dd/d48/_trap_filter_parameters_8hpp.html" title="A class to hold parameters for a trapezoidal filter in units of ns. " alt="" coords="241,453,410,480"/>
+<area shape="rect" id="node17" href="$d3/d2b/_xia_data_8hpp.html" title="XiaData.hpp" alt="" coords="790,304,885,331"/>
+<area shape="rect" id="node19" href="$df/dbb/_calibrator_8hpp.html" title="Class to handle energy calibrations for the channels. " alt="" coords="355,304,458,331"/>
+<area shape="rect" id="node20" href="$da/d18/_walk_corrector_8hpp.html" title="A Class to handle walk corrections for channels. " alt="" coords="483,304,613,331"/>
+</map>

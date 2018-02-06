@@ -1,0 +1,6 @@
+<map id="WaaAnalyzer::Analyze" name="WaaAnalyzer::Analyze">
+<area shape="rect" id="node2" href="$dd/db7/class_trace.html#a7ae0bf7209ee6b579b0cfcb7b86aa5ef" title="Trace::IsSaturated" alt="" coords="221,5,351,32"/>
+<area shape="rect" id="node3" href="$dd/db7/class_trace.html#adabf44308f34afb878504b0ed7ee0d0a" title="Trace::GetMaxInfo" alt="" coords="221,56,351,83"/>
+<area shape="rect" id="node4" href="$dd/db7/class_trace.html#aeee6c9b5e253a8df3dd8fa81fccc104f" title="Trace::GetBaselineInfo" alt="" coords="208,107,364,133"/>
+<area shape="rect" id="node5" href="$dd/db7/class_trace.html#a4694ebbfde6031a7dd8e86cb0530cceb" title="Trace::SetPhase" alt="" coords="226,157,346,184"/>
+</map>

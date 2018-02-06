@@ -1,0 +1,21 @@
+<map id="PositionProcessor::Process" name="PositionProcessor::Process">
+<area shape="rect" id="node2" href="$d6/d65/class_event_processor.html#ae2d41a947da0cb509fd0ca85f6caa0fc" title="EventProcessor::Process" alt="" coords="213,5,384,32"/>
+<area shape="rect" id="node3" href="$d6/d65/class_event_processor.html#a301eb8d69b3ceeeb4e69ce84a685f5a1" title="EventProcessor::EndProcess" alt="" coords="456,55,651,81"/>
+<area shape="rect" id="node4" href="$d5/d91/class_chan_event.html#ac92976ab74eb43a72bf6e6e536f59496" title="ChanEvent::GetChanID" alt="" coords="473,109,634,136"/>
+<area shape="rect" id="node10" href="$d6/d20/class_channel_configuration.html#a63b0841b2af27b4d019b5f68097a5eef" title="ChannelConfiguration\l::GetLocation" alt="" coords="480,214,627,255"/>
+<area shape="rect" id="node11" href="$d6/d65/class_event_processor.html#ad5201bb392726e409ba2a6ac44e764d8" title="Implementation of the plot command to interface with the DAMM routines. " alt="" coords="227,275,371,301"/>
+<area shape="rect" id="node15" href="$d3/df3/class_position_processor.html#ade34c6c5eabff0d2d231d2e4b536e85c" title="PositionProcessor::\lFindMatchingEdge" alt="" coords="231,158,367,199"/>
+<area shape="rect" id="node17" href="$d2/ddd/class_xia_data.html#a7b617d36e152efa74c4f657bc3848c81" title="XiaData::GetQdc" alt="" coords="237,325,360,352"/>
+<area shape="rect" id="node18" href="$df/d3c/class_processed_xia_data.html#a2d98ff813786abdb09ebc6bd22dbf48d" title="ProcessedXiaData::GetTrace" alt="" coords="202,376,395,403"/>
+<area shape="rect" id="node19" href="$df/d3c/class_processed_xia_data.html#ab9364a5f0a990ef3f27baa902d1c6036" title="ProcessedXiaData::GetCalibrated\lEnergy" alt="" coords="189,427,408,469"/>
+<area shape="rect" id="node20" href="$d2/ddd/class_xia_data.html#a71da12674be88f691bc00b7b0090c3f1" title="XiaData::IsSaturated" alt="" coords="227,493,371,520"/>
+<area shape="rect" id="node5" href="$dc/dbe/class_detector_library.html#a6ab3ff825daa8b607865086741bc9b2c" title="DetectorLibrary::get" alt="" coords="726,125,863,152"/>
+<area shape="rect" id="node6" href="$dc/dbe/class_detector_library.html#a7dc03a85fdd914647e3b4405524d8f02" title="DetectorLibrary::at" alt="" coords="729,176,860,203"/>
+<area shape="rect" id="node8" href="$d2/ddd/class_xia_data.html#afcf7210c72022a696a926259d1c5ff84" title="XiaData::GetModuleNumber" alt="" coords="701,24,888,51"/>
+<area shape="rect" id="node9" href="$d2/ddd/class_xia_data.html#a34bf9ef6f8f1dee918da2be675e7767a" title="XiaData::GetChannelNumber" alt="" coords="699,75,891,101"/>
+<area shape="rect" id="node7" href="$dc/dbe/class_detector_library.html#a90877646fc3c5c845baa0ff3643335d4" title="DetectorLibrary::GetIndex" alt="" coords="939,176,1111,203"/>
+<area shape="rect" id="node12" href="$d7/d8b/class_plots.html#a68849b82c8c7a5d57f972cbd8de83328" title="Plots into histogram defined by dammId. " alt="" coords="512,280,595,307"/>
+<area shape="rect" id="node13" href="$da/d57/_scanor_8hpp.html#a31aca3d0ff704e08f8f8968288ae7895" title="Defines the DAMM function to call for 1D hists */. " alt="" coords="753,243,836,269"/>
+<area shape="rect" id="node14" href="$da/d57/_scanor_8hpp.html#a8b0a662ebdb3f947ba8470bf89f11c3a" title="Defines the DAMM function to call for 2D hists */. " alt="" coords="761,293,829,320"/>
+<area shape="rect" id="node16" href="$d2/ddd/class_xia_data.html#ac11c489cabed7180f6516d724d387a56" title="XiaData::GetTime" alt="" coords="490,163,617,189"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="TauAnalyzer.hpp" name="TauAnalyzer.hpp">
+<area shape="rect" id="node3" href="$dd/d01/_trace_analyzer_8hpp.html" title="Header file for the TraceAnalyzer class. " alt="" coords="92,80,223,107"/>
+<area shape="rect" id="node5" href="$d8/dd0/_channel_configuration_8hpp.html" title="Class that holds information about channel specific information. Including things like the trace dela..." alt="" coords="347,304,519,331"/>
+<area shape="rect" id="node12" href="$de/d87/_plots_8hpp.html" title="A container to request a block of plots and plot respective spectra through the plots register..." alt="" coords="653,155,731,181"/>
+<area shape="rect" id="node28" href="$df/d04/_trace_8hpp.html" title="A simple class to store the traces. " alt="" coords="544,304,624,331"/>
+<area shape="rect" id="node11" href="$dd/d48/_trap_filter_parameters_8hpp.html" title="A class to hold parameters for a trapezoidal filter in units of ns. " alt="" coords="854,379,1023,405"/>
+<area shape="rect" id="node14" href="$d4/d9c/_globals_8hpp.html" title="constant parameters used in pixie16 analysis " alt="" coords="1205,229,1296,256"/>
+<area shape="rect" id="node26" href="$d3/d87/_his_file_8hpp.html" title="HisFile.hpp" alt="" coords="648,304,736,331"/>
+<area shape="rect" id="node27" href="$da/d82/_plots_register_8hpp.html" title="PlotsRegister.hpp" alt="" coords="862,229,989,256"/>
+<area shape="rect" id="node22" href="$dc/d77/_constants_8hpp.html" title="A header that contains various useful constants for the software. " alt="" coords="1601,304,1708,331"/>
+<area shape="rect" id="node23" href="$df/dd4/_paass_exceptions_8hpp.html" title="Class to handle errors occurring during the execution of the code This file will break with the One&#45;C..." alt="" coords="1539,379,1688,405"/>
+<area shape="rect" id="node25" href="$d0/db0/_messenger_8hpp.html" title="A class to handle messages and output them prettily. " alt="" coords="939,304,1050,331"/>
+</map>

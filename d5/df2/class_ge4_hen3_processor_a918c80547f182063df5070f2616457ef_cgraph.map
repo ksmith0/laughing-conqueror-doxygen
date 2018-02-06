@@ -1,0 +1,9 @@
+<map id="Ge4Hen3Processor::DeclarePlots" name="Ge4Hen3Processor::DeclarePlots">
+<area shape="rect" id="node2" href="$d2/d54/class_ge_processor.html#a34a3e914ec6735a70ee2898fcd726747" title="Declare the plots for the processor. " alt="" coords="275,5,456,32"/>
+<area shape="rect" id="node3" href="$d6/d65/class_event_processor.html#a37b6d5ad90cc6e55c8021682a355764a" title="Declares a 2D histogram calls the C++ wrapper for DAMM. " alt="" coords="536,31,781,57"/>
+<area shape="rect" id="node6" href="$d6/d65/class_event_processor.html#aac0d7f24194df48f204ebb9c9b75e19d" title="Declares a 1D histogram calls the C++ wrapper for DAMM. " alt="" coords="243,107,488,133"/>
+<area shape="rect" id="node4" href="$d7/d8b/class_plots.html#a59a2ffc3288d877c695346d82499e769" title="Declares a 2D histogram calls the C++ wrapper for DAMM. " alt="" coords="829,31,1012,57"/>
+<area shape="rect" id="node5" href="$da/d57/_scanor_8hpp.html#a65d497b6686f1daba9896091bada3eb1" title="create a DAMM 2D histogram " alt="" coords="1060,31,1117,57"/>
+<area shape="rect" id="node7" href="$d7/d8b/class_plots.html#a126b1dfe1d671776ee1caddc7cc249b9" title="Declares a 1D histogram calls the C++ wrapper for DAMM. " alt="" coords="567,107,750,133"/>
+<area shape="rect" id="node8" href="$da/d57/_scanor_8hpp.html#ae9985183725e9354913756c7f86d355a" title="create a DAMM 1D histogram args are damm id, half&#45;words per channel, param length, hist length, low x&#45;range, high x&#45;range, and title " alt="" coords="892,107,949,133"/>
+</map>

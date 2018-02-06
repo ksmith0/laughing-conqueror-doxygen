@@ -1,0 +1,29 @@
+<map id="XiaData::GetEnergy" name="XiaData::GetEnergy">
+<area shape="rect" id="node2" href="$de/d91/class_detector_driver.html#a2ae4e98c641d49183631eceb40dc19bb" title="Check threshold and calibrate each channel. Check the thresholds and calibrate the energy for each ch..." alt="" coords="192,134,391,161"/>
+<area shape="rect" id="node5" href="$de/d91/class_detector_driver.html#a7f2a28ba2a756e034e38630a5e258309" title="DetectorDriver::PlotRaw" alt="" coords="964,64,1129,90"/>
+<area shape="rect" id="node9" href="$d5/da6/class_event_reader_unpacker.html#af48d90005d811fd86e70ff0660b7fe4b" title="EventReaderUnpacker\l::AddEvent" alt="" coords="214,267,369,308"/>
+<area shape="rect" id="node14" href="$d6/d4e/class_hen3_processor.html#a12510344f12aa28fb4de00c28569995f" title="Hen3Processor::Process" alt="" coords="207,338,375,365"/>
+<area shape="rect" id="node16" href="$d0/d48/class_hist_scanner_chan_data.html#a54d9449f072b091c776adafbce18c5a0" title="HistScannerChanData::Set" alt="" coords="201,394,382,421"/>
+<area shape="rect" id="node20" href="$df/df5/class_implant_ssd_processor.html#a4633fc3b34a8e8915713dd8e1ba5666a" title="ImplantSsdProcessor\l::Process" alt="" coords="218,446,365,487"/>
+<area shape="rect" id="node22" href="$da/df0/unittest-_xia_list_mode_data_decoder_8cpp.html#a5dcb5a646f8b14ed9eb1fb70e145ccf4" title="TEST_FIXTURE" alt="" coords="231,512,352,538"/>
+<area shape="rect" id="node23" href="$d1/dd7/class_vandle_ornl2012_processor.html#a05b7477fad0d6614e01ca86cb9cff0bf" title="VandleOrnl2012Processor\l::Process" alt="" coords="205,563,378,604"/>
+<area shape="rect" id="node25" href="$d2/ddd/class_xia_data.html#a396219ec180ae84da5abaeb3e3f66357" title="Equality operator that compares checks if we have the same channel (i.e. the ID and Time are identica..." alt="" coords="221,630,361,657"/>
+<area shape="rect" id="node27" href="$df/d1a/class_xia_list_mode_data_encoder.html#af47f8f760f77ec4c94024a7681c25574" title="XiaListModeDataEncoder\l::EncodeWordThree" alt="" coords="206,683,377,724"/>
+<area shape="rect" id="node3" href="$de/d91/class_detector_driver.html#a19c152206c95dfbc2a98ffd1d002165e" title="Control of the event processing. " alt="" coords="449,165,647,192"/>
+<area shape="rect" id="node4" href="$de/d91/class_detector_driver.html#a3a556ab94a878e057dea8a081d0df55a" title="Plots into histogram defined by dammId. " alt="" coords="730,114,866,141"/>
+<area shape="rect" id="node7" href="$d4/d48/class_utk_unpacker.html#a09c96dd753088977aa1f458f7c07d24b" title="Process all events in the event list. " alt="" coords="939,216,1155,242"/>
+<area shape="rect" id="node6" href="$de/d91/class_detector_driver.html#ad966b8fe4330bb0cf117422b9bd08f40" title="DetectorDriver::PlotCal" alt="" coords="967,165,1126,192"/>
+<area shape="rect" id="node8" href="$d4/d48/class_utk_unpacker.html#a61ba5974ee476d5c3ab316b5b6759204" title="Add an event to generic statistics output. " alt="" coords="964,114,1129,141"/>
+<area shape="rect" id="node10" href="$d5/da6/class_event_reader_unpacker.html#a32b44b49d71c4f790512bd2abe8b7cbc" title="EventReaderUnpacker\l::ProcessRawEvent" alt="" coords="471,267,625,308"/>
+<area shape="rect" id="node11" href="$d5/da6/class_event_reader_unpacker.html#adb8a1bcd8677101a233eb7301285c7df" title="EventReaderUnpacker\l::SetShowTrace" alt="" coords="721,267,875,308"/>
+<area shape="rect" id="node12" href="$d5/de6/class_event_reader_interface.html#ac4aec11e30c0a01fbb0b87753b70ede2" title="EventReaderInterface\l::ExtraCommands" alt="" coords="972,267,1121,308"/>
+<area shape="rect" id="node13" href="$d5/de6/class_event_reader_interface.html#a566183e30124c460ac143ac22f0a9ac5" title="Destructor. " alt="" coords="1203,267,1368,308"/>
+<area shape="rect" id="node15" href="$d6/d4e/class_hen3_processor.html#a8ed35806e6801f6c8f1eb402525e2834" title="Hen3Processor::~Hen3Processor" alt="" coords="439,333,657,360"/>
+<area shape="rect" id="node17" href="$d0/d48/class_hist_scanner_chan_data.html#a82d5d06223b575c99b8c1ccf4a39a08d" title="HistScannerChanData\l::~HistScannerChanData" alt="" coords="463,384,633,426"/>
+<area shape="rect" id="node18" href="$d0/d4f/class_hist_unpacker.html#a9fe1102664592a667957f73feb98b0bf" title="Create a HistScannerChanData from the provided XiaData. " alt="" coords="465,450,631,477"/>
+<area shape="rect" id="node19" href="$d0/d4f/class_hist_unpacker.html#aff13db53afd16e00d86681802171768e" title="HistUnpacker::ProcessRaw\lEvent" alt="" coords="705,443,891,484"/>
+<area shape="rect" id="node21" href="$df/df5/class_implant_ssd_processor.html#a057e44029967a209fc626811e2ba4412" title="ImplantSsdProcessor\l::~ImplantSsdProcessor" alt="" coords="467,502,629,543"/>
+<area shape="rect" id="node24" href="$d1/dd7/class_vandle_ornl2012_processor.html#a394c47ec126f1be6ca5ef7dc5ce305d1" title="VandleOrnl2012Processor\l::~VandleOrnl2012Processor" alt="" coords="453,567,643,608"/>
+<area shape="rect" id="node26" href="$d2/ddd/class_xia_data.html#a4c19b3f33b1b30e40958f21e52b2579d" title="The conjugate of the equality operator. " alt="" coords="480,633,616,660"/>
+<area shape="rect" id="node28" href="$df/d1a/class_xia_list_mode_data_encoder.html#a122e039afbbef6a4ed4258544ec46a18" title="Default destructor. " alt="" coords="455,684,641,726"/>
+</map>

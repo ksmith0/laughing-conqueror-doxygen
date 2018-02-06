@@ -1,0 +1,22 @@
+<map id="PixieInterface::ReadSglChanPar" name="PixieInterface::ReadSglChanPar">
+<area shape="rect" id="node2" href="$db/d9f/param_scan_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="A program. " alt="" coords="597,5,647,32"/>
+<area shape="rect" id="node3" href="$d9/dc6/class_pixie_interface.html#aed6aa4fe372ef3e1e658915fb7cd3885" title="PixieInterface::PrintSgl\lChanPar" alt="" coords="293,353,449,394"/>
+<area shape="rect" id="node4" href="$d0/d6f/class_bit_flipper.html#ab50f1ee20e65a21b00b7cf905e16b294" title="BitFlipper::operator()" alt="" coords="552,56,692,83"/>
+<area shape="rect" id="node17" href="$d9/dc6/class_pixie_interface.html#aeeb829ac5910cc009fbd47972d691739" title="PixieInterface::TogglePolarity" alt="" coords="525,832,719,859"/>
+<area shape="rect" id="node18" href="$d9/dc6/class_pixie_interface.html#a448ef741698cfdc9e48dc47bd4639070" title="PixieInterface::ToggleChannelBit" alt="" coords="264,680,477,707"/>
+<area shape="rect" id="node21" href="$d5/dac/class_parameter_channel_dumper.html#abaca99afb5e123d2996a085af7f43218" title="ParameterChannelDumper\l::operator()" alt="" coords="283,782,459,823"/>
+<area shape="rect" id="node5" href="$d9/dfc/class_parameter_channel_reader.html#a1e0d0b7665a5dfd154d3f25e55e69d3b" title="ParameterChannelReader\l::operator()" alt="" coords="536,563,708,605"/>
+<area shape="rect" id="node6" href="$dc/d5b/class_offset_adjuster.html#ae50267b0040dcaee357035469c93d13e" title="OffsetAdjuster::operator()" alt="" coords="537,107,707,133"/>
+<area shape="rect" id="node7" href="$d3/d42/class_hybrid_setter.html#a07b28f916c96faede61aff1bddd033d7" title="HybridSetter::operator()" alt="" coords="543,157,701,184"/>
+<area shape="rect" id="node8" href="$de/d44/class_catcher_setter.html#a820ee6f97299901120144b76280733e2" title="CatcherSetter::operator()" alt="" coords="539,208,705,235"/>
+<area shape="rect" id="node9" href="$d6/dea/class_rejection_setter.html#a9eae57ed216131a3019cf8ba2b58f78f" title="RejectionSetter::operator()" alt="" coords="535,309,709,336"/>
+<area shape="rect" id="node10" href="$d5/dd7/class_standard_setter.html#ab88aeb735edac44d25880f7129a3cf98" title="StandardSetter::operator()" alt="" coords="536,360,708,387"/>
+<area shape="rect" id="node11" href="$d2/dbc/class_catcher_toggler.html#a7743016f7de84bd601de5867cbb87766" title="CatcherToggler::operator()" alt="" coords="535,411,709,437"/>
+<area shape="rect" id="node12" href="$d2/dc4/class_gain_toggler.html#a76d007d56b6b5c7aff8198b75247d7b4" title="GainToggler::operator()" alt="" coords="775,469,930,496"/>
+<area shape="rect" id="node13" href="$d2/dee/class_good_toggler.html#a9d0e33e2af3d0430c65f155e5c9004a5" title="GoodToggler::operator()" alt="" coords="773,680,932,707"/>
+<area shape="rect" id="node14" href="$d2/d12/class_pileup_toggler.html#a4a474b11899af53a645f8eb4a6ebb157" title="PileupToggler::operator()" alt="" coords="540,461,704,488"/>
+<area shape="rect" id="node15" href="$d3/dc6/class_polarity_toggler.html#a6705a25308576912ce1c8d5b0fa73d58" title="PolarityToggler::operator()" alt="" coords="767,807,939,833"/>
+<area shape="rect" id="node16" href="$d9/d11/class_trace_toggler.html#a92b3af3424ebf4f404beb862eeed53b3" title="TraceToggler::operator()" alt="" coords="541,512,703,539"/>
+<area shape="rect" id="node19" href="$d9/dc6/class_pixie_interface.html#ae66119213d67fc56d52553b4617e9621" title="PixieInterface::ToggleGain" alt="" coords="534,680,710,707"/>
+<area shape="rect" id="node20" href="$d9/dc6/class_pixie_interface.html#ad3fd214177f74ad393e0892d4e57e67e" title="PixieInterface::ToggleGood" alt="" coords="532,731,712,757"/>
+</map>

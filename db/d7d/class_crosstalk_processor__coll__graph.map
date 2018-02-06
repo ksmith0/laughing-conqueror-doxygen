@@ -1,0 +1,15 @@
+<map id="CrosstalkProcessor" name="CrosstalkProcessor">
+<area shape="rect" id="node2" href="$db/d21/class_vandle_processor.html" title="Class to process VANDLE related events. " alt="" coords="2221,271,2343,297"/>
+<area shape="rect" id="node3" href="$d6/d65/class_event_processor.html" title="Class to handle event processing. " alt="" coords="1925,531,2039,557"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="933,531,1013,557"/>
+<area shape="rect" id="node8" href="$da/d8d/class_detector_summary.html" title="DetectorSummary" alt="" coords="1187,255,1315,281"/>
+<area shape="rect" id="node16" href="$d7/d8b/class_plots.html" title="Holds pointers to all Histograms. " alt="" coords="1530,531,1582,557"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="649,523,776,565"/>
+<area shape="rect" id="node9" href="$d5/d91/class_chan_event.html" title="A channel event. " alt="" coords="669,176,756,203"/>
+<area shape="rect" id="node23" href="$d7/d61/class_high_res_timing_data.html" title="HighResTimingData" alt="" coords="1181,143,1321,169"/>
+<area shape="rect" id="node10" href="$df/d3c/class_processed_xia_data.html" title="ProcessedXiaData" alt="" coords="469,176,600,203"/>
+<area shape="rect" id="node11" href="$d2/ddd/class_xia_data.html" title="A pixie16 channel event. " alt="" coords="311,205,380,232"/>
+<area shape="rect" id="node13" href="$dd/db7/class_trace.html" title="This defines a more extensible implementation of a digitized trace. The class is derived from a vecto..." alt="" coords="318,125,373,152"/>
+<area shape="rect" id="node18" href="$d7/d6e/class_plots_register.html" title="Holds ranges and offsets of all plots. Singleton class. " alt="" coords="1200,344,1301,371"/>
+<area shape="rect" id="node25" href="$d6/d15/class_bar_detector.html" title="A class to handle detectors that have two readouts viewing the same volume. " alt="" coords="1510,207,1602,233"/>
+</map>

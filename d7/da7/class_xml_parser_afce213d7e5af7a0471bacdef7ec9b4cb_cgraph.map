@@ -1,0 +1,6 @@
+<map id="XmlParser::~XmlParser" name="XmlParser::~XmlParser">
+<area shape="rect" id="node2" href="$d7/da7/class_xml_parser.html#afb78b0f0439e77c8f35ec73bcbf2c7ac" title="XmlParser::ParseNode" alt="" coords="243,5,399,32"/>
+<area shape="rect" id="node3" href="$d7/da7/class_xml_parser.html#a62cac0bb9045db59b5e0a1fac2d2efc3" title="XmlParser::CriticalNodeMessage" alt="" coords="213,56,429,83"/>
+<area shape="rect" id="node4" href="$d7/da7/class_xml_parser.html#a1e74ac114a5d236490e81ecd51605567" title="XmlParser::CriticalAttribute\lMessage" alt="" coords="231,107,412,149"/>
+<area shape="rect" id="node5" href="$d7/da7/class_xml_parser.html#ac31d974703b9cdcb0ad03d9da5945976" title="This method simply warns the user of extraneous information that was contained in the node..." alt="" coords="226,173,417,214"/>
+</map>

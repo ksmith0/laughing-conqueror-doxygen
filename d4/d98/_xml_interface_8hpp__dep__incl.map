@@ -1,0 +1,11 @@
+<map id="XmlInterface.hpp" name="XmlInterface.hpp">
+<area shape="rect" id="node2" href="$d0/d31/_unpacker_8cpp.html" title="A class to handle the unpacking of UTK/ORNL style pixie16 data spills. " alt="" coords="5,80,108,107"/>
+<area shape="rect" id="node3" href="$dc/d67/_detector_driver_xml_parser_8cpp.html" title="Class to parse the DetectorDriver node. " alt="" coords="132,80,325,107"/>
+<area shape="rect" id="node4" href="$db/dc6/_globals_xml_parser_8cpp.html" title="Class to parse nodes needed for the Global&#39;s class from utkscan&#39;s configuration file. " alt="" coords="350,80,502,107"/>
+<area shape="rect" id="node5" href="$d2/d62/_map_node_xml_parser_8cpp.html" title="Class to parse the Map node in the utkscan configuration file. " alt="" coords="527,80,691,107"/>
+<area shape="rect" id="node6" href="$d6/d26/_timing_calibrator_8cpp.html" title="A class to handle the timing calibration parameters. " alt="" coords="715,80,857,107"/>
+<area shape="rect" id="node7" href="$d5/dd1/_tree_correlator_xml_parser_8cpp.html" title="Class that handles parsing the TreeCorrelator node. " alt="" coords="881,80,1072,107"/>
+<area shape="rect" id="node8" href="$d6/d72/_utk_scan_interface_8cpp.html" title="Derived class handling the interface with utkscan. " alt="" coords="1097,80,1246,107"/>
+<area shape="rect" id="node9" href="$d4/ddf/_notebook_8cpp.html" title="Notebook.cpp" alt="" coords="1271,80,1373,107"/>
+<area shape="rect" id="node10" href="$d1/d47/_xml_interface_8cpp.html" title="Singleton class that handles opening and closing XML files using pugixml. " alt="" coords="1397,80,1519,107"/>
+</map>

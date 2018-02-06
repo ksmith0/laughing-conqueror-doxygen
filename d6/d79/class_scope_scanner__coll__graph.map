@@ -1,0 +1,38 @@
+<map id="ScopeScanner" name="ScopeScanner">
+<area shape="rect" id="node2" href="$d7/dfc/class_scan_interface.html" title="ScanInterface" alt="" coords="1846,687,1949,713"/>
+<area shape="rect" id="node3" href="$d0/d15/class_p_l_d__data.html" title="The DATA buffer contains all physics data within the .pld file. " alt="" coords="1504,821,1584,848"/>
+<area shape="rect" id="node4" href="$d4/d57/class_buffer_type.html" title="BufferType" alt="" coords="1107,861,1193,888"/>
+<area shape="rect" id="node18" href="$d6/d4e/class_e_o_f__buffer.html" title="A single EOF buffer signals the end of a run (pacman .ldf format). A double EOF signals the end of th..." alt="" coords="1499,872,1589,899"/>
+<area shape="rect" id="node34" href="$d2/deb/class_d_i_r__buffer.html" title="DIR_buffer" alt="" coords="1501,923,1587,949"/>
+<area shape="rect" id="node35" href="$de/deb/class_p_l_d__header.html" title="The pld header contains information about the run including the date/time, the title, and the run number. " alt="" coords="1497,973,1591,1000"/>
+<area shape="rect" id="node38" href="$d0/dff/class_d_a_t_a__buffer.html" title="DATA_buffer" alt="" coords="1495,669,1593,696"/>
+<area shape="rect" id="node39" href="$d8/d68/class_h_e_a_d__buffer.html" title="HEAD_buffer" alt="" coords="1494,771,1594,797"/>
+<area shape="rect" id="node5" href="$dc/db6/class_server.html" title="Server" alt="" coords="1514,241,1574,268"/>
+<area shape="rect" id="node6" href="$d2/de8/class_unpacker.html" title="Unpacker" alt="" coords="1505,1176,1583,1203"/>
+<area shape="rect" id="node40" href="$d0/d1e/class_scope_unpacker.html" title="Class that handles unpacking data and process for use with scope. " alt="" coords="1840,1303,1955,1329"/>
+<area shape="rect" id="node9" href="$d2/ddd/class_xia_data.html" title="A pixie16 channel event. " alt="" coords="549,1385,618,1412"/>
+<area shape="rect" id="node46" href="$df/d3c/class_processed_xia_data.html" title="ProcessedXiaData" alt="" coords="773,1385,904,1412"/>
+<area shape="rect" id="node47" href="$dd/db7/class_trace.html" title="This defines a more extensible implementation of a digitized trace. The class is derived from a vecto..." alt="" coords="556,1281,611,1308"/>
+<area shape="rect" id="node11" href="$dc/d76/class_xia_list_mode_data_mask.html" title="XiaListModeDataMask" alt="" coords="1073,1209,1227,1236"/>
+<area shape="rect" id="node15" href="$d4/d23/classoption_ext.html" title="optionExt" alt="" coords="1111,745,1189,772"/>
+<area shape="rect" id="node16" title="STL class. " alt="" coords="799,480,879,507"/>
+<area shape="rect" id="node23" href="$dc/d46/class_terminal.html" title="Terminal" alt="" coords="1508,292,1580,319"/>
+<area shape="rect" id="node25" href="$d2/d2e/class_command_holder.html" title="CommandHolder" alt="" coords="1090,197,1210,224"/>
+<area shape="rect" id="node17" title="STL class. " alt="" coords="520,473,647,514"/>
+<area shape="rect" id="node19" title="STL class. " alt="" coords="946,24,1041,51"/>
+<area shape="rect" id="node20" title="STL class. " alt="" coords="517,11,650,53"/>
+<area shape="rect" id="node21" title="STL class. " alt="" coords="219,35,348,77"/>
+<area shape="rect" id="node28" title="STL class. " alt="" coords="515,77,651,118"/>
+<area shape="rect" id="node22" title="STL class. " alt="" coords="5,72,160,99"/>
+<area shape="rect" id="node29" title="STL class. " alt="" coords="217,101,350,142"/>
+<area shape="rect" id="node26" title="STL class. " alt="" coords="1090,84,1210,111"/>
+<area shape="rect" id="node27" title="STL class. " alt="" coords="759,77,918,118"/>
+<area shape="rect" id="node31" title="STL class. " alt="" coords="515,142,652,183"/>
+<area shape="rect" id="node30" title="STL class. " alt="" coords="944,139,1043,165"/>
+<area shape="rect" id="node36" href="$d1/db0/classfile_information.html" title="fileInformation" alt="" coords="1492,395,1596,421"/>
+<area shape="rect" id="node41" href="$d1/de7/class_csi_function.html" title="CsiFunction" alt="" coords="1498,1441,1590,1468"/>
+<area shape="rect" id="node42" href="$d5/d1e/class_em_cal_timing_function.html" title="EmCalTimingFunction" alt="" coords="1469,1492,1619,1519"/>
+<area shape="rect" id="node43" href="$de/d80/class_crystal_ball_function.html" title="CrystalBallFunction" alt="" coords="1476,1543,1612,1569"/>
+<area shape="rect" id="node44" href="$dc/dea/class_si_pmt_fast_timing_function.html" title="SiPmtFastTimingFunction" alt="" coords="1457,1227,1631,1253"/>
+<area shape="rect" id="node50" href="$de/d80/class_vandle_timing_function.html" title="VandleTimingFunction" alt="" coords="1469,1277,1619,1304"/>
+</map>

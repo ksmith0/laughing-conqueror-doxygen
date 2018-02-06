@@ -1,0 +1,8 @@
+<map id="ScanInterface" name="ScanInterface">
+<area shape="rect" id="node2" href="$d5/de6/class_event_reader_interface.html" title="EventReaderInterface" alt="" coords="156,5,305,32"/>
+<area shape="rect" id="node3" href="$d0/db3/class_hist_scanner.html" title="HistScanner" alt="" coords="183,56,278,83"/>
+<area shape="rect" id="node4" href="$df/d33/class_root_scanner.html" title="RootScanner" alt="" coords="181,107,280,133"/>
+<area shape="rect" id="node5" href="$dd/dec/class_scope_scanner.html" title="ScopeScanner" alt="" coords="177,157,284,184"/>
+<area shape="rect" id="node6" href="$de/dab/class_skeleton_interface.html" title="SkeletonInterface" alt="" coords="169,208,293,235"/>
+<area shape="rect" id="node7" href="$db/d6c/class_utk_scan_interface.html" title="Class derived from ScanInterface to handle UI for the scan. " alt="" coords="169,259,293,285"/>
+</map>

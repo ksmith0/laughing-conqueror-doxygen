@@ -1,0 +1,6 @@
+<map id="TEST" name="TEST">
+<area shape="rect" id="node2" href="$d2/ddd/class_xia_data.html#a4d60bfdab03855cc0b2a0a55e484bf88" title="Initialize all variables and set them to some default values. " alt="" coords="126,5,251,32"/>
+<area shape="rect" id="node3" href="$d2/ddd/class_xia_data.html#a45189c3a5409a4f6e1edddf46f78d402" title="Sets the calculated arrival time of the signal. " alt="" coords="125,56,252,83"/>
+<area shape="rect" id="node4" href="$d2/ddd/class_xia_data.html#ab474bcbc4813df18a20e015c76df8db7" title="A method that will compare the times of two XiaData classes this method can be used in conjunction wi..." alt="" coords="109,107,268,133"/>
+<area shape="rect" id="node5" href="$d2/ddd/class_xia_data.html#ac11c489cabed7180f6516d724d387a56" title="XiaData::GetTime" alt="" coords="316,107,443,133"/>
+</map>

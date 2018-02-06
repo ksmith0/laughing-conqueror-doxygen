@@ -1,0 +1,13 @@
+<map id="TreeCorrelator::buildTree" name="TreeCorrelator::buildTree">
+<area shape="rect" id="node2" href="$d6/dc9/class_messenger.html#a1b47ad62ebac8fdafd2d7a2d8ee7b642" title="Messenger::start" alt="" coords="243,46,363,73"/>
+<area shape="rect" id="node6" href="$da/dde/class_tree_correlator_xml_parser.html#a74f49bab1bb08549b54300beb5ba2933" title="TreeCorrelatorXmlParser\l::ParseNode" alt="" coords="220,119,387,160"/>
+<area shape="rect" id="node12" href="$d6/dc9/class_messenger.html#a40a7e53a9b6dc5ef161c2ffd5d6bbbfb" title="Messenger::done" alt="" coords="242,185,365,211"/>
+<area shape="rect" id="node3" href="$d6/dc9/class_messenger.html#a24d0db0aece5830b3de62310f5753be8" title="Messenger::detail" alt="" coords="699,25,824,51"/>
+<area shape="rect" id="node4" href="$d6/dc9/class_messenger.html#a130e83285254c9149629842ca2aa6f20" title="Messenger::warning" alt="" coords="458,25,597,51"/>
+<area shape="rect" id="node5" href="$d6/dc9/class_messenger.html#a770167e668ce59153a05f61a30b548b0" title="Messenger::run_message" alt="" coords="441,75,613,102"/>
+<area shape="rect" id="node7" href="$d1/df9/class_xml_interface.html#a5a437bc25ac0f9ecc65cdebf6c664ad0" title="XmlInterface::get" alt="" coords="466,126,589,153"/>
+<area shape="rect" id="node9" href="$d1/df9/class_xml_interface.html#a3c935eddf6f5905cf461c1cef806e38a" title="XmlInterface::GetDocument" alt="" coords="435,177,620,203"/>
+<area shape="rect" id="node8" href="$d1/df9/class_xml_interface.html#a9924d1a9f16987091b58c70ed13a5718" title="XmlInterface::XmlInterface" alt="" coords="672,126,851,153"/>
+<area shape="rect" id="node10" href="$d1/df9/class_xml_interface.html#a9326df5bd548bd9a40b62dee6a2e3025" title="Default destructor that deletes the instance when its called. " alt="" coords="668,177,855,203"/>
+<area shape="rect" id="node11" href="$d1/df9/class_xml_interface.html#ac853fae42b1b3446a00a0d37e50d670d" title="copy constructor " alt="" coords="682,227,841,254"/>
+</map>

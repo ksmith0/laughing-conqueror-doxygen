@@ -1,0 +1,34 @@
+<map id="ProcessedXiaData::GetHighResTimeInNs" name="ProcessedXiaData::GetHighResTimeInNs">
+<area shape="rect" id="node2" href="$d2/daa/class_anl1471_processor.html#ae0e82aa964d24549afd9d17f1a136fc2" title="Anl1471Processor::Process" alt="" coords="745,513,929,540"/>
+<area shape="rect" id="node3" href="$d6/d15/class_bar_detector.html#a46a524d7d5a55c4863ba4bb1f1822b12" title="BarDetector::GetTimeAverage" alt="" coords="499,649,697,676"/>
+<area shape="rect" id="node8" href="$d6/d15/class_bar_detector.html#a9aeef4ac770dad5953229e9aacb5b32c" title="BarDetector::GetTimeDifference" alt="" coords="240,345,451,372"/>
+<area shape="rect" id="node20" href="$de/d91/class_detector_driver.html#a2ae4e98c641d49183631eceb40dc19bb" title="Check threshold and calibrate each channel. Check the thresholds and calibrate the energy for each ch..." alt="" coords="246,857,445,884"/>
+<area shape="rect" id="node27" href="$d7/d61/class_high_res_timing_data.html#ae030857390e4ad2262e30f896c9f03b3" title="HighResTimingData::\lGetTraceQdc" alt="" coords="271,586,419,627"/>
+<area shape="rect" id="node30" href="$d7/d6b/class_liquid_scint_processor.html#a6e1f7662a1362e5c14275c9a13388231" title="LiquidScintProcessor\l::Process" alt="" coords="525,700,671,742"/>
+<area shape="rect" id="node32" href="$d3/d5e/class_teeny_vandle_processor.html#a01b193b7a00b5bbc2d0b35ccc0f34d82" title="TeenyVandleProcessor\l::PreProcess" alt="" coords="519,766,677,807"/>
+<area shape="rect" id="node4" href="$d1/dd7/class_vandle_ornl2012_processor.html#a05b7477fad0d6614e01ca86cb9cff0bf" title="VandleOrnl2012Processor\l::Process" alt="" coords="751,396,924,438"/>
+<area shape="rect" id="node6" href="$d0/d80/class_walk_vandle_beta_processor.html#a191e1076d68a81dde827459dd3374124" title="WalkVandleBetaProcessor\l::Process" alt="" coords="1241,351,1420,392"/>
+<area shape="rect" id="node5" href="$d1/dd7/class_vandle_ornl2012_processor.html#a394c47ec126f1be6ca5ef7dc5ce305d1" title="VandleOrnl2012Processor\l::~VandleOrnl2012Processor" alt="" coords="991,396,1180,438"/>
+<area shape="rect" id="node7" href="$d0/d80/class_walk_vandle_beta_processor.html#a4b72d8b893fa03ac656780d152640428" title="WalkVandleBetaProcessor\l::~WalkVandleBetaProcessor" alt="" coords="1468,351,1663,392"/>
+<area shape="rect" id="node9" href="$d6/d15/class_bar_detector.html#acf303af2c5fd9805ae39900a7bb733c8" title="BarDetector::GetHasEvent" alt="" coords="509,345,687,372"/>
+<area shape="rect" id="node15" href="$d6/d15/class_bar_detector.html#a0a587a54d41b2fc35fd1474bc1adadf7" title="BarDetector::GetFlightPath" alt="" coords="508,244,688,270"/>
+<area shape="rect" id="node10" href="$de/d81/class_i_s600_processor.html#a92f29e9c021fffb08f02bf48d12aff42" title="IS600Processor::Process" alt="" coords="752,294,923,321"/>
+<area shape="rect" id="node11" href="$db/d21/class_vandle_processor.html#ac50169b4e140313d1a5a2ce6032dc6af" title="VandleProcessor::Process" alt="" coords="997,189,1174,216"/>
+<area shape="rect" id="node12" href="$de/d3c/class_crosstalk_processor.html#a641e3912de9f8d9f2a9bf4e902429723" title="CrosstalkProcessor\l::Process" alt="" coords="1262,150,1399,191"/>
+<area shape="rect" id="node14" href="$db/d21/class_vandle_processor.html#adeb801d12cbeb4a4426b7d2f5ee522cd" title="Default Destructor */. " alt="" coords="1242,215,1419,256"/>
+<area shape="rect" id="node13" href="$de/d3c/class_crosstalk_processor.html#a974ad94596916e6d24e863dcbec1058c" title="CrosstalkProcessor\l::~CrosstalkProcessor" alt="" coords="1489,150,1642,191"/>
+<area shape="rect" id="node16" href="$d6/d15/class_bar_detector.html#afa70f2dd3ea8193bdfd61fdc015359c5" title="BarDetector::GetTheta" alt="" coords="760,61,915,88"/>
+<area shape="rect" id="node17" href="$db/d21/class_vandle_processor.html#a0110c42a30912f6c299770a8d7bb2283" title="Analyze the data for scenarios with Bar Starts; e.g. Double Beta detectors. " alt="" coords="749,178,925,219"/>
+<area shape="rect" id="node19" href="$db/d21/class_vandle_processor.html#abf7e3570d321d098ef154bbe937821dc" title="Analyze the data for scenarios with Single sided Starts; e.g. LeRIBSS beta scintillators. " alt="" coords="749,112,925,154"/>
+<area shape="rect" id="node18" href="$db/d21/class_vandle_processor.html#a186633b14ff6be88a7ef5c0e1a646ae2" title="VandleProcessor::GetHasBig" alt="" coords="989,129,1182,156"/>
+<area shape="rect" id="node21" href="$de/d91/class_detector_driver.html#a19c152206c95dfbc2a98ffd1d002165e" title="Control of the event processing. " alt="" coords="499,920,697,946"/>
+<area shape="rect" id="node22" href="$de/d91/class_detector_driver.html#a3a556ab94a878e057dea8a081d0df55a" title="Plots into histogram defined by dammId. " alt="" coords="769,882,905,909"/>
+<area shape="rect" id="node25" href="$d4/d48/class_utk_unpacker.html#a09c96dd753088977aa1f458f7c07d24b" title="Process all events in the event list. " alt="" coords="977,984,1193,1010"/>
+<area shape="rect" id="node23" href="$de/d91/class_detector_driver.html#a7f2a28ba2a756e034e38630a5e258309" title="DetectorDriver::PlotRaw" alt="" coords="1003,832,1168,858"/>
+<area shape="rect" id="node24" href="$de/d91/class_detector_driver.html#ad966b8fe4330bb0cf117422b9bd08f40" title="DetectorDriver::PlotCal" alt="" coords="1006,933,1165,960"/>
+<area shape="rect" id="node26" href="$d4/d48/class_utk_unpacker.html#a61ba5974ee476d5c3ab316b5b6759204" title="Add an event to generic statistics output. " alt="" coords="1003,882,1168,909"/>
+<area shape="rect" id="node28" href="$d6/d15/class_bar_detector.html#a425dd8e2c5639358fa9728dfcc90b35e" title="BarDetector::GetQdc" alt="" coords="525,294,671,321"/>
+<area shape="rect" id="node29" href="$d6/d15/class_bar_detector.html#afbfc72aea4d7b48838f3f8fff5a619e2" title="BarDetector::GetQdcPosition" alt="" coords="502,548,694,574"/>
+<area shape="rect" id="node31" href="$d7/d6b/class_liquid_scint_processor.html#a4d89e8c3779a6903973b8313b063ceb1" title="LiquidScintProcessor\l::~LiquidScintProcessor" alt="" coords="757,700,918,742"/>
+<area shape="rect" id="node33" href="$d3/d5e/class_teeny_vandle_processor.html#ace84b3cc48debac1892f4fa954adafbd" title="TeenyVandleProcessor\l::~TeenyVandleProcessor" alt="" coords="751,766,924,807"/>
+</map>

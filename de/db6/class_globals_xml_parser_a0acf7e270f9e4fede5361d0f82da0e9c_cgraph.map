@@ -1,0 +1,10 @@
+<map id="GlobalsXmlParser::ParseGlobalNode" name="GlobalsXmlParser::ParseGlobalNode">
+<area shape="rect" id="node2" href="$d3/daf/class_globals.html#a45fdfe5c41c53b4bfb11c6c4e9e310af" title="Globals::SetAdcClockInSeconds" alt="" coords="291,5,504,32"/>
+<area shape="rect" id="node3" href="$d3/daf/class_globals.html#ac57d1163cc4001aac448156d47717fd6" title="Globals::SetClockInSeconds" alt="" coords="302,56,493,83"/>
+<area shape="rect" id="node4" href="$d3/daf/class_globals.html#a0257b8597df1d35ddafb24c2942d32af" title="Globals::SetFilterClockIn\lSeconds" alt="" coords="313,107,481,149"/>
+<area shape="rect" id="node5" href="$dd/df8/namespace_conversions.html#aba151872fb6ae6118a05a25e7e3ce0d2" title="Conversions::ConvertSeconds\lWithPrefix" alt="" coords="297,173,497,214"/>
+<area shape="rect" id="node6" href="$d3/daf/class_globals.html#af82b665a21c71b13eb649018c7abc066" title="Globals::SetEventLengthIn\lSeconds" alt="" coords="308,238,487,279"/>
+<area shape="rect" id="node7" href="$d3/daf/class_globals.html#aef7d30aac718907bfdafc99ae5ed2995" title="Globals::SetEventLengthIn\lTicks" alt="" coords="308,303,487,345"/>
+<area shape="rect" id="node8" href="$d3/daf/class_globals.html#a02ea3605db675e1c5504de0ff317d16b" title="Globals::GetClockInSeconds" alt="" coords="302,369,493,396"/>
+<area shape="rect" id="node9" href="$d3/daf/class_globals.html#a9c861c5bd863bfaa535f0e536bd7a81a" title="Globals::SetHasRawHistograms\lDefined" alt="" coords="291,421,503,462"/>
+</map>

@@ -1,0 +1,8 @@
+<map id="Places.hpp" name="Places.hpp">
+<area shape="rect" id="node7" href="$d4/d9c/_globals_8hpp.html" title="constant parameters used in pixie16 analysis " alt="" coords="578,155,669,181"/>
+<area shape="rect" id="node21" href="$dd/d77/_event_data_8hpp.html" title="Structure holding event data. " alt="" coords="569,80,678,107"/>
+<area shape="rect" id="node14" href="$dc/d77/_constants_8hpp.html" title="A header that contains various useful constants for the software. " alt="" coords="626,229,733,256"/>
+<area shape="rect" id="node15" href="$df/dd4/_paass_exceptions_8hpp.html" title="Class to handle errors occurring during the execution of the code This file will break with the One&#45;C..." alt="" coords="850,304,999,331"/>
+<area shape="rect" id="node17" href="$d0/db0/_messenger_8hpp.html" title="A class to handle messages and output them prettily. " alt="" coords="757,229,868,256"/>
+<area shape="rect" id="node20" href="$dd/d48/_trap_filter_parameters_8hpp.html" title="A class to hold parameters for a trapezoidal filter in units of ns. " alt="" coords="944,229,1113,256"/>
+</map>

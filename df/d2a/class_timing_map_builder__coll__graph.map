@@ -1,0 +1,7 @@
+<map id="TimingMapBuilder" name="TimingMapBuilder">
+<area shape="rect" id="node3" href="$d7/d61/class_high_res_timing_data.html" title="HighResTimingData" alt="" coords="25,424,165,451"/>
+<area shape="rect" id="node4" href="$d5/d91/class_chan_event.html" title="A channel event. " alt="" coords="51,348,138,375"/>
+<area shape="rect" id="node5" href="$df/d3c/class_processed_xia_data.html" title="ProcessedXiaData" alt="" coords="29,272,160,299"/>
+<area shape="rect" id="node6" href="$d2/ddd/class_xia_data.html" title="A pixie16 channel event. " alt="" coords="8,183,77,209"/>
+<area shape="rect" id="node8" href="$dd/db7/class_trace.html" title="This defines a more extensible implementation of a digitized trace. The class is derived from a vecto..." alt="" coords="109,183,163,209"/>
+</map>

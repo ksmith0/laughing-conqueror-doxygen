@@ -1,0 +1,18 @@
+<map id="XiaListModeDataDecoder::DecodeWordTwo" name="XiaListModeDataDecoder::DecodeWordTwo">
+<area shape="rect" id="node2" href="$d2/ddd/class_xia_data.html#a45331d8c7bdbf63d63ffea2ba63be992" title="Sets the upper 16 bits of the event time. " alt="" coords="238,30,425,57"/>
+<area shape="rect" id="node3" href="$dc/d76/class_xia_list_mode_data_mask.html#a222b7a8ecedae77bc02983ca8188737c" title="XiaListModeDataMask\l::GetEventTimeHighMask" alt="" coords="245,233,418,275"/>
+<area shape="rect" id="node4" href="$dc/d76/class_xia_list_mode_data_mask.html#ab05d349699cfa7a43061185fb90c87f7" title="XiaListModeDataMask\l::GetCfdFractionalTimeMask" alt="" coords="503,5,694,47"/>
+<area shape="rect" id="node5" href="$dc/d76/class_xia_list_mode_data_mask.html#a4b442bc0e5bee8451b1ca9c957ab7aaf" title="XiaListModeDataMask\l::GetCfdForcedTriggerBitMask" alt="" coords="499,71,699,112"/>
+<area shape="rect" id="node6" href="$dc/d76/class_xia_list_mode_data_mask.html#a5d45fb51176b0e7bf43305a4c1b93a27" title="XiaListModeDataMask\l::GetCfdTriggerSourceMask" alt="" coords="506,136,691,177"/>
+<area shape="rect" id="node15" href="$d2/ddd/class_xia_data.html#a2fb79f7dfa42667662beb53077f65901" title="Sets the CFD fractional time calculated on&#45;board. " alt="" coords="229,299,433,326"/>
+<area shape="rect" id="node16" href="$d2/ddd/class_xia_data.html#a62f4ab8b5f3ad7f4777e0d71dd38161d" title="This value is set to true if the CFD was forced to trigger. " alt="" coords="224,350,439,377"/>
+<area shape="rect" id="node17" href="$d2/ddd/class_xia_data.html#a09b3bd46f276c9ed79103c91499c861c" title="Sets the CFD trigger source. " alt="" coords="224,401,439,427"/>
+<area shape="rect" id="node7" href="$dc/d76/class_xia_list_mode_data_mask.html#af207eba9f8d0988d96e86bdf93a9dba7" title="XiaListModeDataMask\l::GetCfdSize" alt="" coords="521,267,676,308"/>
+<area shape="rect" id="node8" href="$dc/d76/class_xia_list_mode_data_mask.html#a95d262e1a63fef2aed61c74ab7313f87" title="XiaListModeDataMask\l::GetEventEnergyMask" alt="" coords="519,332,678,373"/>
+<area shape="rect" id="node9" href="$dc/d76/class_xia_list_mode_data_mask.html#aadab788be8d955f5162213aec5ef053e" title="XiaListModeDataMask\l::GetNumberOfBasicHeaderWords" alt="" coords="487,397,711,439"/>
+<area shape="rect" id="node10" href="$dc/d76/class_xia_list_mode_data_mask.html#a10cfe7418c0d2c2b8c3acd2725b98f74" title="XiaListModeDataMask\l::GetNumberOfEnergySumWords" alt="" coords="490,463,707,504"/>
+<area shape="rect" id="node11" href="$dc/d76/class_xia_list_mode_data_mask.html#ae7b6abea7530a613bcaf8467f77e3431" title="XiaListModeDataMask\l::GetNumberOfExternalTimestamp\lWords" alt="" coords="487,527,711,583"/>
+<area shape="rect" id="node12" href="$dc/d76/class_xia_list_mode_data_mask.html#a2636ba87b479c5d1351d181b6f7c82c2" title="XiaListModeDataMask\l::GetNumberOfQdcWords" alt="" coords="512,607,685,648"/>
+<area shape="rect" id="node13" href="$dc/d76/class_xia_list_mode_data_mask.html#a3216c3a9d30f2af79b0bfdceeba60fd6" title="XiaListModeDataMask\l::GetTraceOutOfRangeFlagMask" alt="" coords="491,672,706,713"/>
+<area shape="rect" id="node14" href="$dc/d76/class_xia_list_mode_data_mask.html#a437a6586ef2cfb504d1414e271c7f9d6" title="XiaListModeDataMask\l::GetTraceLengthMask" alt="" coords="521,201,676,243"/>
+</map>

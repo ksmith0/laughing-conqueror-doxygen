@@ -1,0 +1,21 @@
+<map id="MapNodeXmlParser.cpp" name="MapNodeXmlParser.cpp">
+<area shape="rect" id="node4" href="$d4/deb/_default_configuration_values_8hpp.html" title="DefaultConfigurationValues.hpp" alt="" coords="707,80,914,107"/>
+<area shape="rect" id="node5" href="$d2/d22/_helper_functions_8hpp.html" title="A file containing stand&#45;alone functions (only depend on standard C++ headers) that are used in the so..." alt="" coords="2561,453,2703,480"/>
+<area shape="rect" id="node15" href="$d8/d9e/_map_node_xml_parser_8hpp.html" title="Class to parse the Map node. " alt="" coords="495,229,659,256"/>
+<area shape="rect" id="node29" href="$db/d7c/_string_manipulation_functions_8hpp.html" title="A collection of functions to aid in string manipulations. " alt="" coords="2275,453,2485,480"/>
+<area shape="rect" id="node31" href="$d6/ded/_tree_correlator_8hpp.html" title="A class to handle complex correlations between various processors. " alt="" coords="1095,80,1225,107"/>
+<area shape="rect" id="node41" href="$df/d4b/_xml_interface_8hpp.html" title="Singleton class that handles opening and closing XML files using pugixml. " alt="" coords="894,304,1015,331"/>
+<area shape="rect" id="node18" href="$df/dbb/_calibrator_8hpp.html" title="Class to handle energy calibrations for the channels. " alt="" coords="378,379,481,405"/>
+<area shape="rect" id="node20" href="$d8/dd0/_channel_configuration_8hpp.html" title="Class that holds information about channel specific information. Including things like the trace dela..." alt="" coords="342,453,514,480"/>
+<area shape="rect" id="node23" href="$d6/d3a/_detector_library_8hpp.html" title="This is an extension of the vector of the channelConfigurations that was previously used..." alt="" coords="507,304,643,331"/>
+<area shape="rect" id="node24" href="$da/d18/_walk_corrector_8hpp.html" title="A Class to handle walk corrections for channels. " alt="" coords="612,379,743,405"/>
+<area shape="rect" id="node25" href="$d0/db0/_messenger_8hpp.html" title="A class to handle messages and output them prettily. " alt="" coords="1673,453,1783,480"/>
+<area shape="rect" id="node28" href="$d0/d79/_xml_parser_8hpp.html" title="Class to help parse nodes XML based files. " alt="" coords="374,304,482,331"/>
+<area shape="rect" id="node22" href="$dd/d48/_trap_filter_parameters_8hpp.html" title="A class to hold parameters for a trapezoidal filter in units of ns. " alt="" coords="531,528,701,555"/>
+<area shape="rect" id="node27" href="$df/dd4/_paass_exceptions_8hpp.html" title="Class to handle errors occurring during the execution of the code This file will break with the One&#45;C..." alt="" coords="1211,528,1360,555"/>
+<area shape="rect" id="node32" href="$d5/d2d/_places_8hpp.html" title="Defines the various places for the TreeCorrelator. " alt="" coords="1619,229,1706,256"/>
+<area shape="rect" id="node40" href="$db/dc4/_place_builder_8hpp.html" title="Defines the various places for the TreeCorrelator. " alt="" coords="1199,155,1319,181"/>
+<area shape="rect" id="node36" href="$d4/d9c/_globals_8hpp.html" title="constant parameters used in pixie16 analysis " alt="" coords="1439,379,1529,405"/>
+<area shape="rect" id="node39" href="$dd/d77/_event_data_8hpp.html" title="Structure holding event data. " alt="" coords="1299,304,1408,331"/>
+<area shape="rect" id="node38" href="$dc/d77/_constants_8hpp.html" title="A header that contains various useful constants for the software. " alt="" coords="1541,453,1648,480"/>
+</map>

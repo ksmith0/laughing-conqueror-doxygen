@@ -1,0 +1,20 @@
+<map id="TemplateExpProcessor::Process" name="TemplateExpProcessor::Process">
+<area shape="rect" id="node2" href="$d6/d65/class_event_processor.html#ae2d41a947da0cb509fd0ca85f6caa0fc" title="EventProcessor::Process" alt="" coords="236,5,407,32"/>
+<area shape="rect" id="node3" href="$d6/d65/class_event_processor.html#a301eb8d69b3ceeeb4e69ce84a685f5a1" title="EventProcessor::EndProcess" alt="" coords="479,31,673,57"/>
+<area shape="rect" id="node4" href="$dc/d32/class_raw_event.html#a0405b96da430f69eb01fc8a7668420cc" title="Get a pointer to a specific detector summary. " alt="" coords="237,107,405,133"/>
+<area shape="rect" id="node6" href="$da/d8d/class_detector_summary.html#ade277162067150739e660ab74cc9082d" title="DetectorSummary::GetList" alt="" coords="232,157,411,184"/>
+<area shape="rect" id="node7" href="$de/d91/class_detector_driver.html#a374a759674faebb18f7a2b4fa06c7a70" title="DetectorDriver::get" alt="" coords="255,208,388,235"/>
+<area shape="rect" id="node8" href="$de/d91/class_detector_driver.html#a6ce198d768456df664cf8ebab4bdbcb0" title="DetectorDriver::GetProcessor" alt="" coords="224,259,419,285"/>
+<area shape="rect" id="node9" href="$d6/d65/class_event_processor.html#ad5201bb392726e409ba2a6ac44e764d8" title="Implementation of the plot command to interface with the DAMM routines. " alt="" coords="249,309,393,336"/>
+<area shape="rect" id="node13" href="$d3/d2c/class_tree_correlator.html#a4f70fdbb0d6dead4212d8e926ce1755f" title="TreeCorrelator::get" alt="" coords="256,360,387,387"/>
+<area shape="rect" id="node14" href="$d3/d2c/class_tree_correlator.html#aadf6cf8c8bedbbde03fb678667c7cb01" title="TreeCorrelator::place" alt="" coords="249,411,393,437"/>
+<area shape="rect" id="node15" href="$dd/d21/class_place.html#adbd2dfae258717a40107ad34ebe248c1" title="Place::status" alt="" coords="272,461,371,488"/>
+<area shape="rect" id="node16" href="$d3/daf/class_globals.html#ae66fa0173342202c96b13d71a6522512" title="Instance is created upon first call. " alt="" coords="275,512,367,539"/>
+<area shape="rect" id="node17" href="$d3/daf/class_globals.html#a02ea3605db675e1c5504de0ff317d16b" title="Globals::GetClockInSeconds" alt="" coords="226,563,417,589"/>
+<area shape="rect" id="node18" href="$df/d3c/class_processed_xia_data.html#ab9364a5f0a990ef3f27baa902d1c6036" title="ProcessedXiaData::GetCalibrated\lEnergy" alt="" coords="212,614,431,655"/>
+<area shape="rect" id="node19" href="$df/d3c/class_processed_xia_data.html#a796159b153b67faaaaf00650d4469ab4" title="ProcessedXiaData::GetWalk\lCorrectedTime" alt="" coords="226,679,417,721"/>
+<area shape="rect" id="node5" href="$d6/dc9/class_messenger.html#a24d0db0aece5830b3de62310f5753be8" title="Messenger::detail" alt="" coords="513,107,639,133"/>
+<area shape="rect" id="node10" href="$d7/d8b/class_plots.html#a68849b82c8c7a5d57f972cbd8de83328" title="Plots into histogram defined by dammId. " alt="" coords="535,309,617,336"/>
+<area shape="rect" id="node11" href="$da/d57/_scanor_8hpp.html#a31aca3d0ff704e08f8f8968288ae7895" title="Defines the DAMM function to call for 1D hists */. " alt="" coords="721,284,804,311"/>
+<area shape="rect" id="node12" href="$da/d57/_scanor_8hpp.html#a8b0a662ebdb3f947ba8470bf89f11c3a" title="Defines the DAMM function to call for 2D hists */. " alt="" coords="729,335,797,361"/>
+</map>

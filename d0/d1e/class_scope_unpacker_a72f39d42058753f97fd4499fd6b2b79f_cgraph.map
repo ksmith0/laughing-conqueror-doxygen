@@ -1,0 +1,28 @@
+<map id="ScopeUnpacker::ProcessRawEvent" name="ScopeUnpacker::ProcessRawEvent">
+<area shape="rect" id="node2" href="$d2/ddd/class_xia_data.html#a94d10f0eb065dd14032b8b666bfcf663" title="XiaData::GetTrace" alt="" coords="293,5,423,32"/>
+<area shape="rect" id="node3" href="$d2/ddd/class_xia_data.html#afcf7210c72022a696a926259d1c5ff84" title="XiaData::GetModuleNumber" alt="" coords="265,56,451,83"/>
+<area shape="rect" id="node4" href="$d2/ddd/class_xia_data.html#a34bf9ef6f8f1dee918da2be675e7767a" title="XiaData::GetChannelNumber" alt="" coords="262,107,454,133"/>
+<area shape="rect" id="node5" href="$d6/dd5/namespace_trace_functions.html#a4e6a98c2348a06c85f67b17940bee370" title="Compute the trace baseline and its standard deviation. This function takes a data range in the event ..." alt="" coords="271,158,445,199"/>
+<area shape="rect" id="node8" href="$d6/dd5/namespace_trace_functions.html#a1eb6d96a9adf7e29d4a64ada805e1be7" title="This function finds the maximum bin and the value of the maximum bin for the provided vector..." alt="" coords="257,224,459,251"/>
+<area shape="rect" id="node9" href="$d6/dd5/namespace_trace_functions.html#a6daab655efadf36d330e22d7848eb89f" title="TraceFunctions::CalculateQdc" alt="" coords="259,275,457,301"/>
+<area shape="rect" id="node11" href="$df/d3c/class_processed_xia_data.html#a2d98ff813786abdb09ebc6bd22dbf48d" title="ProcessedXiaData::GetTrace" alt="" coords="752,325,945,352"/>
+<area shape="rect" id="node12" href="$dd/db7/class_trace.html#a46e45b1c4a587ce803d4a16c48845725" title="Trace::SetBaseline" alt="" coords="291,376,425,403"/>
+<area shape="rect" id="node13" href="$dd/db7/class_trace.html#ab4565c2bde026a6dc86c6611535036e1" title="Trace::SetMax" alt="" coords="304,427,412,453"/>
+<area shape="rect" id="node14" href="$dd/db7/class_trace.html#adf043f573d5a190bbe1213527f195bdf" title="Trace::SetQdc" alt="" coords="305,477,411,504"/>
+<area shape="rect" id="node15" href="$d0/d1e/class_scope_unpacker.html#a6f396dfd3e7a0c25de3d0919a1791a11" title="ScopeUnpacker::ProcessEvents" alt="" coords="252,528,464,555"/>
+<area shape="rect" id="node6" href="$d4/d06/namespace_statistics.html#a55bb7fafb2b9fe34fdbf0737e24824bb" title="Statistics::CalculateAverage" alt="" coords="514,195,702,221"/>
+<area shape="rect" id="node7" href="$d4/d06/namespace_statistics.html#ad9bea951fe502b219d59b68e667c37cd" title="Statistics::CalculateStandard\lDeviation" alt="" coords="512,129,704,170"/>
+<area shape="rect" id="node10" href="$d4/d06/namespace_statistics.html#a4aabbd7b3dd2f7463c51f1a74f0efe33" title="Do a quick and simple integration of the provided data using the trapezoidal rule. We will not be subtracting the baseline or anything like that to keep things general. " alt="" coords="517,275,699,301"/>
+<area shape="rect" id="node16" href="$d0/d1e/class_scope_unpacker.html#aa68f23ae94ba7bfe4aded8f36ef379b8" title="Plot the current event. " alt="" coords="535,528,681,555"/>
+<area shape="rect" id="node17" href="$d0/d1e/class_scope_unpacker.html#ab447049fc35d5d77992e5208335c1815" title="ScopeUnpacker::ResetGraph" alt="" coords="752,427,945,453"/>
+<area shape="rect" id="node18" href="$d8/da5/class_root_interface.html#ad369e92a08888d5f34b27a029bd9cdd4" title="RootInterface::get" alt="" coords="785,579,912,605"/>
+<area shape="rect" id="node20" href="$d8/da5/class_root_interface.html#a7d7a082954d93789c99e93bb29dc6dcb" title="RootInterface::ResetZoom" alt="" coords="1229,477,1407,504"/>
+<area shape="rect" id="node21" href="$d8/da5/class_root_interface.html#abfbf3ab2a2b3dec89614030175198c36" title="RootInterface::UpdateZoom" alt="" coords="995,528,1179,555"/>
+<area shape="rect" id="node23" href="$dd/db7/class_trace.html#adabf44308f34afb878504b0ed7ee0d0a" title="Trace::GetMaxInfo" alt="" coords="783,629,914,656"/>
+<area shape="rect" id="node24" href="$dd/db7/class_trace.html#a825c518af0ec6dcba45253c05b562a62" title="Trace::GetQdc" alt="" coords="795,680,903,707"/>
+<area shape="rect" id="node25" href="$dd/db7/class_trace.html#aeee6c9b5e253a8df3dd8fa81fccc104f" title="Trace::GetBaselineInfo" alt="" coords="771,731,927,757"/>
+<area shape="rect" id="node26" href="$d8/da5/class_root_interface.html#ab29db8e2b6a0fdae2e6fb5ce3ca74555" title="RootInterface::GetCanvas" alt="" coords="761,477,936,504"/>
+<area shape="rect" id="node19" href="$d8/da5/class_root_interface.html#a0a3fafffd865dcd011ee5dcc95600c26" title="RootInterface::RootInterface" alt="" coords="993,579,1181,605"/>
+<area shape="rect" id="node22" href="$dc/d06/_analysis_2_resources_2source_2_c_make_lists_8txt.html#a92407aa83aceb7e781743373bcb8035a" title="list" alt="" coords="1299,528,1337,555"/>
+<area shape="rect" id="node27" href="$d8/da5/class_root_interface.html#a44bce7d73b4f1505e0750da0681ef67c" title="RootInterface::IdleTask" alt="" coords="1008,427,1167,453"/>
+</map>

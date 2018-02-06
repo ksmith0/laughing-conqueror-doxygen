@@ -1,0 +1,8 @@
+<map id="DetectorSummary" name="DetectorSummary">
+<area shape="rect" id="node2" href="$d5/d91/class_chan_event.html" title="A channel event. " alt="" coords="29,355,115,382"/>
+<area shape="rect" id="node3" href="$df/d3c/class_processed_xia_data.html" title="ProcessedXiaData" alt="" coords="7,272,137,299"/>
+<area shape="rect" id="node4" href="$d2/ddd/class_xia_data.html" title="A pixie16 channel event. " alt="" coords="5,183,75,209"/>
+<area shape="rect" id="node6" href="$dd/db7/class_trace.html" title="This defines a more extensible implementation of a digitized trace. The class is derived from a vecto..." alt="" coords="113,183,167,209"/>
+<area shape="rect" id="node9" title="STL class. " alt="" coords="316,452,396,479"/>
+<area shape="rect" id="node10" title="STL class. " alt="" coords="293,348,419,389"/>
+</map>

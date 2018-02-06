@@ -1,0 +1,51 @@
+<map id="Display::ErrorStr" name="Display::ErrorStr">
+<area shape="rect" id="node2" href="$d5/d01/class_clover_processor.html#a50eae562dbdc21e5dac462d0a6474326" title="CloverProcessor::Process" alt="" coords="196,32,371,59"/>
+<area shape="rect" id="node3" href="$d9/d6d/copy__params_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="258,83,309,110"/>
+<area shape="rect" id="node4" href="$de/d91/class_detector_driver.html#a19c152206c95dfbc2a98ffd1d002165e" title="Control of the event processing. " alt="" coords="185,134,382,160"/>
+<area shape="rect" id="node10" href="$de/d91/class_detector_driver.html#a8810acdc149879688b81ec333531a28e" title="DetectorDriver::DeclarePlots" alt="" coords="188,235,379,262"/>
+<area shape="rect" id="node11" href="$db/d6c/class_utk_scan_interface.html#a97f114b210931247250458851cead748" title="UtkScanInterface::Initialize" alt="" coords="472,286,652,312"/>
+<area shape="rect" id="node13" href="$da/d6a/namespace_display.html#ad59fed09552cdea4f78fea07f06d7a4e" title="Display::StatusPrint" alt="" coords="214,336,353,363"/>
+<area shape="rect" id="node18" href="$d9/dc6/class_pixie_interface.html#ae470f4ea2b5e2955599a2e05a4d30e25" title="PixieInterface::Boot" alt="" coords="769,555,906,582"/>
+<area shape="rect" id="node21" href="$d6/db0/class_poll.html#a7bc77d04169be53d1a3553e0a55932d6" title="Acquire raw traces from a pixie module. " alt="" coords="1181,1112,1295,1139"/>
+<area shape="rect" id="node22" href="$db/d3b/class_lock.html#a7686e9075b7e825254b5d28cc65cd09a" title="Lock::Lock" alt="" coords="240,504,327,531"/>
+<area shape="rect" id="node23" href="$d4/def/class_m_c_a.html#ae638fbf7cf9c8dc94e1392095ada6686" title="Start the MCA running. " alt="" coords="520,1264,604,1291"/>
+<area shape="rect" id="node27" href="$d9/dc6/class_pixie_interface.html#a0c452e4ca18faa9f9efc4e2f6a5d5e6e" title="PixieInterface::PixieInterface" alt="" coords="742,475,933,502"/>
+<area shape="rect" id="node28" href="$d9/dc6/class_pixie_interface.html#a86056a241ef47239298a58e395dd284e" title="Parses the input from configuration file for the ModuleType tag. " alt="" coords="190,438,377,480"/>
+<area shape="rect" id="node29" href="$d9/dc6/class_pixie_interface.html#a48914508b045dc634d63c0ae3d761dfd" title="PixieInterface::ReadConfigurationFile" alt="" coords="443,446,681,472"/>
+<area shape="rect" id="node30" href="$d9/dc6/class_pixie_interface.html#a39be2bf3b422678b8cc4346fcbbffd2b" title="PixieInterface::GetSlots" alt="" coords="757,656,918,683"/>
+<area shape="rect" id="node31" href="$d9/dc6/class_pixie_interface.html#adb12c185e4b6c9af56917c4ea075255b" title="PixieInterface::AcquireTraces" alt="" coords="186,824,381,851"/>
+<area shape="rect" id="node35" href="$d9/dc6/class_pixie_interface.html#a09f8cdd93aa9d18d89a6b558badcee13" title="PixieInterface::ReadSglChan\lTrace" alt="" coords="188,758,379,800"/>
+<area shape="rect" id="node36" href="$d9/dc6/class_pixie_interface.html#aeec386e4e61685a5ce35e7761c1ec65e" title="PixieInterface::StartHistogramRun" alt="" coords="172,926,395,952"/>
+<area shape="rect" id="node37" href="$d9/dc6/class_pixie_interface.html#a8dc67906f07808c7ac10dcde5e521b94" title="PixieInterface::StartList\lModeRun" alt="" coords="204,977,363,1018"/>
+<area shape="rect" id="node38" href="$d9/dc6/class_pixie_interface.html#a56378c03d8fd7e559063a6519241d538" title="PixieInterface::CheckRun\lStatus" alt="" coords="197,1042,369,1084"/>
+<area shape="rect" id="node39" href="$d9/dc6/class_pixie_interface.html#a835561dc9e2ac27d045dcf1cd043fc9f" title="PixieInterface::EndRun" alt="" coords="205,1188,362,1215"/>
+<area shape="rect" id="node42" href="$d9/dc6/class_pixie_interface.html#a17af41261f095c91989bb9032888c314" title="PixieInterface::RemovePreset\lRunLength" alt="" coords="185,1384,382,1425"/>
+<area shape="rect" id="node43" href="$d9/dc6/class_pixie_interface.html#aaeb270efa120bd3053d80ffecaac2361" title="PixieInterface::ReadHistogram" alt="" coords="183,1594,384,1620"/>
+<area shape="rect" id="node48" href="$d6/db0/class_poll.html#adee13ef275973679b5524868be3cdc9c" title="Opens a new file if no file is currently open. " alt="" coords="212,875,355,902"/>
+<area shape="rect" id="node49" href="$d6/db0/class_poll.html#aa11d7496ff1d7eb58f6833822236bcac" title="Write a data spill to disk. " alt="" coords="506,1011,618,1038"/>
+<area shape="rect" id="node50" href="$d6/db0/class_poll.html#a8022b216f73f4f52a02ea89ad1b8851e" title="Set IN_SYNCH and SYNCH_WAIT parameters on all modules. " alt="" coords="774,707,901,734"/>
+<area shape="rect" id="node5" href="$de/d91/class_detector_driver.html#a3a556ab94a878e057dea8a081d0df55a" title="Plots into histogram defined by dammId. " alt="" coords="494,83,630,110"/>
+<area shape="rect" id="node9" href="$d4/d48/class_utk_unpacker.html#a09c96dd753088977aa1f458f7c07d24b" title="Process all events in the event list. " alt="" coords="729,184,945,211"/>
+<area shape="rect" id="node6" href="$de/d91/class_detector_driver.html#a2ae4e98c641d49183631eceb40dc19bb" title="Check threshold and calibrate each channel. Check the thresholds and calibrate the energy for each ch..." alt="" coords="738,134,937,160"/>
+<area shape="rect" id="node7" href="$de/d91/class_detector_driver.html#a7f2a28ba2a756e034e38630a5e258309" title="DetectorDriver::PlotRaw" alt="" coords="755,32,920,59"/>
+<area shape="rect" id="node8" href="$de/d91/class_detector_driver.html#ad966b8fe4330bb0cf117422b9bd08f40" title="DetectorDriver::PlotCal" alt="" coords="758,83,917,110"/>
+<area shape="rect" id="node12" href="$d1/dd5/utkscanor_8cpp.html#a09d29445a46de775722e95fcbe9eb20b" title="Defines the main interface with the SCANOR library, the program essentially starts here..." alt="" coords="529,235,595,262"/>
+<area shape="rect" id="node14" href="$db/d3b/class_lock.html#a6006ce3dff608bedbe348e9f44da4dac" title="Lock::Remove" alt="" coords="509,387,615,414"/>
+<area shape="rect" id="node15" href="$dc/d85/class_m_c_a___r_o_o_t.html#a2eb995cbd14ca173fcd5626395699033" title="Abstract method to open a storage file. " alt="" coords="483,336,641,363"/>
+<area shape="rect" id="node16" href="$d9/dc6/class_pixie_interface.html#a41e2b9bfda66a5ba3b89aabd11ec5b48" title="PixieInterface::CheckError" alt="" coords="474,555,650,582"/>
+<area shape="rect" id="node17" href="$d9/dc6/class_pixie_interface.html#a9f695ad3a74f5a6152008add271f7cde" title="PixieInterface::~PixieInterface" alt="" coords="738,606,937,632"/>
+<area shape="rect" id="node19" href="$d9/d36/adjust__offsets_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1038,606,1089,632"/>
+<area shape="rect" id="node20" href="$d6/db0/class_poll.html#a1353049de2d032ee6aabd8f1f714941d" title="Initialize the poll object. " alt="" coords="1013,656,1113,683"/>
+<area shape="rect" id="node24" href="$d4/def/class_m_c_a.html#a9ec349ada510437c6a7b629aa8289987" title="Check if the histogram construction was successful. " alt="" coords="786,1315,889,1342"/>
+<area shape="rect" id="node25" href="$da/d35/_m_c_a__exec_8cpp.html#a0ddf1224851353fc92bfbff6f499fa97" title="main" alt="" coords="1038,1290,1089,1316"/>
+<area shape="rect" id="node26" href="$d3/d7b/class_m_c_a__args.html#a23bf88ff490adb631bbafef3c4bc18e0" title="MCA_args::Initialize" alt="" coords="993,1378,1133,1404"/>
+<area shape="rect" id="node32" href="$d9/de0/class_trace_grabber.html#a6527914fde838914439895a7c30892a7" title="TraceGrabber::operator()" alt="" coords="480,808,644,835"/>
+<area shape="rect" id="node33" href="$d9/d55/trace_8cpp.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="812,808,863,835"/>
+<area shape="rect" id="node34" href="$dd/d57/class_get_traces.html#aedfb2ee758b9e8a11d2983486a474838" title="GetTraces::operator()" alt="" coords="489,859,635,886"/>
+<area shape="rect" id="node40" href="$d9/dc6/class_pixie_interface.html#a78ca1f0d92be311414e2615480a85eff" title="PixieInterface::GetStatisticsData" alt="" coords="455,1416,669,1443"/>
+<area shape="rect" id="node41" href="$d3/d7b/class_m_c_a__args.html#a2661f4a51cbd4832f4852cef67d0350e" title="MCA_args::Close" alt="" coords="1000,1112,1127,1139"/>
+<area shape="rect" id="node44" href="$d5/db3/class_m_c_a___d_a_m_m.html#a7a90b3f374684268b994eecf0a87d6c3" title="Abstract method describing how the MCA data is stored. " alt="" coords="479,1736,645,1763"/>
+<area shape="rect" id="node45" href="$de/d4b/class_histogram_reader.html#ae374117ef19ecca484d3f567ab7eb8e0" title="HistogramReader::operator()" alt="" coords="469,1568,655,1595"/>
+<area shape="rect" id="node46" href="$dc/d85/class_m_c_a___r_o_o_t.html#a96072a89e5a20e909bf42946519d1e34" title="Abstract method describing how the MCA data is stored. " alt="" coords="480,1619,644,1646"/>
+<area shape="rect" id="node47" href="$d3/dbb/class_pixie_interface_1_1_histogram.html#add4cc1e37b990311fc13869ae1c80143" title="PixieInterface::Histogram\l::Read" alt="" coords="477,1670,647,1712"/>
+</map>

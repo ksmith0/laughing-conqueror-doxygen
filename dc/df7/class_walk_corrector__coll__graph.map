@@ -1,0 +1,7 @@
+<map id="WalkCorrector" name="WalkCorrector">
+<area shape="rect" id="node3" href="$d6/d20/class_channel_configuration.html" title="ChannelConfiguration" alt="" coords="172,307,319,333"/>
+<area shape="rect" id="node4" href="$d1/d97/class_trap_filter_parameters.html" title="Simple class that holds trapezoidal filter parameters. " alt="" coords="5,187,149,213"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="248,96,328,123"/>
+<area shape="rect" id="node7" title="STL class. " alt="" coords="225,5,351,47"/>
+<area shape="rect" id="node9" href="$d6/dac/struct_correction_params.html" title="This structure holds walk calibration model identfier and vector of parameters needed for the functio..." alt="" coords="491,187,618,213"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Notebook::get" name="Notebook::get">
+<area shape="rect" id="node2" href="$d0/d51/class_notebook.html#a1ca045e919168c2c40fe04962c7b6800" title="Default constructor. " alt="" coords="157,81,300,108"/>
+<area shape="rect" id="node3" href="$d1/df9/class_xml_interface.html#a5a437bc25ac0f9ecc65cdebf6c664ad0" title="XmlInterface::get" alt="" coords="379,5,502,32"/>
+<area shape="rect" id="node5" href="$d1/df9/class_xml_interface.html#a3c935eddf6f5905cf461c1cef806e38a" title="XmlInterface::GetDocument" alt="" coords="348,56,533,83"/>
+<area shape="rect" id="node8" href="$d6/dc9/class_messenger.html#a24d0db0aece5830b3de62310f5753be8" title="Messenger::detail" alt="" coords="378,107,503,133"/>
+<area shape="rect" id="node9" href="$d0/d51/class_notebook.html#ab2073f499cef13062a385180fe0085bf" title="Notebook::currentDateTime" alt="" coords="349,157,532,184"/>
+<area shape="rect" id="node4" href="$d1/df9/class_xml_interface.html#a9924d1a9f16987091b58c70ed13a5718" title="XmlInterface::XmlInterface" alt="" coords="585,5,764,32"/>
+<area shape="rect" id="node6" href="$d1/df9/class_xml_interface.html#a9326df5bd548bd9a40b62dee6a2e3025" title="Default destructor that deletes the instance when its called. " alt="" coords="581,56,768,83"/>
+<area shape="rect" id="node7" href="$d1/df9/class_xml_interface.html#ac853fae42b1b3446a00a0d37e50d670d" title="copy constructor " alt="" coords="595,107,754,133"/>
+</map>
